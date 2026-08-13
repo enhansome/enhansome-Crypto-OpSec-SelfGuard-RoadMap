@@ -1,0 +1,258 @@
+{
+  "items": [
+    {
+      "description": "No, this guide is appropriate for owners of all of the possible coins, developers, shadowy super-coders and digital nomads: you may own Bitcoin, DOGE, Sol, XMR, ETH, NFT - anything. I tried to cover all the bases, and if you follow the links, you'll see that there are already a ton of fantastic answers to all of your queries!",
+      "items": [],
+      "title": "Why does this guide focus primarily on advice for EVM-based blockchains and cryptocurrencies based on them?"
+    },
+    {
+      "description": "Well, regarding big lists. Japan was the first country to invent the work that we do now in the form of SoKs or Awesome GitHub lists! If anyone is still around, browsers used to be sort of a table or database of websites, many of which were quite… uninspiring.\n«Antenna-websites» were created at that time. There, their authors gathered a variety of resources that were related by a common subject to make someone’s life easier! In some ways, the creators of Awesome Lists and start.me continue this idea now. And it's fantastically amazing!",
+      "items": [],
+      "title": "Why is this guide so big?"
+    },
+    {
+      "description": "Last but not least, everything you do is based on the outcomes you need to achieve! You should be able to select reliable and vetted sources instead of using all the tools and links. Through given routes, you ought to be able to construct your own journey! Following that, I will tell you about the ways that I deem safe and recommend to my clients! Safety professionals have spent decades developing this manual, sharing their expertise in every word. Once again, consider this guidebook to be a compilation of advice and routes.\nThe most important thing to understand here is the path of the cyber attack – its vector. Let's take a closer look at various problems associated with OpSec and its implementation to modern life!",
+      "items": [],
+      "title": "Why does this guide have many authors?"
+    },
+    {
+      "description": "Never do anything you do not understand. Always check which token you approve, transaction you sign, assets you send, etc - be extremely accurate while making any financial operation. Keep in mind that one of possible attack vectors is to put you in a situation that will encourage you to do smth (login or anything like that).",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "A curated list of privacy & security-focused software and services",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Astro",
+            "last_commit": "2026-08-10T19:53:00Z",
+            "owner": "lissy93",
+            "repo": "awesome-privacy",
+            "stars": 9728
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "YouTubeDrive",
+          "description": "& example",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Mathematica",
+            "last_commit": "2018-07-26T07:46:43Z",
+            "owner": "dzhang314",
+            "repo": "YouTubeDrive",
+            "stars": 1940
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "youbit",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Cython",
+            "last_commit": "2022-11-07T00:02:35Z",
+            "owner": "flonle",
+            "repo": "youbit",
+            "stars": 683
+          }
+        }
+      ],
+      "title": "Problem 7"
+    },
+    {
+      "description": "Be careful about using your real home address online for delivery purposes. Data breaches are now a daily occurrence, and many breaches include customer names and addresses. Your physical address is not as easily changeable as a phone number or email address, so be especially mindful about where you use it on the Internet.",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "DefaultCreds CheatSheet",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-07-09T10:09:24Z",
+            "owner": "ihebski",
+            "repo": "DefaultCreds-cheat-sheet",
+            "stars": 6713
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Physical crypto attacks",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2026-08-13T11:25:48Z",
+            "owner": "jlopp",
+            "repo": "physical-bitcoin-attacks",
+            "stars": 891
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "About If you want know, who use your computer when you are not nearby - PC Mouse Tracker",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2021-09-30T13:18:03Z",
+            "owner": "iterweb",
+            "repo": "watcher",
+            "stars": 48
+          }
+        }
+      ],
+      "title": "Problem 8"
+    },
+    {
+      "description": "Remain Vigilant - Create a culture of skepticism where they feel comfortable checking twice before clicking a link or responding to a request for sensitive information, and you’ll have a much more secure organization overall. Watch out physical attacks!",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "CreepDetector",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Jupyter Notebook",
+            "last_commit": "2021-05-06T01:20:52Z",
+            "owner": "skickar",
+            "repo": "CreepDetector",
+            "stars": 210
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Wardriving",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Jupyter Notebook",
+            "last_commit": "2023-03-30T16:48:59Z",
+            "owner": "AlexLynd",
+            "repo": "ESP8266-Wardriving",
+            "stars": 175
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Discord e2e encryption",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2019-08-01T12:44:21Z",
+            "owner": "mpgn",
+            "repo": "discord-e2e-encryption",
+            "stars": 95
+          }
+        }
+      ],
+      "title": "Problem 10"
+    },
+    {
+      "description": "Risk management: The process of identifying, assessing and controlling threats to an organization's capital and earnings. These risks stem from a variety of sources including financial uncertainties, legal liabilities, technology issues, strategic management errors, accidents and natural disasters.",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Guide to securing and improving privacy on macOS",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2026-08-10T06:00:04Z",
+            "owner": "drduh",
+            "repo": "macOS-Security-and-Privacy-Guide",
+            "stars": 22494
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "A collection of awesome security hardening guides, tools and other resources",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2026-05-05T21:38:04Z",
+            "owner": "decalage2",
+            "repo": "awesome-security-hardening",
+            "stars": 6507
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "This is a macOS hardening to read or set security configuration",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Shell",
+            "last_commit": "2024-11-14T13:37:43Z",
+            "owner": "ataumo",
+            "repo": "macos_hardening",
+            "stars": 157
+          }
+        }
+      ],
+      "title": "Problem 20"
+    },
+    {
+      "description": "Be aware of most common attacks. Follow hacker websites, latest security standards, check out what Nitrokey or YubiKey or Titan do and why. As a conclusion - read what is OSINT and counterOSINT so possible criminals won't be able to collect needed data.",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Physical Attacks",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2026-08-13T11:25:48Z",
+            "owner": "jlopp",
+            "repo": "physical-bitcoin-attacks",
+            "stars": 891
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Counter-OSINT Techniques",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2026-01-18T09:47:57Z",
+            "owner": "CScorza",
+            "repo": "OSINTAnonymous",
+            "stars": 473
+          }
+        }
+      ],
+      "title": "Problem 25"
+    },
+    {
+      "description": "Thank you! Stay safe!",
+      "items": [],
+      "title": ""
+    }
+  ],
+  "metadata": {
+    "last_updated": "2026-08-13T17:32:27.159Z",
+    "original_repository": "OffcierCia/Crypto-OpSec-SelfGuard-RoadMap",
+    "original_repository_sha": "8896398101d158d81b5481305f10c6f3a9bc0368",
+    "enhanced_repository": "enhansome/enhansome-Crypto-OpSec-SelfGuard-RoadMap",
+    "enhanced_repository_description": null,
+    "title": "Awesome Translations: with stars"
+  }
+}
