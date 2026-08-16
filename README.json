@@ -29,7 +29,7 @@
             "last_commit": "2026-08-15T12:27:50Z",
             "owner": "lissy93",
             "repo": "awesome-privacy",
-            "stars": 9735
+            "stars": 9739
           }
         },
         {
@@ -91,7 +91,7 @@
             "last_commit": "2026-08-13T11:25:48Z",
             "owner": "jlopp",
             "repo": "physical-bitcoin-attacks",
-            "stars": 892
+            "stars": 893
           }
         },
         {
@@ -139,7 +139,7 @@
             "last_commit": "2023-03-30T16:48:59Z",
             "owner": "AlexLynd",
             "repo": "ESP8266-Wardriving",
-            "stars": 175
+            "stars": 176
           }
         },
         {
@@ -173,7 +173,7 @@
             "last_commit": "2026-08-10T06:00:04Z",
             "owner": "drduh",
             "repo": "macOS-Security-and-Privacy-Guide",
-            "stars": 22495
+            "stars": 22484
           }
         },
         {
@@ -221,7 +221,7 @@
             "last_commit": "2026-08-13T11:25:48Z",
             "owner": "jlopp",
             "repo": "physical-bitcoin-attacks",
-            "stars": 892
+            "stars": 893
           }
         },
         {
@@ -248,7 +248,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-15T16:52:52.526Z",
+    "last_updated": "2026-08-16T16:53:35.059Z",
     "original_repository": "OffcierCia/Crypto-OpSec-SelfGuard-RoadMap",
     "original_repository_sha": "8896398101d158d81b5481305f10c6f3a9bc0368",
     "enhanced_repository": "enhansome/enhansome-Crypto-OpSec-SelfGuard-RoadMap",
