@@ -11,8 +11,8 @@
 
 # Awesome Translations: with stars
 
-* [Portuguese-Brazilian](https://github.com/OffcierCia/Crypto-OpSec-SelfGuard-RoadMap/blob/main/TranslationsOpSec/Portuguese.md) ⭐ 1,859 | 🐛 2 | 📅 2026-08-03
-* [French](https://github.com/OffcierCia/Crypto-OpSec-SelfGuard-RoadMap/blob/main/TranslationsOpSec/French.md) ⭐ 1,859 | 🐛 2 | 📅 2026-08-03
+* [Portuguese-Brazilian](https://github.com/OffcierCia/Crypto-OpSec-SelfGuard-RoadMap/blob/main/TranslationsOpSec/Portuguese.md) ⭐ 1,859 | 🐛 2 | 📅 2026-08-16
+* [French](https://github.com/OffcierCia/Crypto-OpSec-SelfGuard-RoadMap/blob/main/TranslationsOpSec/French.md) ⭐ 1,859 | 🐛 2 | 📅 2026-08-16
 
 # OpSec SelfGuard RoadMap
 
@@ -99,7 +99,7 @@ For example, if a Protonmail user sends an email to a Gmail user, the email is e
 * [Watch More](https://www.youtube.com/channel/UCYVU6rModlGxvJbszCclGGw)
 * [Read More on Email Encryption with Proton](https://proton.me/support/proton-mail-encryption-explained)
 * [Meta Secret Tool](https://github.com/meta-secret)
-* [Croc Tool](https://github.com/schollz/croc) ⭐ 39,820 | 🐛 9 | 🌐 Go | 📅 2026-08-16
+* [Croc Tool](https://github.com/schollz/croc) ⭐ 39,854 | 🐛 4 | 🌐 Go | 📅 2026-08-17
 
 > Don't forget that the VDS/RDP + VM combination can replace all of this, but it is not available to everyone. If you know how to do it correctly - choose this way. [Check out this article as well](https://www.techtarget.com/searchitoperations/tip/Understand-the-differences-between-VPS-vs-VPC).
 
@@ -160,8 +160,8 @@ Use passwords that are at least 8 characters in length, but a minimum of 12 is g
 <summary>Expand</summary>
 <br />
 
-* [Store SSH keys in the Secure Enclave!](https://github.com/maxgoedjen/secretive) ⭐ 8,765 | 🐛 167 | 🌐 Swift | 📅 2026-07-02
-* [Blockchain dark forest selfguard handbook](https://github.com/SunWeb3Sec/DeFiHackLabs/tree/main/academy/user_awareness/01_handbook/en) ⭐ 6,743 | 🐛 2 | 🌐 Solidity | 📅 2026-08-11
+* [Store SSH keys in the Secure Enclave!](https://github.com/maxgoedjen/secretive) ⭐ 8,771 | 🐛 167 | 🌐 Swift | 📅 2026-07-02
+* [Blockchain dark forest selfguard handbook](https://github.com/SunWeb3Sec/DeFiHackLabs/tree/main/academy/user_awareness/01_handbook/en) ⭐ 6,745 | 🐛 3 | 🌐 Solidity | 📅 2026-08-11
 * [A tool that allows user to create time bound backups for various cryptocurrencies](https://github.com/James-Sangalli/crypto-timelocked-backup) ⭐ 11 | 🐛 10 | 🌐 TypeScript | 📅 2025-03-20
 
 </details>
@@ -201,7 +201,7 @@ If you see suspicious password activity or failed log-ins on any of your account
 
 * [This article tells that when using BitWarden one have to audit server side cryptography primitives by himself and monitor for changes!](https://palant.info/2023/01/23/bitwarden-design-flaw-server-side-iterations)
 * [Secant](https://start.me/p/GEbM6z/secant)
-* [Awesome csirt](https://github.com/Spacial/awesome-csirt) ⭐ 644 | 🐛 4 | 🌐 C | 📅 2025-11-25
+* [Awesome csirt](https://github.com/Spacial/awesome-csirt) ⭐ 645 | 🐛 4 | 🌐 C | 📅 2025-11-25
 * [teachingprivacy.org](https://teachingprivacy.org/)
 * [securityinabox.org](https://securityinabox.org/en/)
 * [SecureYourselfNow](https://www.hoppersroppers.org/security/SecureYourselfNow/0-SecureYourselfNow.html)
@@ -213,7 +213,7 @@ If you see suspicious password activity or failed log-ins on any of your account
 
 **On the opposite:**
 
-> For 2FA one can use KeePass + Yubikey as well. KeePass allows setting up TOTP to any entry in your .kdbx file. Yubikey could be used in company with KeePass to add a bit of entropy on each re-encryption when adding an entry in your db file: [Ref No.1](https://developers.yubico.com/Developer_Program/Guides/Touch_triggered_OTP.html); [Ref No.2](https://www.reddit.com/r/KeePass/comments/opx34q/keepassxc_and_yubikeys_setting_up_the); [Ref No.3](https://github.com/keepassxreboot/keepassxc/discussions/6344) ⭐ 28,406 | 🐛 894 | 🌐 C++ | 📅 2026-08-12.
+> For 2FA one can use KeePass + Yubikey as well. KeePass allows setting up TOTP to any entry in your .kdbx file. Yubikey could be used in company with KeePass to add a bit of entropy on each re-encryption when adding an entry in your db file: [Ref No.1](https://developers.yubico.com/Developer_Program/Guides/Touch_triggered_OTP.html); [Ref No.2](https://www.reddit.com/r/KeePass/comments/opx34q/keepassxc_and_yubikeys_setting_up_the); [Ref No.3](https://github.com/keepassxreboot/keepassxc/discussions/6344) ⭐ 28,425 | 🐛 893 | 🌐 C++ | 📅 2026-08-12.
 
 <details>
 <summary>Expand</summary>
@@ -269,7 +269,7 @@ Hardware-based 2FA options are regarded as more secure than phone-based OTP opti
 
 **On the opposite:**
 
-> Aegis Authenticator is open source (licensed under GPL v3) and the source code [can be found here](http://github.com/beemdevelopment/Aegis) ⭐ 12,910 | 🐛 114 | 🌐 Java | 📅 2026-07-16. The issue with Authy is that it depends on a phone number which can be changed through an email request, allowing anyone access to HOTP/TOTP after an approximate 4-day wait period. To avoid that, disable multi-device function in Authy's settings!
+> Aegis Authenticator is open source (licensed under GPL v3) and the source code [can be found here](http://github.com/beemdevelopment/Aegis) ⭐ 12,915 | 🐛 114 | 🌐 Java | 📅 2026-07-16. The issue with Authy is that it depends on a phone number which can be changed through an email request, allowing anyone access to HOTP/TOTP after an approximate 4-day wait period. To avoid that, disable multi-device function in Authy's settings!
 
 <details>
 <summary>Expand</summary>
@@ -357,8 +357,8 @@ Ask yourself, what happens if my house catches on fire? What temperature is my s
 <summary>Expand</summary>
 <br />
 
-* [Authenticator app for storing your 2FA secrets](https://github.com/ente-io/auth/#readme) ⭐ 28,366 | 🐛 330 | 🌐 Dart | 📅 2026-08-15
-* [Awesome Security Hardening Guides](https://github.com/decalage2/awesome-security-hardening) ⭐ 6,509 | 🐛 125 | 📅 2026-05-05
+* [Authenticator app for storing your 2FA secrets](https://github.com/ente-io/auth/#readme) ⭐ 28,383 | 🐛 331 | 🌐 Dart | 📅 2026-08-17
+* [Awesome Security Hardening Guides](https://github.com/decalage2/awesome-security-hardening) ⭐ 6,510 | 🐛 125 | 📅 2026-05-05
 * [Android Forensics References](https://github.com/RealityNet/Android-Forensics-References) ⭐ 360 | 🐛 2 | 📅 2025-09-23
 * [iOS Forensics References](https://github.com/RealityNet/iOS-Forensics-References) ⭐ 236 | 🐛 2 | 📅 2023-12-01
 * Check out: [Portable Secret](https://mprimi.github.io/portable-secret) & [digi cloak](https://github.com/kaushalmeena/digi-cloak) ⭐ 81 | 🐛 0 | 🌐 TypeScript | 📅 2026-07-31
@@ -379,7 +379,7 @@ Never do anything you do not understand. Always check which token you approve, t
 
 > You can install Comodo or MalwareBytes antivirus but it won't help you if you do not understand them. Keep up your basic set of defending tools up to date. For ultra-secure comunications, run WhonixOS and [use Jabber (Adium, Psi+ or Xabber or ChatSecure) over Tor with OTR plug-in.](https://www.darknetstats.com/tutorial-xmpp-jabber-otr-over-tor) Or Matrix… Or, at least, configure telegram correctly…
 
-* [A curated list of privacy & security-focused software and services](https://github.com/Lissy93/awesome-privacy) ⭐ 9,739 | 🐛 2 | 🌐 Astro | 📅 2026-08-15
+* [A curated list of privacy & security-focused software and services](https://github.com/Lissy93/awesome-privacy) ⭐ 9,744 | 🐛 2 | 🌐 Astro | 📅 2026-08-17
 * [YouTubeDrive](https://github.com/dzhang314/YouTubeDrive) ⭐ 1,940 | 🐛 1 | 🌐 Mathematica | 📅 2018-07-26 & [example](https://www.youtube.com/watch?v=Fmm1AeYmbNU)
 * [youbit](https://github.com/MeViMo/youbit) ⭐ 682 | 🐛 4 | 🌐 Cython | 📅 2022-11-07
 * [Digital Communications Protocols](https://docs.google.com/spreadsheets/d/1-UlA4-tslROBDS9IqHalWVztqZo7uxlCeKPQ-8uoFOU/edit#gid=0)
@@ -407,7 +407,7 @@ OpSec isn't always a matter of survival! It manifests itself in a variety of way
 <br />
 
 * [An ultimate list of rules any on-chain survivor should follow to stay safe!](https://officercia.mirror.xyz/_nD1Rtxe1PplK-NQzIq9sl-KNtajQG0aKqYsV36RTjA)
-* [openvpn-install](https://github.com/Nyr/openvpn-install) ⭐ 20,615 | 🐛 0 | 🌐 Shell | 📅 2026-07-02
+* [openvpn-install](https://github.com/Nyr/openvpn-install) ⭐ 20,614 | 🐛 0 | 🌐 Shell | 📅 2026-07-02
 * [Juice jacking: Why you should avoid public phone charging stations](https://www.nbcnews.com/tech/security/juice-jacking-why-you-should-avoid-public-phone-charging-stations-n1132046)
 * [Throwingstar...](https://greatscottgadgets.com/throwingstar/)
 
@@ -448,7 +448,7 @@ Don't use 3rd party VPN, rent a VPS and bootstrap open source VPN server, it's 5
 
 At the same time, I believe that OpSec, in its broadest sense, does not function on half-measures, and it's critical to understand how to do things in a benchmark so you have something to fall back on.
 
-* [Guide to securing and improving privacy on macOS](https://github.com/drduh/macOS-Security-and-Privacy-Guide) ⭐ 22,484 | 🐛 8 | 📅 2026-08-10
+* [Guide to securing and improving privacy on macOS](https://github.com/drduh/macOS-Security-and-Privacy-Guide) ⭐ 22,487 | 🐛 9 | 📅 2026-08-16
 * [Set of utilities to manage BIP44-compatible Ethereum HD wallet](https://github.com/pavel-main/ethereum-hd-tools)
 * [The Last Laptop You'll Ever Need For Crypto](https://defieducation.substack.com/p/the-last-laptop-youll-ever-need-for)
 * [Nano-Painting: Encryption With Colours](https://medium.com/asecuritysite-when-bob-met-alice/nano-painting-encryption-with-colours-1d18a79ee942)
@@ -481,14 +481,14 @@ For mobile:
 * DivestOS; [Manual](https://en.wikipedia.org/wiki/DivestOS)
 * [Read](https://officercia.mirror.xyz/0uiAGM50rkQSvHbptcrVkCkyxsnewpAFIdu3oyga42Y)
 * [Comparing VeraCrypt and TrueCrypt with an unexpected result](https://book.cyberyozh.com/veracrypt-veracrypt-vs-truecrypt)
-* [Awesome Security Hardening Guides](https://github.com/decalage2/awesome-security-hardening) ⭐ 6,509 | 🐛 125 | 📅 2026-05-05
+* [Awesome Security Hardening Guides](https://github.com/decalage2/awesome-security-hardening) ⭐ 6,510 | 🐛 125 | 📅 2026-05-05
 * [Endian](https://www.endian.com/community/)
 
 Also check out:
 
-* [algoVPN](https://github.com/trailofbits/algo) ⭐ 30,351 | 🐛 77 | 🌐 Python | 📅 2026-08-12
-* [GoodbyeDPI](https://github.com/ValdikSS/GoodbyeDPI) ⭐ 28,572 | 🐛 147 | 🌐 C | 📅 2026-01-19
-* [rethink-app](https://github.com/celzero/rethink-app) ⭐ 5,290 | 🐛 619 | 🌐 Kotlin | 📅 2026-08-09
+* [algoVPN](https://github.com/trailofbits/algo) ⭐ 30,354 | 🐛 77 | 🌐 Python | 📅 2026-08-12
+* [GoodbyeDPI](https://github.com/ValdikSS/GoodbyeDPI) ⭐ 28,573 | 🐛 147 | 🌐 C | 📅 2026-01-19
+* [rethink-app](https://github.com/celzero/rethink-app) ⭐ 5,298 | 🐛 623 | 🌐 Kotlin | 📅 2026-08-09
 * [souin](https://github.com/darkweak/souin) ⭐ 990 | 🐛 70 | 🌐 Go | 📅 2026-07-28
 * [Teletun](https://github.com/PiMaker/Teletun) ⚠️ Archived
 * [anon-service](https://github.com/bit4mind/anon-service) ⭐ 13 | 🐛 0 | 🌐 Shell | 📅 2026-07-21
@@ -641,7 +641,7 @@ A lot of OpSec missteps can be avoided by being more aware of your surroundings 
 
 ### Problem 12
 
-Identify your sensitive data, including your product research, passwords, intellectual property, financial statements, customer information, and employee information. This will be the data you will need to focus your resources on protecting. Randomization, mimicry and entropy must accompany your every step and manifest itself in literally everything: as you can imagine, the law enforcers of different countries have long ago learned to analyze packets via [DPI](https://github.com/ValdikSS/GoodbyeDPI) ⭐ 28,572 | 🐛 147 | 🌐 C | 📅 2026-01-19 (to counter this you may use something like [this](https://github.com/PiMaker/Teletun) ⚠️ Archived or [this](https://github.com/zhenyolka/DPITunnel-androidhttps://github.com/zhenyolka/DPITunnel-android) or [VPN](https://officercia.mirror.xyz/x91hTIDFrAL0lgqICRgWU7fLouuCMgvopQ9ZRvRXCLg)), to match them with the post or message time and perform [timing attacks](https://officercia.mirror.xyz/WeAilwJ9V4GIVUkYa7WwBwV2II9dYwpdPTp3fNsPFjo) and then go to the ISP provider or telecommunications company.
+Identify your sensitive data, including your product research, passwords, intellectual property, financial statements, customer information, and employee information. This will be the data you will need to focus your resources on protecting. Randomization, mimicry and entropy must accompany your every step and manifest itself in literally everything: as you can imagine, the law enforcers of different countries have long ago learned to analyze packets via [DPI](https://github.com/ValdikSS/GoodbyeDPI) ⭐ 28,573 | 🐛 147 | 🌐 C | 📅 2026-01-19 (to counter this you may use something like [this](https://github.com/PiMaker/Teletun) ⚠️ Archived or [this](https://github.com/zhenyolka/DPITunnel-androidhttps://github.com/zhenyolka/DPITunnel-android) or [VPN](https://officercia.mirror.xyz/x91hTIDFrAL0lgqICRgWU7fLouuCMgvopQ9ZRvRXCLg)), to match them with the post or message time and perform [timing attacks](https://officercia.mirror.xyz/WeAilwJ9V4GIVUkYa7WwBwV2II9dYwpdPTp3fNsPFjo) and then go to the ISP provider or telecommunications company.
 
 Be smarter. Most likely in the future we will all have to face [AI](https://share-docs.clickup.com/25598832/d/h/rd6vg-14247/0b79ca1dc0f7429/rd6vg-12465) and Neural Network which were made specifically for finding people and information based on [OSINT](https://officercia.mirror.xyz/5KSkJOTgMtvgC36v1GqZ987N-_Oj_zwvGatOk0A47Ws) and similar (up to [Big Data](https://www.ledgerinsights.com/amex-visa-citi-back-80m-funding-for-trm-labs-blockchain-intelligence/)) methodologies, so the only thing that will save us is what separates humans from machines - our imagination and our capacity for illogical unpredictable actions.
 
@@ -649,7 +649,7 @@ Whatever you do, do it with some element of randomness. If you find it hard to c
 
 * [The Wiretap: How The FBI Digs Up Deleted WhatsApp Messages](https://www.forbes.com/sites/thomasbrewster/2023/05/23/the-wiretap-fbi-digs-up-deleted-whatsapp-messages/)
 * [anonymousplanet.org](https://anonymousplanet.org/)
-* [Android keyboard for secure E2EE communication through the signal protocol in any messenger](https://github.com/amnesica/KryptEY) ⭐ 875 | 🐛 22 | 🌐 Java | 📅 2024-04-21
+* [Android keyboard for secure E2EE communication through the signal protocol in any messenger](https://github.com/amnesica/KryptEY) ⭐ 876 | 🐛 22 | 🌐 Java | 📅 2024-04-21
 
 Maybe you can come up with your own solution based on [logic bomb](https://github.com/starius/logic-bomb/blob/master/logic_bomb.c) ⭐ 46 | 🐛 1 | 🌐 C | 📅 2015-10-07 and [canarytokens.org](https://canarytokens.org) with [tenderly.co](https://tenderly.co)! The tool previously described [has been hacked](https://www.theblock.co/amp/post/178418/ethereum-alarm-clocks-smart-contract-is-being-targeted-by-exploiters), use with caution and only if you know what you are doing. You can use [Escrow](https://github.com/JackBekket/escrow-eth/blob/master/contracts/EscrowAdvansed.sol) ⭐ 54 | 🐛 2 | 🌐 JavaScript | 📅 2022-04-05 and [Multisig](https://gnosis-safe.io) as a substitute for this.
 
@@ -680,7 +680,7 @@ Identify possible threats. For each category of information that you deem sensit
 * [AnonPlanet](https://anonymousplanet.org/links.html)
 * [censorship.no](https://censorship.no/)
 * [detect.expert](https://detect.expert/)
-* [WhatBreach](https://github.com/Ekultek/WhatBreach) ⭐ 1,650 | 🐛 16 | 🌐 Python | 📅 2025-08-14
+* [WhatBreach](https://github.com/Ekultek/WhatBreach) ⭐ 1,652 | 🐛 16 | 🌐 Python | 📅 2025-08-14
 
 **Offline/Radio + Crypto:**
 
@@ -821,8 +821,8 @@ Risk management: The process of identifying, assessing and controlling threats t
 <summary>Expand</summary>
 <br />
 
-* [Guide to securing and improving privacy on macOS](https://github.com/drduh/macOS-Security-and-Privacy-Guide) ⭐ 22,484 | 🐛 8 | 📅 2026-08-10
-* [A collection of awesome security hardening guides, tools and other resources](https://github.com/decalage2/awesome-security-hardening) ⭐ 6,509 | 🐛 125 | 📅 2026-05-05
+* [Guide to securing and improving privacy on macOS](https://github.com/drduh/macOS-Security-and-Privacy-Guide) ⭐ 22,487 | 🐛 9 | 📅 2026-08-16
+* [A collection of awesome security hardening guides, tools and other resources](https://github.com/decalage2/awesome-security-hardening) ⭐ 6,510 | 🐛 125 | 📅 2026-05-05
 * [This is a macOS hardening to read or set security configuration](https://github.com/ataumo/macos_hardening) ⭐ 157 | 🐛 2 | 🌐 Shell | 📅 2024-11-14
 * [Violent Attack Vectors in Web3: A Detailed Review](https://officercia.mirror.xyz/qfhQ_ocTPKnO5EqMlZ2ixIX7oBIfz5Tznid82EucbYk)
 * [Here's a List of 29 Different Types of USB Attacks](https://www.bleepingcomputer.com/news/security/heres-a-list-of-29-different-types-of-usb-attacks)
@@ -847,7 +847,7 @@ Malware can also have the functionality to "attack" a computer's clipboard. The 
 * [scan.tylabs.com](https://scan.tylabs.com)
 * [any.run](https://any.run)
 * [dangerzone.rocks](https://dangerzone.rocks)
-* [Malwoverview](https://github.com/alexandreborges/malwoverview) ⭐ 4,062 | 🐛 0 | 🌐 Python | 📅 2026-08-07
+* [Malwoverview](https://github.com/alexandreborges/malwoverview) ⭐ 4,064 | 🐛 0 | 🌐 Python | 📅 2026-08-07
 * [urlscan.io](https://urlscan.io)
 
 ***
@@ -992,7 +992,7 @@ Use a reliable RPC provide or run a light client or a full node:
 * [RPC-proxy](https://github.com/shark0der/rpc-proxy) ⭐ 25 | 🐛 0 | 🌐 JavaScript | 📅 2022-11-25
 * [Zmok](https://zmok.io)
 
-Check out this [awesome repo!](https://github.com/Msiusko/web3privacy) ⭐ 507 | 🐛 8 | 📅 2026-02-16
+Check out this [awesome repo!](https://github.com/Msiusko/web3privacy) ⭐ 507 | 🐛 9 | 📅 2026-02-16
 
 ***
 
@@ -1005,7 +1005,7 @@ Use trusted services. Using a secure, easy-to-use crypto wallet to interact with
 <br />
 
 * [The Only Safe Way to Store Crypto](https://officercia.mirror.xyz/p1ieZdxQWH4yHCNOXNPHyT8So1cY0X_wMGKwdmavi7s)
-* [Read More](https://github.com/OffcierCia/DeFi-Developer-Road-Map) ⭐ 10,805 | 🐛 5 | 🌐 JavaScript | 📅 2026-07-26
+* [Read More](https://github.com/OffcierCia/DeFi-Developer-Road-Map) ⭐ 10,805 | 🐛 5 | 🌐 JavaScript | 📅 2026-08-16
 * [Read More](https://blog.eduonix.com/cryptocurrency/cryptocurrency-security-checklist-investors-adopt/)
 * [How to protect your assets](https://mirror.xyz/crisgarner.eth/gJjASuCkbXJ1w574ePvJ3kNyWBZQfUyelMvsp4ujZ80)
 * [On Operational Security in Web3](https://0xrusowsky.substack.com/p/on-operational-security)
@@ -1069,8 +1069,8 @@ Pretend to be someone ordinary. For example, follow the legend that you are just
 
 **Also check out:**
 
-* [Awesome Security Hardening Guides](https://github.com/decalage2/awesome-security-hardening) ⭐ 6,509 | 🐛 125 | 📅 2026-05-05
-* [Privacy.sexy Repo](https://github.com/undergroundwires/privacy.sexy) ⭐ 5,942 | 🐛 251 | 🌐 TypeScript | 📅 2026-02-13
+* [Awesome Security Hardening Guides](https://github.com/decalage2/awesome-security-hardening) ⭐ 6,510 | 🐛 125 | 📅 2026-05-05
+* [Privacy.sexy Repo](https://github.com/undergroundwires/privacy.sexy) ⭐ 5,949 | 🐛 251 | 🌐 TypeScript | 📅 2026-02-13
 * [A collection of practical security-focused guides and checklists for smart contract development](https://github.com/nascentxyz/simple-security-toolkit) ⭐ 1,232 | 🐛 1 | 📅 2023-11-15
 * [AnonPlanet](https://anonymousplanet.org/links.html)
 * [Anon Guide](https://hackmd.io/@0xngmi/B1BXYIWCO) or via [this link](hackmd.io/YKjhguQES_KeKYs-v1YC1w?both)
@@ -1136,7 +1136,6 @@ Pretend to be someone ordinary. For example, follow the legend that you are just
 
 Support is **very** important to me, with it I can do what I love - educating DeFi & Crypto users!
 
-* [My Blog on Mirror](https://officercia.mirror.xyz/UpFfG7-1E4SDJttnmuQ7v4BMc4KrCXzo80vtx7qV-YY)
 * [My Blog on Medium](https://officercia.medium.com)
 
 The best thing is to support me directly by donating to any address from the list below:
@@ -1149,8 +1148,6 @@ The best thing is to support me directly by donating to any address from the lis
 
 * **LebuhjAPJLnLULAKsMgQEZC5E5q9TdvurJ** - LiteCoin
 
-* You can also support me by minting one of my [Mirror articles NFTs](https://officercia.mirror.xyz/)!
-
 **Much much thanks every single one of you!**
 
 ##
@@ -1159,4 +1156,4 @@ The best thing is to support me directly by donating to any address from the lis
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-16._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-17._
