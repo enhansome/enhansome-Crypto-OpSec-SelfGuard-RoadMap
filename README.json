@@ -1,255 +1,798 @@
 {
   "items": [
     {
-      "description": "No, this guide is appropriate for owners of all of the possible coins, developers, shadowy super-coders and digital nomads: you may own Bitcoin, DOGE, Sol, XMR, ETH, NFT - anything. I tried to cover all the bases, and if you follow the links, you'll see that there are already a ton of fantastic answers to all of your queries!",
-      "items": [],
-      "title": "Why does this guide focus primarily on advice for EVM-based blockchains and cryptocurrencies based on them?"
-    },
-    {
-      "description": "Well, regarding big lists. Japan was the first country to invent the work that we do now in the form of SoKs or Awesome GitHub lists! If anyone is still around, browsers used to be sort of a table or database of websites, many of which were quite… uninspiring.\n«Antenna-websites» were created at that time. There, their authors gathered a variety of resources that were related by a common subject to make someone’s life easier! In some ways, the creators of Awesome Lists and start.me continue this idea now. And it's fantastically amazing!",
-      "items": [],
-      "title": "Why is this guide so big?"
-    },
-    {
-      "description": "Last but not least, everything you do is based on the outcomes you need to achieve! You should be able to select reliable and vetted sources instead of using all the tools and links. Through given routes, you ought to be able to construct your own journey! Following that, I will tell you about the ways that I deem safe and recommend to my clients! Safety professionals have spent decades developing this manual, sharing their expertise in every word. Once again, consider this guidebook to be a compilation of advice and routes.\nThe most important thing to understand here is the path of the cyber attack – its vector. Let's take a closer look at various problems associated with OpSec and its implementation to modern life!",
-      "items": [],
-      "title": "Why does this guide have many authors?"
-    },
-    {
-      "description": "Never do anything you do not understand. Always check which token you approve, transaction you sign, assets you send, etc - be extremely accurate while making any financial operation. Keep in mind that one of possible attack vectors is to put you in a situation that will encourage you to do smth (login or anything like that).",
+      "description": "Special Thanks:\n| Special Notes:",
       "items": [
         {
-          "node_type": "item",
-          "title": "A curated list of privacy & security-focused software and services",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Astro",
-            "last_commit": "2026-08-17T13:17:19Z",
-            "owner": "lissy93",
-            "repo": "awesome-privacy",
-            "stars": 9748
-          }
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Symbiote Tool",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 259053705,
+                "language": "Python",
+                "last_commit": "2025-03-07T09:26:13Z",
+                "owner": "hasanfirnas",
+                "repo": "symbiote",
+                "stars": 1128
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Wholeaked Tool",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 452300927,
+                "language": "Go",
+                "last_commit": "2022-01-31T13:16:52Z",
+                "owner": "utkusen",
+                "repo": "wholeaked",
+                "stars": 1101
+              }
+            }
+          ],
+          "description": "Try not to enable such a psychological phenomenon as the tunnel effect, which refers us to the aviation psychology and flight psychology, to emerge and expand. When experienced pilots get overly focused on one item while disregarding or ignoring all other warnings, they have an accident. I hope you understood my guide correctly and did not allow this to happen. Be cautious, don't rush, and stay calm. When you are hungry, unwell, or defenseless, do not act on emotion. Do not confuse with a tunnel syndrome! Nonetheless, it is critical that you have no distractions and that you are healthy and well-fed.\nThis is all correct, but nothing stops you from doing a fork or ordering an independent audit of the tools you are going to use, does it? With all said, it all depends on what you are going to get in result and against whom you are acting.\nStudy Kerckhoffs's principle - The principle which holds that a cryptosystem should be secure, even if everything about the system, except the key, is public knowledge. This concept is widely embraced by cryptographers, in contrast to security through obscurity, which is not.\nLet’s say we deal with a Duress or Wasted tools. As such, it can be used wrong (e.g. weak password), or used to do bad things (e.g., exfiltrate intellectual property). On the opposite, we can just use Steganography and a small paper, without even touching the computer. Both attitudes have the right to exist, in my honest opinion! All of the above refers to the criticism of tools as such and their role in OpSec.\nI highly recommend to purchase a hardware wallet directly from the manufacturer's website rather than online retailers like Amazon/eBay. It is also advised to use an alternative email address or a virtual office to protect your personal information in case of a data leak. I also don’t like trusting hardware. Therefore, we all should have physical ciphers! Once again, study Steganography!",
+          "node_type": "group",
+          "title": "What do I need for a perfect OpSec?"
         },
         {
-          "node_type": "item",
-          "title": "YouTubeDrive",
-          "description": "& example",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Mathematica",
-            "last_commit": "2018-07-26T07:46:43Z",
-            "owner": "dzhang314",
-            "repo": "YouTubeDrive",
-            "stars": 1940
-          }
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Store SSH keys in the Secure Enclave!",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 241524703,
+                "language": "Swift",
+                "last_commit": "2026-08-19T08:42:13Z",
+                "owner": "maxgoedjen",
+                "repo": "secretive",
+                "stars": 8778
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Blockchain dark forest selfguard handbook",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 501990676,
+                "language": "Solidity",
+                "last_commit": "2026-08-18T05:31:42Z",
+                "owner": "SunWeb3Sec",
+                "repo": "DeFiHackLabs",
+                "stars": 6748
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "A tool that allows user to create time bound backups for various cryptocurrencies",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 581700458,
+                "language": "TypeScript",
+                "last_commit": "2025-03-20T21:20:58Z",
+                "owner": "JamesANZ",
+                "repo": "crypto-timelocked-backup",
+                "stars": 11
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Unredacter Tool",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 420161012,
+                "language": "TypeScript",
+                "last_commit": "2024-03-15T00:35:43Z",
+                "owner": "BishopFox",
+                "repo": "unredacter",
+                "stars": 8369
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "IT security lecture",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 136597310,
+                "language": null,
+                "last_commit": "2023-08-18T22:41:18Z",
+                "owner": "bkimminich",
+                "repo": "it-security-lecture",
+                "stars": 377
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Awesome wifi security",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 66666315,
+                "language": null,
+                "last_commit": "2019-04-10T16:47:06Z",
+                "owner": "edelahozuah",
+                "repo": "awesome-wifi-security",
+                "stars": 173
+              }
+            }
+          ],
+          "description": "Use different emails and different strong passwords. Never reuse passwords, especially for accounts with personally identifiable and sensitive information (e.g. Facebook, Gmail, AppleID, Twitter, banks/payments, crypto accounts).\nUse passwords that are at least 8 characters in length, but a minimum of 12 is generally recommended for memorization. Along with that, if using memorization, ensure that a minimum complexity requirement is met: which means having an uppercase character, a lowercase character, a digit, and a non-alphabetic character.\nFor a perfect-level privacy, always generate complex passwords and write them down on a notebook. It takes time but saves headache. Somewhere along the line, the 'stop writing passwords on sticky notes' narrative got misinterpreted as 'never write them down'. There's nuance to it!\nUsing a string of unrelated words while still meeting the dictionary requirement makes it easy to have an extremely secure password while still being able to remember it. If fully relying on a password manager, a password of 20+ characters in length that is randomly generated can be used.\nIf you see suspicious password activity or failed log-ins on any of your accounts, change all of your passwords, starting with sensitive and authorization accounts, such as your primary email and bank/crypto accounts.\nKeePass or Keepassx or KeePassDX or KeePassXC or BitWarden are good options. I also found this tutorial for integrity check (and other checks) very helpful, be sure to check it out as well: link.\nOn the opposite:\nFor 2FA one can use KeePass + Yubikey as well. KeePass allows setting up TOTP to any entry in your .kdbx file. Yubikey could be used in company with KeePass to add a bit of entropy on each re-encryption when adding an entry in your db file: Ref No.1; Ref No.2; Ref No.3.",
+          "node_type": "group",
+          "title": "Problem 2"
         },
         {
-          "node_type": "item",
-          "title": "youbit",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Cython",
-            "last_commit": "2022-11-07T00:02:35Z",
-            "owner": "flonle",
-            "repo": "youbit",
-            "stars": 682
-          }
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Authenticator app for storing your 2FA secrets",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 560284721,
+                "language": "Dart",
+                "last_commit": "2026-08-19T11:46:58Z",
+                "owner": "ente",
+                "repo": "ente",
+                "stars": 28412
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Awesome Security Hardening Guides",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 184064793,
+                "language": null,
+                "last_commit": "2026-05-05T21:38:04Z",
+                "owner": "decalage2",
+                "repo": "awesome-security-hardening",
+                "stars": 6513
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Android Forensics References",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 533161728,
+                "language": null,
+                "last_commit": "2025-09-23T21:37:54Z",
+                "owner": "RealityNet",
+                "repo": "Android-Forensics-References",
+                "stars": 360
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "iOS Forensics References",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 627820495,
+                "language": null,
+                "last_commit": "2023-12-01T10:12:47Z",
+                "owner": "RealityNet",
+                "repo": "iOS-Forensics-References",
+                "stars": 237
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Check out: Portable Secret",
+              "description": "& digi cloak",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 369786491,
+                "language": "TypeScript",
+                "last_commit": "2026-07-31T07:15:13Z",
+                "owner": "kaushalmeena",
+                "repo": "digi-cloak",
+                "stars": 81
+              }
+            }
+          ],
+          "description": "Offline (better - physical) backups. Store them in a safe. Can be written on paper, but recommended to be etched or laser-printed into metal. Always be sure to have a backup stored somewhere safe if your threat model allows for that.\nIn cryptography, format-preserving encryption (FPE), refers to encrypting in such a way that the output (the ciphertext) is in the same format as the input (the plaintext). The meaning of \"format\" varies. Typically only finite sets of characters are used; numeric, alphabetic or alphanumeric.\nAsk yourself, what happens if my house catches on fire? What temperature is my safe rated to? Some individuals find a safety deposit box handy.",
+          "node_type": "group",
+          "title": "Problem 6"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "A curated list of privacy & security-focused software and services",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 512269935,
+                "language": "Astro",
+                "last_commit": "2026-08-17T13:17:19Z",
+                "owner": "lissy93",
+                "repo": "awesome-privacy",
+                "stars": 9751
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "YouTubeDrive",
+              "description": "& example",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 94035182,
+                "language": "Mathematica",
+                "last_commit": "2018-07-26T07:46:43Z",
+                "owner": "dzhang314",
+                "repo": "YouTubeDrive",
+                "stars": 1940
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "youbit",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 456664586,
+                "language": "Cython",
+                "last_commit": "2022-11-07T00:02:35Z",
+                "owner": "flonle",
+                "repo": "youbit",
+                "stars": 682
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Guide to securing and improving privacy on macOS",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 41654081,
+                "language": null,
+                "last_commit": "2026-08-19T05:00:06Z",
+                "owner": "drduh",
+                "repo": "macOS-Security-and-Privacy-Guide",
+                "stars": 22487
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "MacOS Security",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 269753140,
+                "language": "YAML",
+                "last_commit": "2026-08-18T18:07:10Z",
+                "owner": "usnistgov",
+                "repo": "macos_security",
+                "stars": 2447
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Mac Monitor",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 614452756,
+                "language": "Swift",
+                "last_commit": "2026-07-28T20:37:27Z",
+                "owner": "Brandon7CC",
+                "repo": "mac-monitor",
+                "stars": 1373
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "MacOS Secure Profiles",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 590674771,
+                "language": "Shell",
+                "last_commit": "2023-09-22T01:18:51Z",
+                "owner": "sambacha",
+                "repo": "macos-secure-profiles",
+                "stars": 13
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "algoVPN",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 58842707,
+                "language": "Python",
+                "last_commit": "2026-08-19T08:43:19Z",
+                "owner": "trailofbits",
+                "repo": "algo",
+                "stars": 30355
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "GoodbyeDPI",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 91493088,
+                "language": "C",
+                "last_commit": "2026-01-19T12:59:23Z",
+                "owner": "ValdikSS",
+                "repo": "GoodbyeDPI",
+                "stars": 28576
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "rethink-app",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 270683546,
+                "language": "Kotlin",
+                "last_commit": "2026-08-18T20:42:09Z",
+                "owner": "celzero",
+                "repo": "rethink-app",
+                "stars": 5307
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "souin",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 218724447,
+                "language": "Go",
+                "last_commit": "2026-07-28T09:13:43Z",
+                "owner": "darkweak",
+                "repo": "souin",
+                "stars": 990
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Teletun",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 78554405,
+                "language": "Python",
+                "last_commit": "2020-01-31T13:01:45Z",
+                "owner": "PiMaker",
+                "repo": "Teletun",
+                "stars": 352
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "anon-service",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 316360105,
+                "language": "Shell",
+                "last_commit": "2026-07-21T00:58:44Z",
+                "owner": "bit4mind",
+                "repo": "anon-service",
+                "stars": 13
+              }
+            }
+          ],
+          "description": "Never do anything you do not understand. Always check which token you approve, transaction you sign, assets you send, etc - be extremely accurate while making any financial operation. Keep in mind that one of possible attack vectors is to put you in a situation that will encourage you to do smth (login or anything like that).\nTip: Don't use Tails OS if you want to achieve anonymity on the network, choose Whonix OS together with Qubes OS or Whonix OS together with free and secure Linux and virtualization through KVM/Qemu!\nYou can install Comodo or MalwareBytes antivirus but it won't help you if you do not understand them. Keep up your basic set of defending tools up to date. For ultra-secure comunications, run WhonixOS and use Jabber (Adium, Psi+ or Xabber or ChatSecure) over Tor with OTR plug-in. Or Matrix… Or, at least, configure telegram correctly…\nOpSec isn't always a matter of survival! It manifests itself in a variety of ways: at work, in everyday life, in communication, in DAO work, in conferences, and so on. You may be surprised to learn that there is no perfect solution. The strategies and tactics differ greatly and are dependent on you and what you need to achieve.\nI'm only offering you a set of tools and guidelines to hunt for information; the rest is up to you! No one can create your security wall better than you, and learning OpSec does not require you to become a hostile, distrustful cryptopunk and abuse it to the extreme: you might find something that works for you.\nA VPN (Virtual Private Network) is an application that increases your online security and privacy. It creates an encrypted tunnel by redirecting your traffic and hides personal data, information and browsing history. Many of us do not know where to start when choosing a VPN, but I will help you in this, remember main key principles:\nOne helpful sheet created by someone comparing VPNs in detail is here!\nMullvad does a few things differently than most other VPNs, such as allowing cash payments and not requiring an email address to create an account. One may also wonder: Isn't WireGuard less safe than OpenVPN, since logs are kept for WireGuard (at least temporary? Well, If you have multiple users you have to make an additional gateway with additional IP address. Like in Nordlynx. But out of the box you cant say that OpenVPN is more safe. It's more difficult to configure it so misconfiguration may be an issue. With all said, I prefer mullvad.net + oVPN.\nThere is a take that you should never use VPN services and run your own VPS/VPN only! Check out this resource!\nAnother Option — Setting Up a Hardware VPN. If you area VPN enjoyer I’d strongly consider you look at affordable hardware options, for example, the gl-mt1300 is a cheap and very nice piece of kit, easy way to protect your home network from threats without relying on running software locally. It may seem overkill but the options of TOR or Mullvad and general WireGuard, and measures to stop DNS leakage make it quite a nice useful piece of kit!\nIt is important to note that you can achieve the same thing by installing oVPN Mullvad (or another service you trust / your own VPN) configuration on your home router! You should also keep in mind the basic rule: the VPN is your buddy and will keep you safe from a wide range of threats, including even several WiFi and physical attacks. I hope this short note helps you decide!\nOn the opposite:\nDon't use 3rd party VPN, rent a VPS and bootstrap open source VPN server, it's 5 min!\nAt the same time, I believe that OpSec, in its broadest sense, does not function on half-measures, and it's critical to understand how to do things in a benchmark so you have something to fall back on.\nAfter all, one key rule that almost never gets emphasized is \"always be aware of what rule you're breaking, why, and how it may affect you in case of an assault or other problems. In any case, it is critical to understand where the boundaries of this \"standard of OpSec & security\" lie, which I will attempt to do via the lens of many approaches, which I will attempt to express in such a way that they are universal.\nOn the opposite:\nTend to use:\nyou can use Apple Configurator and create a blueprint to ensure conformance (trusting they apply it)\nFor mobile:\nAlso check out:\nImportant OpSec Tip:\nAvoid installing any third-party software, including single-player and multiplayer games, on your primary (for work/crypto) computer or phone:",
+          "node_type": "group",
+          "title": "Problem 7"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "DefaultCreds CheatSheet",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 326038947,
+                "language": "Python",
+                "last_commit": "2026-07-09T10:09:24Z",
+                "owner": "ihebski",
+                "repo": "DefaultCreds-cheat-sheet",
+                "stars": 6717
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Physical crypto attacks",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 140097891,
+                "language": null,
+                "last_commit": "2026-08-13T11:25:48Z",
+                "owner": "jlopp",
+                "repo": "physical-bitcoin-attacks",
+                "stars": 893
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "About If you want know, who use your computer when you are not nearby - PC Mouse Tracker",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 288392278,
+                "language": "Python",
+                "last_commit": "2021-09-30T13:18:03Z",
+                "owner": "iterweb",
+                "repo": "watcher",
+                "stars": 48
+              }
+            }
+          ],
+          "description": "Be careful about using your real home address online for delivery purposes. Data breaches are now a daily occurrence, and many breaches include customer names and addresses. Your physical address is not as easily changeable as a phone number or email address, so be especially mindful about where you use it on the Internet.\nIf you’re ordering pizza with crypto, order it for pickup instead of delivery. When online shopping, use a different (and publicly available) address for package delivery. Options here include your workplace or drop boxes at delivery service providers like FedEx and your local postal service.\nAlso:",
+          "node_type": "group",
+          "title": "Problem 8"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "CreepDetector",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 214523484,
+                "language": "Jupyter Notebook",
+                "last_commit": "2021-05-06T01:20:52Z",
+                "owner": "skickar",
+                "repo": "CreepDetector",
+                "stars": 210
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Wardriving",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 178940812,
+                "language": "Jupyter Notebook",
+                "last_commit": "2023-03-30T16:48:59Z",
+                "owner": "AlexLynd",
+                "repo": "ESP8266-Wardriving",
+                "stars": 176
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Discord e2e encryption",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 165284507,
+                "language": "JavaScript",
+                "last_commit": "2019-08-01T12:44:21Z",
+                "owner": "mpgn",
+                "repo": "discord-e2e-encryption",
+                "stars": 95
+              }
+            }
+          ],
+          "description": "Remain Vigilant - Create a culture of skepticism where they feel comfortable checking twice before clicking a link or responding to a request for sensitive information, and you’ll have a much more secure organization overall. Watch out physical attacks!",
+          "node_type": "group",
+          "title": "Problem 10"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Guide to securing and improving privacy on macOS",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 41654081,
+                "language": null,
+                "last_commit": "2026-08-19T05:00:06Z",
+                "owner": "drduh",
+                "repo": "macOS-Security-and-Privacy-Guide",
+                "stars": 22487
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "A collection of awesome security hardening guides, tools and other resources",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 184064793,
+                "language": null,
+                "last_commit": "2026-05-05T21:38:04Z",
+                "owner": "decalage2",
+                "repo": "awesome-security-hardening",
+                "stars": 6513
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "This is a macOS hardening to read or set security configuration",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 382088950,
+                "language": "Shell",
+                "last_commit": "2024-11-14T13:37:43Z",
+                "owner": "ataumo",
+                "repo": "macos_hardening",
+                "stars": 157
+              }
+            }
+          ],
+          "description": "Risk management: The process of identifying, assessing and controlling threats to an organization's capital and earnings. These risks stem from a variety of sources including financial uncertainties, legal liabilities, technology issues, strategic management errors, accidents and natural disasters.\nMany individuals from an organization can be in charge of different parts of the risk management process. Through this process, they can discover potential areas for a data breach or other threats. Understanding potential threat vectors is central to this process, as it allows them to be seen before they can be exploited.\nFor example: A hacker delivered a RAT (remote access trojan) onto the computer of an employee. If the RAT has a variety of capabilities, it could steal the cookies from the web browser, sift through files on the computer, and then exfiltrate that data to be sold on a darkweb market at a later date. The operational security steps mentioned in problems 1 through 10 should help prevent this from happening.\nAnother potential attack is called \"DNS Poisoning\". It is a \"highly deceptive cyber attack in which hackers redirect web traffic toward fake web servers and phishing websites\". A web page could appear that looks like a normal login page for a business like GMail, Kraken, etc., but in reality it could be a phishing site made to steal your login information (email/username/password).\nSeparate machines on the same network will not prevent this, as the traffic passes through the router for both machines, so the solution is to have separate networks and to verify website certificates. Some VPN providers use their own DNS servers through the software package they provide, so this could prevent this type of attack as well.\nMalware can also have the functionality to \"attack\" a computer's clipboard. The malware could check the clipboard at a set interval to see if any cryptocurrency addresses are detected in it. If they are, it would then replace the one in the clipboard with one of the hacker's cryptocurrency addresses, which means the cryptocurrency would then be sent to the hacker. The beginning and end may match, but this requires extra functionality on the part of the malware, as it would need to generate wallets on the fly and exfiltrate the keys to the hacker.",
+          "node_type": "group",
+          "title": "Problem 20"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "html vault",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 233909943,
+                "language": "Python",
+                "last_commit": "2024-10-24T11:39:32Z",
+                "owner": "dividuum",
+                "repo": "html-vault",
+                "stars": 156
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "digi cloak",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 369786491,
+                "language": "TypeScript",
+                "last_commit": "2026-07-31T07:15:13Z",
+                "owner": "kaushalmeena",
+                "repo": "digi-cloak",
+                "stars": 81
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Contracts for a wallet that is recoverable via backup keys",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 91194466,
+                "language": "TypeScript",
+                "last_commit": "2025-03-29T07:46:06Z",
+                "owner": "Zoltu",
+                "repo": "recoverable-wallet",
+                "stars": 51
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "logic bomb",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 43718424,
+                "language": "C",
+                "last_commit": "2015-10-07T00:57:17Z",
+                "owner": "starius",
+                "repo": "logic-bomb",
+                "stars": 46
+              }
+            }
+          ],
+          "description": "Your level of opsec usually depends on your threat model and which adversary you're up against. So it's hard to define how good your opsec is. But I'd say it sounds pretty okay. I recommend:\nIf you defiantly refuse to say who you are, it can make people angry that you’re upsetting social reciprocity. You know who they are, but they don’t know who you are. It feels rude. Read this article!\nThings to check out in any Airbnb/Booking property:\nRead:\nKeep in mind that cameras are frequently mounted with the mirror in the frame. This increases the camera's field of view. Check out ceiling as well. Also, keep in mind that the camera can be hidden in glasses, a cigarette pack, or a watch.\nCheck out:",
+          "node_type": "group",
+          "title": "Problem 21"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Helios",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 523436104,
+                "language": "Rust",
+                "last_commit": "2026-06-26T19:14:25Z",
+                "owner": "a16z",
+                "repo": "helios",
+                "stars": 2175
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Spook",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 584359190,
+                "language": "TypeScript",
+                "last_commit": "2026-07-28T13:11:55Z",
+                "owner": "EdenBlockVC",
+                "repo": "spook",
+                "stars": 56
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "RPC-proxy",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 570681127,
+                "language": "JavaScript",
+                "last_commit": "2022-11-25T21:10:25Z",
+                "owner": "shark0der",
+                "repo": "rpc-proxy",
+                "stars": 25
+              }
+            }
+          ],
+          "description": "Only Interact with DeFi Protocols You Trust - Take your time to read up on some previous concepts we’ve covered such as staking, yield farming, NFT farming, and research any other new terms you may come across before depositing crypto into a DApp that deploys any of these investment strategies.\nWallets Review:\nAwesome Tools:\nDon’t use Tornado and forget about it, but you can use:\nUse a reliable RPC provide or run a light client or a full node:\nCheck out this awesome repo!",
+          "node_type": "group",
+          "title": "Problem 23"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Physical Attacks",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 140097891,
+                "language": null,
+                "last_commit": "2026-08-13T11:25:48Z",
+                "owner": "jlopp",
+                "repo": "physical-bitcoin-attacks",
+                "stars": 893
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Counter-OSINT Techniques",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 576570079,
+                "language": null,
+                "last_commit": "2026-01-18T09:47:57Z",
+                "owner": "CScorza",
+                "repo": "OSINTAnonymous",
+                "stars": 473
+              }
+            },
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "Awesome Security Hardening Guides",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 184064793,
+                    "language": null,
+                    "last_commit": "2026-05-05T21:38:04Z",
+                    "owner": "decalage2",
+                    "repo": "awesome-security-hardening",
+                    "stars": 6513
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "Privacy.sexy Repo",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 231104091,
+                    "language": "TypeScript",
+                    "last_commit": "2026-02-13T10:55:07Z",
+                    "owner": "undergroundwires",
+                    "repo": "privacy.sexy",
+                    "stars": 5957
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "A collection of practical security-focused guides and checklists for smart contract development",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 479526508,
+                    "language": null,
+                    "last_commit": "2023-11-15T16:33:31Z",
+                    "owner": "nascentxyz",
+                    "repo": "simple-security-toolkit",
+                    "stars": 1234
+                  }
+                }
+              ],
+              "description": "Also check out:",
+              "node_type": "group",
+              "title": "My Articles:"
+            }
+          ],
+          "description": "Be aware of most common attacks. Follow hacker websites, latest security standards, check out what Nitrokey or YubiKey or Titan do and why. As a conclusion - read what is OSINT and counterOSINT so possible criminals won't be able to collect needed data.\nPretend to be someone ordinary. For example, follow the legend that you are just a developer of one of the games for Asian market (there are a lot of them), mimic a \"average person\" in everything - even in financial transactions/operations. Think like your possible enemy: forewarned is forearmed.\nCheck out this book & article!",
+          "node_type": "group",
+          "title": "Problem 25"
         }
       ],
-      "title": "Problem 7"
-    },
-    {
-      "description": "Be careful about using your real home address online for delivery purposes. Data breaches are now a daily occurrence, and many breaches include customer names and addresses. Your physical address is not as easily changeable as a phone number or email address, so be especially mindful about where you use it on the Internet.",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "DefaultCreds CheatSheet",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-07-09T10:09:24Z",
-            "owner": "ihebski",
-            "repo": "DefaultCreds-cheat-sheet",
-            "stars": 6717
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Physical crypto attacks",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": null,
-            "last_commit": "2026-08-13T11:25:48Z",
-            "owner": "jlopp",
-            "repo": "physical-bitcoin-attacks",
-            "stars": 893
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "About If you want know, who use your computer when you are not nearby - PC Mouse Tracker",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2021-09-30T13:18:03Z",
-            "owner": "iterweb",
-            "repo": "watcher",
-            "stars": 48
-          }
-        }
-      ],
-      "title": "Problem 8"
-    },
-    {
-      "description": "Remain Vigilant - Create a culture of skepticism where they feel comfortable checking twice before clicking a link or responding to a request for sensitive information, and you’ll have a much more secure organization overall. Watch out physical attacks!",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "CreepDetector",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Jupyter Notebook",
-            "last_commit": "2021-05-06T01:20:52Z",
-            "owner": "skickar",
-            "repo": "CreepDetector",
-            "stars": 210
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Wardriving",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Jupyter Notebook",
-            "last_commit": "2023-03-30T16:48:59Z",
-            "owner": "AlexLynd",
-            "repo": "ESP8266-Wardriving",
-            "stars": 176
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Discord e2e encryption",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2019-08-01T12:44:21Z",
-            "owner": "mpgn",
-            "repo": "discord-e2e-encryption",
-            "stars": 95
-          }
-        }
-      ],
-      "title": "Problem 10"
-    },
-    {
-      "description": "Risk management: The process of identifying, assessing and controlling threats to an organization's capital and earnings. These risks stem from a variety of sources including financial uncertainties, legal liabilities, technology issues, strategic management errors, accidents and natural disasters.",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "Guide to securing and improving privacy on macOS",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": null,
-            "last_commit": "2026-08-16T23:23:28Z",
-            "owner": "drduh",
-            "repo": "macOS-Security-and-Privacy-Guide",
-            "stars": 22487
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "A collection of awesome security hardening guides, tools and other resources",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": null,
-            "last_commit": "2026-05-05T21:38:04Z",
-            "owner": "decalage2",
-            "repo": "awesome-security-hardening",
-            "stars": 6512
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "This is a macOS hardening to read or set security configuration",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Shell",
-            "last_commit": "2024-11-14T13:37:43Z",
-            "owner": "ataumo",
-            "repo": "macos_hardening",
-            "stars": 157
-          }
-        }
-      ],
-      "title": "Problem 20"
-    },
-    {
-      "description": "Be aware of most common attacks. Follow hacker websites, latest security standards, check out what Nitrokey or YubiKey or Titan do and why. As a conclusion - read what is OSINT and counterOSINT so possible criminals won't be able to collect needed data.",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "Physical Attacks",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": null,
-            "last_commit": "2026-08-13T11:25:48Z",
-            "owner": "jlopp",
-            "repo": "physical-bitcoin-attacks",
-            "stars": 893
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Counter-OSINT Techniques",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": null,
-            "last_commit": "2026-01-18T09:47:57Z",
-            "owner": "CScorza",
-            "repo": "OSINTAnonymous",
-            "stars": 473
-          }
-        }
-      ],
-      "title": "Problem 25"
-    },
-    {
-      "description": "Thank you! Stay safe!",
-      "items": [],
-      "title": ""
+      "title": "OpSec SelfGuard RoadMap"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-18T16:59:37.641Z",
+    "last_updated": "2026-08-19T12:11:51.627Z",
     "original_repository": "OffcierCia/Crypto-OpSec-SelfGuard-RoadMap",
+    "original_repository_id": 379360003,
     "original_repository_sha": "f910b843317d34227ad80c6567b46eefb2c082c4",
     "enhanced_repository": "enhansome/enhansome-Crypto-OpSec-SelfGuard-RoadMap",
     "enhanced_repository_description": null,
