@@ -54,7 +54,7 @@
                 "last_commit": "2026-08-19T08:42:13Z",
                 "owner": "maxgoedjen",
                 "repo": "secretive",
-                "stars": 8778
+                "stars": 8780
               }
             },
             {
@@ -69,7 +69,7 @@
                 "last_commit": "2026-08-18T05:31:42Z",
                 "owner": "SunWeb3Sec",
                 "repo": "DeFiHackLabs",
-                "stars": 6748
+                "stars": 6749
               }
             },
             {
@@ -148,10 +148,10 @@
                 "archived": false,
                 "id": 560284721,
                 "language": "Dart",
-                "last_commit": "2026-08-19T11:46:58Z",
+                "last_commit": "2026-08-19T15:10:09Z",
                 "owner": "ente",
                 "repo": "ente",
-                "stars": 28412
+                "stars": 28416
               }
             },
             {
@@ -233,7 +233,7 @@
                 "last_commit": "2026-08-17T13:17:19Z",
                 "owner": "lissy93",
                 "repo": "awesome-privacy",
-                "stars": 9751
+                "stars": 9756
               }
             },
             {
@@ -353,7 +353,7 @@
                 "last_commit": "2026-01-19T12:59:23Z",
                 "owner": "ValdikSS",
                 "repo": "GoodbyeDPI",
-                "stars": 28576
+                "stars": 28579
               }
             },
             {
@@ -368,7 +368,7 @@
                 "last_commit": "2026-08-18T20:42:09Z",
                 "owner": "celzero",
                 "repo": "rethink-app",
-                "stars": 5307
+                "stars": 5308
               }
             },
             {
@@ -757,7 +757,7 @@
                     "last_commit": "2026-02-13T10:55:07Z",
                     "owner": "undergroundwires",
                     "repo": "privacy.sexy",
-                    "stars": 5957
+                    "stars": 5960
                   }
                 },
                 {
@@ -790,7 +790,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T12:11:51.627Z",
+    "last_updated": "2026-08-19T16:57:49.970Z",
     "original_repository": "OffcierCia/Crypto-OpSec-SelfGuard-RoadMap",
     "original_repository_id": 379360003,
     "original_repository_sha": "f910b843317d34227ad80c6567b46eefb2c082c4",
