@@ -32,7 +32,7 @@
                 "last_commit": "2022-01-31T13:16:52Z",
                 "owner": "utkusen",
                 "repo": "wholeaked",
-                "stars": 1101
+                "stars": 1100
               }
             }
           ],
@@ -54,7 +54,7 @@
                 "last_commit": "2026-08-19T08:42:13Z",
                 "owner": "maxgoedjen",
                 "repo": "secretive",
-                "stars": 8780
+                "stars": 8789
               }
             },
             {
@@ -69,7 +69,7 @@
                 "last_commit": "2026-08-18T05:31:42Z",
                 "owner": "SunWeb3Sec",
                 "repo": "DeFiHackLabs",
-                "stars": 6749
+                "stars": 6747
               }
             },
             {
@@ -129,7 +129,7 @@
                 "last_commit": "2019-04-10T16:47:06Z",
                 "owner": "edelahozuah",
                 "repo": "awesome-wifi-security",
-                "stars": 173
+                "stars": 174
               }
             }
           ],
@@ -148,10 +148,10 @@
                 "archived": false,
                 "id": 560284721,
                 "language": "Dart",
-                "last_commit": "2026-08-19T15:10:09Z",
+                "last_commit": "2026-08-20T16:51:39Z",
                 "owner": "ente",
                 "repo": "ente",
-                "stars": 28416
+                "stars": 28433
               }
             },
             {
@@ -166,7 +166,7 @@
                 "last_commit": "2026-05-05T21:38:04Z",
                 "owner": "decalage2",
                 "repo": "awesome-security-hardening",
-                "stars": 6513
+                "stars": 6515
               }
             },
             {
@@ -230,10 +230,10 @@
                 "archived": false,
                 "id": 512269935,
                 "language": "Astro",
-                "last_commit": "2026-08-17T13:17:19Z",
+                "last_commit": "2026-08-20T11:53:00Z",
                 "owner": "lissy93",
                 "repo": "awesome-privacy",
-                "stars": 9756
+                "stars": 9767
               }
             },
             {
@@ -278,7 +278,7 @@
                 "last_commit": "2026-08-19T05:00:06Z",
                 "owner": "drduh",
                 "repo": "macOS-Security-and-Privacy-Guide",
-                "stars": 22487
+                "stars": 22488
               }
             },
             {
@@ -290,10 +290,10 @@
                 "archived": false,
                 "id": 269753140,
                 "language": "YAML",
-                "last_commit": "2026-08-18T18:07:10Z",
+                "last_commit": "2026-08-20T14:57:32Z",
                 "owner": "usnistgov",
                 "repo": "macos_security",
-                "stars": 2447
+                "stars": 2448
               }
             },
             {
@@ -308,7 +308,7 @@
                 "last_commit": "2026-07-28T20:37:27Z",
                 "owner": "Brandon7CC",
                 "repo": "mac-monitor",
-                "stars": 1373
+                "stars": 1375
               }
             },
             {
@@ -338,7 +338,7 @@
                 "last_commit": "2026-08-19T08:43:19Z",
                 "owner": "trailofbits",
                 "repo": "algo",
-                "stars": 30355
+                "stars": 30356
               }
             },
             {
@@ -365,10 +365,10 @@
                 "archived": false,
                 "id": 270683546,
                 "language": "Kotlin",
-                "last_commit": "2026-08-18T20:42:09Z",
+                "last_commit": "2026-08-19T18:05:35Z",
                 "owner": "celzero",
                 "repo": "rethink-app",
-                "stars": 5308
+                "stars": 5314
               }
             },
             {
@@ -435,7 +435,7 @@
                 "last_commit": "2026-07-09T10:09:24Z",
                 "owner": "ihebski",
                 "repo": "DefaultCreds-cheat-sheet",
-                "stars": 6717
+                "stars": 6720
               }
             },
             {
@@ -539,7 +539,7 @@
                 "last_commit": "2026-08-19T05:00:06Z",
                 "owner": "drduh",
                 "repo": "macOS-Security-and-Privacy-Guide",
-                "stars": 22487
+                "stars": 22488
               }
             },
             {
@@ -554,7 +554,7 @@
                 "last_commit": "2026-05-05T21:38:04Z",
                 "owner": "decalage2",
                 "repo": "awesome-security-hardening",
-                "stars": 6513
+                "stars": 6515
               }
             },
             {
@@ -658,7 +658,7 @@
                 "last_commit": "2026-06-26T19:14:25Z",
                 "owner": "a16z",
                 "repo": "helios",
-                "stars": 2175
+                "stars": 2174
               }
             },
             {
@@ -742,7 +742,7 @@
                     "last_commit": "2026-05-05T21:38:04Z",
                     "owner": "decalage2",
                     "repo": "awesome-security-hardening",
-                    "stars": 6513
+                    "stars": 6515
                   }
                 },
                 {
@@ -757,7 +757,7 @@
                     "last_commit": "2026-02-13T10:55:07Z",
                     "owner": "undergroundwires",
                     "repo": "privacy.sexy",
-                    "stars": 5960
+                    "stars": 5964
                   }
                 },
                 {
@@ -772,7 +772,7 @@
                     "last_commit": "2023-11-15T16:33:31Z",
                     "owner": "nascentxyz",
                     "repo": "simple-security-toolkit",
-                    "stars": 1234
+                    "stars": 1235
                   }
                 }
               ],
@@ -790,7 +790,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T16:57:49.970Z",
+    "last_updated": "2026-08-20T17:02:46.943Z",
     "original_repository": "OffcierCia/Crypto-OpSec-SelfGuard-RoadMap",
     "original_repository_id": 379360003,
     "original_repository_sha": "f910b843317d34227ad80c6567b46eefb2c082c4",
