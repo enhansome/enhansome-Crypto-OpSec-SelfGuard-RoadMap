@@ -11,8 +11,8 @@
 
 # Awesome Translations: with stars
 
-* [Portuguese-Brazilian](https://github.com/OffcierCia/Crypto-OpSec-SelfGuard-RoadMap/blob/main/TranslationsOpSec/Portuguese.md) ⭐ 1,861 | 🐛 2 | 📅 2026-08-16
-* [French](https://github.com/OffcierCia/Crypto-OpSec-SelfGuard-RoadMap/blob/main/TranslationsOpSec/French.md) ⭐ 1,861 | 🐛 2 | 📅 2026-08-16
+* [Portuguese-Brazilian](https://github.com/OffcierCia/Crypto-OpSec-SelfGuard-RoadMap/blob/main/TranslationsOpSec/Portuguese.md) ⭐ 1,859 | 🐛 2 | 📅 2026-08-16
+* [French](https://github.com/OffcierCia/Crypto-OpSec-SelfGuard-RoadMap/blob/main/TranslationsOpSec/French.md) ⭐ 1,859 | 🐛 2 | 📅 2026-08-16
 
 # OpSec SelfGuard RoadMap
 
@@ -66,13 +66,13 @@ Let’s say we deal with a [Duress](https://play.google.com/store/apps/details?i
 
 > I highly recommend to purchase a hardware wallet directly from the manufacturer's website rather than online retailers like Amazon/eBay. It is also advised to use an alternative email address or a virtual office to protect your personal information in case of a data leak. I also don’t like trusting hardware. Therefore, we all should have physical ciphers! Once again, study Steganography!
 
-* [Symbiote Tool](https://github.com/hasanfirnas/symbiote) ⭐ 1,128 | 🐛 2 | 🌐 Python | 📅 2025-03-07
+* [Symbiote Tool](https://github.com/hasanfirnas/symbiote) ⭐ 1,130 | 🐛 2 | 🌐 Python | 📅 2025-03-07
 * [Wholeaked Tool](https://github.com/utkusen/wholeaked) ⭐ 1,100 | 🐛 1 | 🌐 Go | 📅 2022-01-31
 * [Check out this tool!](https://mprimi.github.io/portable-secret)
 
 ### **Why is this guide so big?**
 
-Well, regarding big lists. Japan was the first country to invent the work that we do now in the form of [SoKs](https://www.jsys.org/type_SoK/) or [Awesome GitHub lists](https://github.com/OffcierCia/ultimate-defi-research-base) ⭐ 2,209 | 🐛 1 | 📅 2026-03-14! If anyone is still around, browsers used to be sort of a table or database of websites, many of which were quite… uninspiring.
+Well, regarding big lists. Japan was the first country to invent the work that we do now in the form of [SoKs](https://www.jsys.org/type_SoK/) or [Awesome GitHub lists](https://github.com/OffcierCia/ultimate-defi-research-base) ⭐ 2,208 | 🐛 1 | 📅 2026-03-14! If anyone is still around, browsers used to be sort of a table or database of websites, many of which were quite… uninspiring.
 
 > This manual is the culmination of years of work by security professionals. Consider this guidebook to be a compilation of advice and routes.
 
@@ -99,7 +99,7 @@ For example, if a Protonmail user sends an email to a Gmail user, the email is e
 * [Watch More](https://www.youtube.com/channel/UCYVU6rModlGxvJbszCclGGw)
 * [Read More on Email Encryption with Proton](https://proton.me/support/proton-mail-encryption-explained)
 * [Meta Secret Tool](https://github.com/meta-secret)
-* [Croc Tool](https://github.com/schollz/croc) ⭐ 39,979 | 🐛 2 | 🌐 Go | 📅 2026-08-20
+* [Croc Tool](https://github.com/schollz/croc) ⭐ 40,002 | 🐛 3 | 🌐 Go | 📅 2026-08-21
 
 > Don't forget that the VDS/RDP + VM combination can replace all of this, but it is not available to everyone. If you know how to do it correctly - choose this way. [Check out this article as well](https://www.techtarget.com/searchitoperations/tip/Understand-the-differences-between-VPS-vs-VPC).
 
@@ -160,8 +160,8 @@ Use passwords that are at least 8 characters in length, but a minimum of 12 is g
 <summary>Expand</summary>
 <br />
 
-* [Store SSH keys in the Secure Enclave!](https://github.com/maxgoedjen/secretive) ⭐ 8,789 | 🐛 169 | 🌐 Swift | 📅 2026-08-19
-* [Blockchain dark forest selfguard handbook](https://github.com/SunWeb3Sec/DeFiHackLabs/tree/main/academy/user_awareness/01_handbook/en) ⭐ 6,747 | 🐛 3 | 🌐 Solidity | 📅 2026-08-18
+* [Store SSH keys in the Secure Enclave!](https://github.com/maxgoedjen/secretive) ⭐ 8,798 | 🐛 169 | 🌐 Swift | 📅 2026-08-19
+* [Blockchain dark forest selfguard handbook](https://github.com/SunWeb3Sec/DeFiHackLabs/tree/main/academy/user_awareness/01_handbook/en) ⭐ 6,749 | 🐛 2 | 🌐 Solidity | 📅 2026-08-21
 * [A tool that allows user to create time bound backups for various cryptocurrencies](https://github.com/James-Sangalli/crypto-timelocked-backup) ⭐ 11 | 🐛 10 | 🌐 TypeScript | 📅 2025-03-20
 
 </details>
@@ -174,7 +174,7 @@ Using a string of unrelated words while still meeting the dictionary requirement
 <summary>Expand</summary>
 <br />
 
-* [Unredacter Tool](https://github.com/BishopFox/unredacter) ⭐ 8,369 | 🐛 36 | 🌐 TypeScript | 📅 2024-03-15
+* [Unredacter Tool](https://github.com/BishopFox/unredacter) ⭐ 8,370 | 🐛 36 | 🌐 TypeScript | 📅 2024-03-15
 * [IT security lecture](https://github.com/bkimminich/it-security-lecture/) ⚠️ Archived
 * [Awesome wifi security](https://github.com/edelahozuah/awesome-wifi-security) ⭐ 174 | 🐛 2 | 📅 2019-04-10
 * [Wi-Fi Security A-Z](twitter.com/officer_cia/status/1566473017068331010)
@@ -213,7 +213,7 @@ If you see suspicious password activity or failed log-ins on any of your account
 
 **On the opposite:**
 
-> For 2FA one can use KeePass + Yubikey as well. KeePass allows setting up TOTP to any entry in your .kdbx file. Yubikey could be used in company with KeePass to add a bit of entropy on each re-encryption when adding an entry in your db file: [Ref No.1](https://developers.yubico.com/Developer_Program/Guides/Touch_triggered_OTP.html); [Ref No.2](https://www.reddit.com/r/KeePass/comments/opx34q/keepassxc_and_yubikeys_setting_up_the); [Ref No.3](https://github.com/keepassxreboot/keepassxc/discussions/6344) ⭐ 28,470 | 🐛 897 | 🌐 C++ | 📅 2026-08-12.
+> For 2FA one can use KeePass + Yubikey as well. KeePass allows setting up TOTP to any entry in your .kdbx file. Yubikey could be used in company with KeePass to add a bit of entropy on each re-encryption when adding an entry in your db file: [Ref No.1](https://developers.yubico.com/Developer_Program/Guides/Touch_triggered_OTP.html); [Ref No.2](https://www.reddit.com/r/KeePass/comments/opx34q/keepassxc_and_yubikeys_setting_up_the); [Ref No.3](https://github.com/keepassxreboot/keepassxc/discussions/6344) ⭐ 28,476 | 🐛 899 | 🌐 C++ | 📅 2026-08-12.
 
 <details>
 <summary>Expand</summary>
@@ -239,7 +239,7 @@ Never link phone numbers to crypto platforms. Use trusted multiple e-sims if you
 
 Ask them to NEVER make changes to your phone number/SIM unless you physically show up to a specific store with at minimum two forms of identification. This (should) prevent hackers from calling up AT\&T or T-Mobile or Vodafone, claiming to be you, and asking them to port your phone number to a new phone.
 
-> SERM/ORM (search engine reputation marketing or reputation management) and [Counter-OSINT](https://github.com/soxoj/counter-osint-guide-en) ⭐ 362 | 🐛 1 | 📅 2026-08-17 - **do** exist, and one of the most interesting areas of which is to work with adding fake or confusing information about yourself in "leakages" or, for example, attaching to your number 100+ names related to taxi services through various GetContact accounts, to confuse potential bad actors who will try to research data on you in the future, in preparation for an attack. Then, think up.
+> SERM/ORM (search engine reputation marketing or reputation management) and [Counter-OSINT](https://github.com/soxoj/counter-osint-guide-en) ⭐ 363 | 🐛 1 | 📅 2026-08-17 - **do** exist, and one of the most interesting areas of which is to work with adding fake or confusing information about yourself in "leakages" or, for example, attaching to your number 100+ names related to taxi services through various GetContact accounts, to confuse potential bad actors who will try to research data on you in the future, in preparation for an attack. Then, think up.
 
 **On the opposite:**
 
@@ -253,7 +253,7 @@ Ask them to NEVER make changes to your phone number/SIM unless you physically sh
 * [Read More](https://medium.com/the-business-of-crypto/fundamentals-of-opsec-in-crypto-7844ba701b1d)
 * [Intro to Web3 Security](https://n00bzunit3d.xyz/blog/intro-to-web3-security)
 * [Privacy and Scaling Explorations](https://mirror.xyz/privacy-scaling-explorations.eth)
-* [A collection of practical security-focused guides and checklists for smart contract development](https://github.com/nascentxyz/simple-security-toolkit) ⭐ 1,235 | 🐛 1 | 📅 2023-11-15
+* [A collection of practical security-focused guides and checklists for smart contract development](https://github.com/nascentxyz/simple-security-toolkit) ⭐ 1,233 | 🐛 1 | 📅 2023-11-15
 
 ***
 
@@ -269,7 +269,7 @@ Hardware-based 2FA options are regarded as more secure than phone-based OTP opti
 
 **On the opposite:**
 
-> Aegis Authenticator is open source (licensed under GPL v3) and the source code [can be found here](http://github.com/beemdevelopment/Aegis) ⭐ 12,934 | 🐛 115 | 🌐 Java | 📅 2026-07-16. The issue with Authy is that it depends on a phone number which can be changed through an email request, allowing anyone access to HOTP/TOTP after an approximate 4-day wait period. To avoid that, disable multi-device function in Authy's settings!
+> Aegis Authenticator is open source (licensed under GPL v3) and the source code [can be found here](http://github.com/beemdevelopment/Aegis) ⭐ 12,943 | 🐛 115 | 🌐 Java | 📅 2026-07-16. The issue with Authy is that it depends on a phone number which can be changed through an email request, allowing anyone access to HOTP/TOTP after an approximate 4-day wait period. To avoid that, disable multi-device function in Authy's settings!
 
 <details>
 <summary>Expand</summary>
@@ -357,8 +357,8 @@ Ask yourself, what happens if my house catches on fire? What temperature is my s
 <summary>Expand</summary>
 <br />
 
-* [Authenticator app for storing your 2FA secrets](https://github.com/ente-io/auth/#readme) ⭐ 28,433 | 🐛 291 | 🌐 Dart | 📅 2026-08-20
-* [Awesome Security Hardening Guides](https://github.com/decalage2/awesome-security-hardening) ⭐ 6,515 | 🐛 126 | 📅 2026-05-05
+* [Authenticator app for storing your 2FA secrets](https://github.com/ente-io/auth/#readme) ⭐ 28,445 | 🐛 273 | 🌐 Dart | 📅 2026-08-21
+* [Awesome Security Hardening Guides](https://github.com/decalage2/awesome-security-hardening) ⭐ 6,519 | 🐛 126 | 📅 2026-05-05
 * [Android Forensics References](https://github.com/RealityNet/Android-Forensics-References) ⭐ 360 | 🐛 2 | 📅 2025-09-23
 * [iOS Forensics References](https://github.com/RealityNet/iOS-Forensics-References) ⭐ 237 | 🐛 2 | 📅 2023-12-01
 * Check out: [Portable Secret](https://mprimi.github.io/portable-secret) & [digi cloak](https://github.com/kaushalmeena/digi-cloak) ⭐ 81 | 🐛 0 | 🌐 TypeScript | 📅 2026-07-31
@@ -379,7 +379,7 @@ Never do anything you do not understand. Always check which token you approve, t
 
 > You can install Comodo or MalwareBytes antivirus but it won't help you if you do not understand them. Keep up your basic set of defending tools up to date. For ultra-secure comunications, run WhonixOS and [use Jabber (Adium, Psi+ or Xabber or ChatSecure) over Tor with OTR plug-in.](https://www.darknetstats.com/tutorial-xmpp-jabber-otr-over-tor) Or Matrix… Or, at least, configure telegram correctly…
 
-* [A curated list of privacy & security-focused software and services](https://github.com/Lissy93/awesome-privacy) ⭐ 9,767 | 🐛 2 | 🌐 Astro | 📅 2026-08-20
+* [A curated list of privacy & security-focused software and services](https://github.com/Lissy93/awesome-privacy) ⭐ 9,771 | 🐛 3 | 🌐 Astro | 📅 2026-08-20
 * [YouTubeDrive](https://github.com/dzhang314/YouTubeDrive) ⭐ 1,940 | 🐛 1 | 🌐 Mathematica | 📅 2018-07-26 & [example](https://www.youtube.com/watch?v=Fmm1AeYmbNU)
 * [youbit](https://github.com/MeViMo/youbit) ⭐ 682 | 🐛 4 | 🌐 Cython | 📅 2022-11-07
 * [Digital Communications Protocols](https://docs.google.com/spreadsheets/d/1-UlA4-tslROBDS9IqHalWVztqZo7uxlCeKPQ-8uoFOU/edit#gid=0)
@@ -407,7 +407,7 @@ OpSec isn't always a matter of survival! It manifests itself in a variety of way
 <br />
 
 * [An ultimate list of rules any on-chain survivor should follow to stay safe!](https://officercia.mirror.xyz/_nD1Rtxe1PplK-NQzIq9sl-KNtajQG0aKqYsV36RTjA)
-* [openvpn-install](https://github.com/Nyr/openvpn-install) ⭐ 20,618 | 🐛 0 | 🌐 Shell | 📅 2026-07-02
+* [openvpn-install](https://github.com/Nyr/openvpn-install) ⭐ 20,617 | 🐛 0 | 🌐 Shell | 📅 2026-07-02
 * [Juice jacking: Why you should avoid public phone charging stations](https://www.nbcnews.com/tech/security/juice-jacking-why-you-should-avoid-public-phone-charging-stations-n1132046)
 * [Throwingstar...](https://greatscottgadgets.com/throwingstar/)
 
@@ -448,7 +448,7 @@ Don't use 3rd party VPN, rent a VPS and bootstrap open source VPN server, it's 5
 
 At the same time, I believe that OpSec, in its broadest sense, does not function on half-measures, and it's critical to understand how to do things in a benchmark so you have something to fall back on.
 
-* [Guide to securing and improving privacy on macOS](https://github.com/drduh/macOS-Security-and-Privacy-Guide) ⭐ 22,488 | 🐛 8 | 📅 2026-08-19
+* [Guide to securing and improving privacy on macOS](https://github.com/drduh/macOS-Security-and-Privacy-Guide) ⭐ 22,485 | 🐛 9 | 📅 2026-08-21
 * [Set of utilities to manage BIP44-compatible Ethereum HD wallet](https://github.com/pavel-main/ethereum-hd-tools)
 * [The Last Laptop You'll Ever Need For Crypto](https://defieducation.substack.com/p/the-last-laptop-youll-ever-need-for)
 * [Nano-Painting: Encryption With Colours](https://medium.com/asecuritysite-when-bob-met-alice/nano-painting-encryption-with-colours-1d18a79ee942)
@@ -457,7 +457,7 @@ At the same time, I believe that OpSec, in its broadest sense, does not function
 
 After all, one key rule that almost never gets emphasized is "always be aware of what rule you're breaking, why, and how it may affect you in case of an assault or other problems. In any case, it is critical to understand where the boundaries of this "standard of OpSec & security" lie, which I will attempt to do via the lens of many approaches, which I will attempt to express in such a way that they are universal.
 
-* [MacOS Security](https://github.com/usnistgov/macos_security) ⭐ 2,448 | 🐛 22 | 🌐 YAML | 📅 2026-08-20
+* [MacOS Security](https://github.com/usnistgov/macos_security) ⭐ 2,448 | 🐛 23 | 🌐 YAML | 📅 2026-08-20
 * [Mac Monitor](https://github.com/redcanaryco/mac-monitor) ⭐ 1,375 | 🐛 7 | 🌐 Swift | 📅 2026-07-28
 * [MacOS Secure Profiles](https://github.com/sambacha/macos-secure-profiles) ⭐ 13 | 🐛 0 | 🌐 Shell | 📅 2023-09-22
 * [Read this article!](https://mjg59.dreamwidth.org/66429.html)
@@ -481,15 +481,15 @@ For mobile:
 * DivestOS; [Manual](https://en.wikipedia.org/wiki/DivestOS)
 * [Read](https://officercia.mirror.xyz/0uiAGM50rkQSvHbptcrVkCkyxsnewpAFIdu3oyga42Y)
 * [Comparing VeraCrypt and TrueCrypt with an unexpected result](https://book.cyberyozh.com/veracrypt-veracrypt-vs-truecrypt)
-* [Awesome Security Hardening Guides](https://github.com/decalage2/awesome-security-hardening) ⭐ 6,515 | 🐛 126 | 📅 2026-05-05
+* [Awesome Security Hardening Guides](https://github.com/decalage2/awesome-security-hardening) ⭐ 6,519 | 🐛 126 | 📅 2026-05-05
 * [Endian](https://www.endian.com/community/)
 
 Also check out:
 
-* [algoVPN](https://github.com/trailofbits/algo) ⭐ 30,356 | 🐛 78 | 🌐 Python | 📅 2026-08-19
-* [GoodbyeDPI](https://github.com/ValdikSS/GoodbyeDPI) ⭐ 28,579 | 🐛 147 | 🌐 C | 📅 2026-01-19
-* [rethink-app](https://github.com/celzero/rethink-app) ⭐ 5,314 | 🐛 618 | 🌐 Kotlin | 📅 2026-08-19
-* [souin](https://github.com/darkweak/souin) ⭐ 990 | 🐛 71 | 🌐 Go | 📅 2026-07-28
+* [algoVPN](https://github.com/trailofbits/algo) ⭐ 30,357 | 🐛 79 | 🌐 Python | 📅 2026-08-19
+* [GoodbyeDPI](https://github.com/ValdikSS/GoodbyeDPI) ⭐ 28,581 | 🐛 147 | 🌐 C | 📅 2026-01-19
+* [rethink-app](https://github.com/celzero/rethink-app) ⭐ 5,316 | 🐛 622 | 🌐 Kotlin | 📅 2026-08-21
+* [souin](https://github.com/darkweak/souin) ⭐ 991 | 🐛 71 | 🌐 Go | 📅 2026-07-28
 * [Teletun](https://github.com/PiMaker/Teletun) ⚠️ Archived
 * [anon-service](https://github.com/bit4mind/anon-service) ⭐ 13 | 🐛 0 | 🌐 Shell | 📅 2026-07-21
 * [sandboxie-plus.com](https://sandboxie-plus.com/downloads)
@@ -537,8 +537,8 @@ Avoid installing any third-party software, including single-player and multiplay
 
 Be careful about using your real home address online for delivery purposes. Data breaches are now a daily occurrence, and many breaches include customer names and addresses. Your physical address is not as easily changeable as a phone number or email address, so be especially mindful about where you use it on the Internet.
 
-* [DefaultCreds CheatSheet](https://github.com/ihebski/DefaultCreds-cheat-sheet/) ⭐ 6,720 | 🐛 0 | 🌐 Python | 📅 2026-07-09
-* [Physical crypto attacks](https://github.com/jlopp/physical-bitcoin-attacks/blob/master/README.md) ⭐ 893 | 🐛 16 | 📅 2026-08-13
+* [DefaultCreds CheatSheet](https://github.com/ihebski/DefaultCreds-cheat-sheet/) ⭐ 6,719 | 🐛 0 | 🌐 Python | 📅 2026-07-09
+* [Physical crypto attacks](https://github.com/jlopp/physical-bitcoin-attacks/blob/master/README.md) ⭐ 893 | 🐛 16 | 📅 2026-08-21
 * [About If you want know, who use your computer when you are not nearby - PC Mouse Tracker](https://github.com/iterweb/watcher) ⭐ 48 | 🐛 0 | 🌐 Python | 📅 2021-09-30
 
 If you’re ordering pizza with crypto, order it for pickup instead of delivery. When online shopping, use a different (and publicly available) address for package delivery. Options here include your workplace or drop boxes at delivery service providers like FedEx and your local postal service.
@@ -592,7 +592,7 @@ That said, it doesn’t really matter what industry you’re in. If you have any
 
 ### Problem 10
 
-Remain Vigilant -  Create a culture of skepticism where they feel comfortable checking twice before clicking a link or responding to a request for sensitive information, and you’ll have a much more secure organization overall. Watch out [physical attacks](https://github.com/jlopp/physical-bitcoin-attacks/blob/master/README.md) ⭐ 893 | 🐛 16 | 📅 2026-08-13!
+Remain Vigilant -  Create a culture of skepticism where they feel comfortable checking twice before clicking a link or responding to a request for sensitive information, and you’ll have a much more secure organization overall. Watch out [physical attacks](https://github.com/jlopp/physical-bitcoin-attacks/blob/master/README.md) ⭐ 893 | 🐛 16 | 📅 2026-08-21!
 
 <details>
 <summary>Expand</summary>
@@ -641,7 +641,7 @@ A lot of OpSec missteps can be avoided by being more aware of your surroundings 
 
 ### Problem 12
 
-Identify your sensitive data, including your product research, passwords, intellectual property, financial statements, customer information, and employee information. This will be the data you will need to focus your resources on protecting. Randomization, mimicry and entropy must accompany your every step and manifest itself in literally everything: as you can imagine, the law enforcers of different countries have long ago learned to analyze packets via [DPI](https://github.com/ValdikSS/GoodbyeDPI) ⭐ 28,579 | 🐛 147 | 🌐 C | 📅 2026-01-19 (to counter this you may use something like [this](https://github.com/PiMaker/Teletun) ⚠️ Archived or [this](https://github.com/zhenyolka/DPITunnel-androidhttps://github.com/zhenyolka/DPITunnel-android) or [VPN](https://officercia.mirror.xyz/x91hTIDFrAL0lgqICRgWU7fLouuCMgvopQ9ZRvRXCLg)), to match them with the post or message time and perform [timing attacks](https://officercia.mirror.xyz/WeAilwJ9V4GIVUkYa7WwBwV2II9dYwpdPTp3fNsPFjo) and then go to the ISP provider or telecommunications company.
+Identify your sensitive data, including your product research, passwords, intellectual property, financial statements, customer information, and employee information. This will be the data you will need to focus your resources on protecting. Randomization, mimicry and entropy must accompany your every step and manifest itself in literally everything: as you can imagine, the law enforcers of different countries have long ago learned to analyze packets via [DPI](https://github.com/ValdikSS/GoodbyeDPI) ⭐ 28,581 | 🐛 147 | 🌐 C | 📅 2026-01-19 (to counter this you may use something like [this](https://github.com/PiMaker/Teletun) ⚠️ Archived or [this](https://github.com/zhenyolka/DPITunnel-androidhttps://github.com/zhenyolka/DPITunnel-android) or [VPN](https://officercia.mirror.xyz/x91hTIDFrAL0lgqICRgWU7fLouuCMgvopQ9ZRvRXCLg)), to match them with the post or message time and perform [timing attacks](https://officercia.mirror.xyz/WeAilwJ9V4GIVUkYa7WwBwV2II9dYwpdPTp3fNsPFjo) and then go to the ISP provider or telecommunications company.
 
 Be smarter. Most likely in the future we will all have to face [AI](https://share-docs.clickup.com/25598832/d/h/rd6vg-14247/0b79ca1dc0f7429/rd6vg-12465) and Neural Network which were made specifically for finding people and information based on [OSINT](https://officercia.mirror.xyz/5KSkJOTgMtvgC36v1GqZ987N-_Oj_zwvGatOk0A47Ws) and similar (up to [Big Data](https://www.ledgerinsights.com/amex-visa-citi-back-80m-funding-for-trm-labs-blockchain-intelligence/)) methodologies, so the only thing that will save us is what separates humans from machines - our imagination and our capacity for illogical unpredictable actions.
 
@@ -651,7 +651,7 @@ Whatever you do, do it with some element of randomness. If you find it hard to c
 * [anonymousplanet.org](https://anonymousplanet.org/)
 * [Android keyboard for secure E2EE communication through the signal protocol in any messenger](https://github.com/amnesica/KryptEY) ⭐ 875 | 🐛 22 | 🌐 Java | 📅 2024-04-21
 
-Maybe you can come up with your own solution based on [logic bomb](https://github.com/starius/logic-bomb/blob/master/logic_bomb.c) ⭐ 46 | 🐛 1 | 🌐 C | 📅 2015-10-07 and [canarytokens.org](https://canarytokens.org) with [tenderly.co](https://tenderly.co)! The tool previously described [has been hacked](https://www.theblock.co/amp/post/178418/ethereum-alarm-clocks-smart-contract-is-being-targeted-by-exploiters), use with caution and only if you know what you are doing. You can use [Escrow](https://github.com/JackBekket/escrow-eth/blob/master/contracts/EscrowAdvansed.sol) ⭐ 54 | 🐛 2 | 🌐 JavaScript | 📅 2022-04-05 and [Multisig](https://gnosis-safe.io) as a substitute for this.
+Maybe you can come up with your own solution based on [logic bomb](https://github.com/starius/logic-bomb/blob/master/logic_bomb.c) ⭐ 46 | 🐛 1 | 🌐 C | 📅 2015-10-07 and [canarytokens.org](https://canarytokens.org) with [tenderly.co](https://tenderly.co)! The tool previously described [has been hacked](https://www.theblock.co/amp/post/178418/ethereum-alarm-clocks-smart-contract-is-being-targeted-by-exploiters), use with caution and only if you know what you are doing. You can use [Escrow](https://github.com/JackBekket/escrow-eth/blob/master/contracts/EscrowAdvansed.sol) ⭐ 53 | 🐛 2 | 🌐 JavaScript | 📅 2022-04-05 and [Multisig](https://gnosis-safe.io) as a substitute for this.
 
 > [Steganography](https://officercia.mirror.xyz/8ecJG-s_5E6J1t-h8gUNGqV3hbX8If-E5NnrFrOJHUA) and Cryptography can also be combined for this purpose. After all, cryptography hides information, whereas steganography masks the fact that it was transmitted. For example, if you stenographically double-encrypt your passwords and store them in a cloud-based password manager, hackers (even if the vault is decoded or hacked) will be unable to use them as they will need your [stega-key](https://www.edureka.co/blog/steganography-tutorial) for this. You would, however, have to decrypt each password each time you are using it, with a special note.
 
@@ -680,7 +680,7 @@ Identify possible threats. For each category of information that you deem sensit
 * [AnonPlanet](https://anonymousplanet.org/links.html)
 * [censorship.no](https://censorship.no/)
 * [detect.expert](https://detect.expert/)
-* [WhatBreach](https://github.com/Ekultek/WhatBreach) ⭐ 1,652 | 🐛 16 | 🌐 Python | 📅 2025-08-14
+* [WhatBreach](https://github.com/Ekultek/WhatBreach) ⭐ 1,655 | 🐛 16 | 🌐 Python | 📅 2025-08-14
 
 **Offline/Radio + Crypto:**
 
@@ -821,8 +821,8 @@ Risk management: The process of identifying, assessing and controlling threats t
 <summary>Expand</summary>
 <br />
 
-* [Guide to securing and improving privacy on macOS](https://github.com/drduh/macOS-Security-and-Privacy-Guide) ⭐ 22,488 | 🐛 8 | 📅 2026-08-19
-* [A collection of awesome security hardening guides, tools and other resources](https://github.com/decalage2/awesome-security-hardening) ⭐ 6,515 | 🐛 126 | 📅 2026-05-05
+* [Guide to securing and improving privacy on macOS](https://github.com/drduh/macOS-Security-and-Privacy-Guide) ⭐ 22,485 | 🐛 9 | 📅 2026-08-21
+* [A collection of awesome security hardening guides, tools and other resources](https://github.com/decalage2/awesome-security-hardening) ⭐ 6,519 | 🐛 126 | 📅 2026-05-05
 * [This is a macOS hardening to read or set security configuration](https://github.com/ataumo/macos_hardening) ⭐ 157 | 🐛 2 | 🌐 Shell | 📅 2024-11-14
 * [Violent Attack Vectors in Web3: A Detailed Review](https://officercia.mirror.xyz/qfhQ_ocTPKnO5EqMlZ2ixIX7oBIfz5Tznid82EucbYk)
 * [Here's a List of 29 Different Types of USB Attacks](https://www.bleepingcomputer.com/news/security/heres-a-list-of-29-different-types-of-usb-attacks)
@@ -968,7 +968,7 @@ Only Interact with DeFi Protocols You Trust - Take your time to read up on some 
 * [Defillama.com](https://Defillama.com)
 * [Rotki](https://github.com/rotki)
 * [Find wallet](https://ethereum.org/en/wallets/find-wallet)
-* [Read More](https://github.com/OffcierCia/ultimate-defi-research-base) ⭐ 2,209 | 🐛 1 | 📅 2026-03-14
+* [Read More](https://github.com/OffcierCia/ultimate-defi-research-base) ⭐ 2,208 | 🐛 1 | 📅 2026-03-14
 * [Read More](https://assets.website-files.com/5ffef4c69be53b44bd10b438/6012f54022181b0d0a3a948c_CryptoCurrency%20Security%20Standards%20Checklist.pdf)
 * [Someone overheard me! Why it's important to think about all attack vectors, even if they seem unlikely to happen?](https://officercia.mirror.xyz/Gc4msiSq4HkKrrsKcL5tDF613iUtX4vWUAb5DYdDPC0)
 * [On Operational Security in Web3](https://0xrusowsky.substack.com/p/on-operational-security)
@@ -988,7 +988,7 @@ Don’t use Tornado and forget about it, but you can use:
 Use a reliable RPC provide or run a light client or a full node:
 
 * [Helios](https://github.com/a16z/helios) ⭐ 2,174 | 🐛 94 | 🌐 Rust | 📅 2026-06-26
-* [Spook](https://github.com/EdenBlockVC/spook) ⭐ 56 | 🐛 0 | 🌐 TypeScript | 📅 2026-07-28
+* [Spook](https://github.com/EdenBlockVC/spook) ⭐ 55 | 🐛 0 | 🌐 TypeScript | 📅 2026-07-28
 * [RPC-proxy](https://github.com/shark0der/rpc-proxy) ⭐ 25 | 🐛 0 | 🌐 JavaScript | 📅 2022-11-25
 * [Zmok](https://zmok.io)
 
@@ -1005,7 +1005,7 @@ Use trusted services. Using a secure, easy-to-use crypto wallet to interact with
 <br />
 
 * [The Only Safe Way to Store Crypto](https://officercia.mirror.xyz/p1ieZdxQWH4yHCNOXNPHyT8So1cY0X_wMGKwdmavi7s)
-* [Read More](https://github.com/OffcierCia/DeFi-Developer-Road-Map) ⭐ 10,811 | 🐛 5 | 🌐 JavaScript | 📅 2026-08-16
+* [Read More](https://github.com/OffcierCia/DeFi-Developer-Road-Map) ⭐ 10,812 | 🐛 5 | 🌐 JavaScript | 📅 2026-08-16
 * [Read More](https://blog.eduonix.com/cryptocurrency/cryptocurrency-security-checklist-investors-adopt/)
 * [How to protect your assets](https://mirror.xyz/crisgarner.eth/gJjASuCkbXJ1w574ePvJ3kNyWBZQfUyelMvsp4ujZ80)
 * [On Operational Security in Web3](https://0xrusowsky.substack.com/p/on-operational-security)
@@ -1016,13 +1016,13 @@ Use trusted services. Using a secure, easy-to-use crypto wallet to interact with
 
 ### Problem 25
 
-Be aware of most common attacks. Follow hacker websites, latest security standards, check out what [Nitrokey](https://www.nitrokey.com/) or [YubiKey](https://www.yubico.com) or [Titan](https://cloud.google.com/titan-security-key) do and why. As a conclusion - read what is [OSINT](https://officercia.mirror.xyz/5KSkJOTgMtvgC36v1GqZ987N-_Oj_zwvGatOk0A47Ws) and [counterOSINT](https://github.com/soxoj/counter-osint-guide-en) ⭐ 362 | 🐛 1 | 📅 2026-08-17 so possible criminals won't be able to collect needed data.
+Be aware of most common attacks. Follow hacker websites, latest security standards, check out what [Nitrokey](https://www.nitrokey.com/) or [YubiKey](https://www.yubico.com) or [Titan](https://cloud.google.com/titan-security-key) do and why. As a conclusion - read what is [OSINT](https://officercia.mirror.xyz/5KSkJOTgMtvgC36v1GqZ987N-_Oj_zwvGatOk0A47Ws) and [counterOSINT](https://github.com/soxoj/counter-osint-guide-en) ⭐ 363 | 🐛 1 | 📅 2026-08-17 so possible criminals won't be able to collect needed data.
 
 <details>
 <summary>Expand</summary>
 <br />
 
-* [Physical Attacks](https://github.com/jlopp/physical-bitcoin-attacks/blob/master/README.md) ⭐ 893 | 🐛 16 | 📅 2026-08-13
+* [Physical Attacks](https://github.com/jlopp/physical-bitcoin-attacks/blob/master/README.md) ⭐ 893 | 🐛 16 | 📅 2026-08-21
 * [Counter-OSINT Techniques](https://github.com/CScorza/OSINTAnonymous) ⭐ 473 | 🐛 0 | 📅 2026-01-18
 * [Physical Security Tips](https://twitter.com/rektfencer/status/1636050286564511744?s=20)
 * [3FA](https://www.techtarget.com/searchsecurity/definition/three-factor-authentication-3FA)
@@ -1033,7 +1033,7 @@ Pretend to be someone ordinary. For example, follow the legend that you are just
 
 > Check out this [book & article](https://counterintelligence.info/index.php/2020/03/05/extreme-privacy-michael-bazzell)!
 
-* [Read More](https://github.com/jlopp/physical-bitcoin-attacks/blob/master/README.md) ⭐ 893 | 🐛 16 | 📅 2026-08-13
+* [Read More](https://github.com/jlopp/physical-bitcoin-attacks/blob/master/README.md) ⭐ 893 | 🐛 16 | 📅 2026-08-21
 * [Read More](https://cryptosec.info/checklist/)
 
 #
@@ -1069,9 +1069,9 @@ Pretend to be someone ordinary. For example, follow the legend that you are just
 
 **Also check out:**
 
-* [Awesome Security Hardening Guides](https://github.com/decalage2/awesome-security-hardening) ⭐ 6,515 | 🐛 126 | 📅 2026-05-05
-* [Privacy.sexy Repo](https://github.com/undergroundwires/privacy.sexy) ⭐ 5,964 | 🐛 251 | 🌐 TypeScript | 📅 2026-02-13
-* [A collection of practical security-focused guides and checklists for smart contract development](https://github.com/nascentxyz/simple-security-toolkit) ⭐ 1,235 | 🐛 1 | 📅 2023-11-15
+* [Awesome Security Hardening Guides](https://github.com/decalage2/awesome-security-hardening) ⭐ 6,519 | 🐛 126 | 📅 2026-05-05
+* [Privacy.sexy Repo](https://github.com/undergroundwires/privacy.sexy) ⭐ 5,966 | 🐛 251 | 🌐 TypeScript | 📅 2026-02-13
+* [A collection of practical security-focused guides and checklists for smart contract development](https://github.com/nascentxyz/simple-security-toolkit) ⭐ 1,233 | 🐛 1 | 📅 2023-11-15
 * [AnonPlanet](https://anonymousplanet.org/links.html)
 * [Anon Guide](https://hackmd.io/@0xngmi/B1BXYIWCO) or via [this link](hackmd.io/YKjhguQES_KeKYs-v1YC1w?both)
 * [anonymousplanet.org](https://anonymousplanet.org)
@@ -1129,7 +1129,7 @@ Pretend to be someone ordinary. For example, follow the legend that you are just
 | <https://joelgsamuel.medium.com/how-to-keep-your-smartphone-safe-from-spying-d7d50fbed817>                                                 |
 | <https://assets.website-files.com/5ffef4c69be53b44bd10b438/6012f54022181b0d0a3a948c_CryptoCurrency%20Security%20Standards%20Checklist.pdf> |
 | <https://blog.eduonix.com/cryptocurrency/cryptocurrency-security-checklist-investors-adopt/>                                               |
-| <https://github.com/jlopp/physical-bitcoin-attacks/blob/master/README.md> ⭐ 893 \| 🐛 16 \| 📅 2026-08-13                                  |
+| <https://github.com/jlopp/physical-bitcoin-attacks/blob/master/README.md> ⭐ 893 \| 🐛 16 \| 📅 2026-08-21                                  |
 | <https://cryptosec.info/checklist/>                                                                                                        |
 
 #
@@ -1156,4 +1156,4 @@ The best thing is to support me directly by donating to any address from the lis
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-20._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-21._
