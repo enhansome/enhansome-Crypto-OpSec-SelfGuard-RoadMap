@@ -54,7 +54,7 @@
                 "last_commit": "2026-08-19T08:42:13Z",
                 "owner": "maxgoedjen",
                 "repo": "secretive",
-                "stars": 8798
+                "stars": 8802
               }
             },
             {
@@ -66,7 +66,7 @@
                 "archived": false,
                 "id": 501990676,
                 "language": "Solidity",
-                "last_commit": "2026-08-21T13:00:14Z",
+                "last_commit": "2026-08-22T03:01:02Z",
                 "owner": "SunWeb3Sec",
                 "repo": "DeFiHackLabs",
                 "stars": 6749
@@ -99,7 +99,7 @@
                 "last_commit": "2024-03-15T00:35:43Z",
                 "owner": "BishopFox",
                 "repo": "unredacter",
-                "stars": 8370
+                "stars": 8371
               }
             },
             {
@@ -148,10 +148,10 @@
                 "archived": false,
                 "id": 560284721,
                 "language": "Dart",
-                "last_commit": "2026-08-21T14:27:12Z",
+                "last_commit": "2026-08-22T06:07:28Z",
                 "owner": "ente",
                 "repo": "ente",
-                "stars": 28445
+                "stars": 28454
               }
             },
             {
@@ -166,7 +166,7 @@
                 "last_commit": "2026-05-05T21:38:04Z",
                 "owner": "decalage2",
                 "repo": "awesome-security-hardening",
-                "stars": 6519
+                "stars": 6520
               }
             },
             {
@@ -230,10 +230,10 @@
                 "archived": false,
                 "id": 512269935,
                 "language": "Astro",
-                "last_commit": "2026-08-20T11:53:00Z",
+                "last_commit": "2026-08-22T05:31:45Z",
                 "owner": "lissy93",
                 "repo": "awesome-privacy",
-                "stars": 9771
+                "stars": 9777
               }
             },
             {
@@ -275,7 +275,7 @@
                 "archived": false,
                 "id": 41654081,
                 "language": null,
-                "last_commit": "2026-08-21T04:00:16Z",
+                "last_commit": "2026-08-22T15:45:23Z",
                 "owner": "drduh",
                 "repo": "macOS-Security-and-Privacy-Guide",
                 "stars": 22485
@@ -338,7 +338,7 @@
                 "last_commit": "2026-08-19T08:43:19Z",
                 "owner": "trailofbits",
                 "repo": "algo",
-                "stars": 30357
+                "stars": 30358
               }
             },
             {
@@ -353,7 +353,7 @@
                 "last_commit": "2026-01-19T12:59:23Z",
                 "owner": "ValdikSS",
                 "repo": "GoodbyeDPI",
-                "stars": 28581
+                "stars": 28584
               }
             },
             {
@@ -368,7 +368,7 @@
                 "last_commit": "2026-08-21T10:34:13Z",
                 "owner": "celzero",
                 "repo": "rethink-app",
-                "stars": 5316
+                "stars": 5321
               }
             },
             {
@@ -383,7 +383,7 @@
                 "last_commit": "2026-07-28T09:13:43Z",
                 "owner": "darkweak",
                 "repo": "souin",
-                "stars": 991
+                "stars": 992
               }
             },
             {
@@ -435,7 +435,7 @@
                 "last_commit": "2026-07-09T10:09:24Z",
                 "owner": "ihebski",
                 "repo": "DefaultCreds-cheat-sheet",
-                "stars": 6719
+                "stars": 6720
               }
             },
             {
@@ -536,7 +536,7 @@
                 "archived": false,
                 "id": 41654081,
                 "language": null,
-                "last_commit": "2026-08-21T04:00:16Z",
+                "last_commit": "2026-08-22T15:45:23Z",
                 "owner": "drduh",
                 "repo": "macOS-Security-and-Privacy-Guide",
                 "stars": 22485
@@ -554,7 +554,7 @@
                 "last_commit": "2026-05-05T21:38:04Z",
                 "owner": "decalage2",
                 "repo": "awesome-security-hardening",
-                "stars": 6519
+                "stars": 6520
               }
             },
             {
@@ -742,7 +742,7 @@
                     "last_commit": "2026-05-05T21:38:04Z",
                     "owner": "decalage2",
                     "repo": "awesome-security-hardening",
-                    "stars": 6519
+                    "stars": 6520
                   }
                 },
                 {
@@ -757,7 +757,7 @@
                     "last_commit": "2026-02-13T10:55:07Z",
                     "owner": "undergroundwires",
                     "repo": "privacy.sexy",
-                    "stars": 5966
+                    "stars": 5971
                   }
                 },
                 {
@@ -790,7 +790,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-21T17:03:07.781Z",
+    "last_updated": "2026-08-22T16:52:45.750Z",
     "original_repository": "OffcierCia/Crypto-OpSec-SelfGuard-RoadMap",
     "original_repository_id": 379360003,
     "original_repository_sha": "f910b843317d34227ad80c6567b46eefb2c082c4",
