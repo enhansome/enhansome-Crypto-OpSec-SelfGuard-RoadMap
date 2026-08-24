@@ -1,8 +1,59 @@
 {
   "items": [
     {
+      "description": "Note: OpSec is a term coming from the military, meaning operational security. It has been widely used to describe security precautions in various sensible activities, and more recently also in cryptocurrency management.",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Portuguese-Brazilian",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 379360003,
+            "language": null,
+            "last_commit": "2026-08-16T23:20:41Z",
+            "owner": "OffcierCia",
+            "repo": "Crypto-OpSec-SelfGuard-RoadMap",
+            "stars": 1860
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "French",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 379360003,
+            "language": null,
+            "last_commit": "2026-08-16T23:20:41Z",
+            "owner": "OffcierCia",
+            "repo": "Crypto-OpSec-SelfGuard-RoadMap",
+            "stars": 1860
+          }
+        }
+      ],
+      "title": "Overview"
+    },
+    {
       "description": "Special Thanks:\n| Special Notes:",
       "items": [
+        {
+          "children": [],
+          "description": "No, this guide is appropriate for owners of all of the possible coins, developers, shadowy super-coders and digital nomads: you may own Bitcoin, DOGE, Sol, XMR, ETH, NFT - anything. I tried to cover all the bases, and if you follow the links, you'll see that there are already a ton of fantastic answers to all of your queries!",
+          "node_type": "item",
+          "repo_info": {
+            "archived": false,
+            "id": 591521463,
+            "language": null,
+            "last_commit": "2023-05-22T13:36:52Z",
+            "owner": "mektigboy",
+            "repo": "evm-chad",
+            "stars": 333
+          },
+          "title": "Why does this guide focus primarily on advice for EVM-based blockchains and cryptocurrencies based on them?"
+        },
         {
           "children": [
             {
@@ -44,19 +95,26 @@
           "children": [
             {
               "node_type": "item",
-              "title": "Store SSH keys in the Secure Enclave!",
+              "title": "Croc Tool",
               "description": null,
               "children": [],
               "repo_info": {
                 "archived": false,
-                "id": 241524703,
-                "language": "Swift",
-                "last_commit": "2026-08-19T08:42:13Z",
-                "owner": "maxgoedjen",
-                "repo": "secretive",
-                "stars": 8806
+                "id": 107286889,
+                "language": "Go",
+                "last_commit": "2026-08-24T13:58:13Z",
+                "owner": "schollz",
+                "repo": "croc",
+                "stars": 40072
               }
-            },
+            }
+          ],
+          "description": "Use a secure email provider. Also use trusted VPN like Mullvad or ProtonVPN (better - selfhost it). E2E (end-to-end) encryption is only as secure as the service you are sending the email to.\nFor example, if a Protonmail user sends an email to a Gmail user, the email is encrypted with TLS, but Google can still read and hand over any data that passes through their server. E2E can be re-established by using features such as the password-protected email feature from Protonmail.\nDon't forget that the VDS/RDP + VM combination can replace all of this, but it is not available to everyone. If you know how to do it correctly - choose this way. Check out this article as well.\nOn the opposite:\nDon’t use 3rd party VPN, rent a VPS and bootstrap open source VPN server!\nCheck out:\nUse dedicated email address for each account, or use an alias eg. chortly534524twitter@gmail , if it leaks it will be isolated to the account!\nYou can also use something like private addresses feature from DuckDuckGo or simplelogin.io.",
+          "node_type": "group",
+          "title": "Problem 1"
+        },
+        {
+          "children": [
             {
               "node_type": "item",
               "title": "Blockchain dark forest selfguard handbook",
@@ -64,72 +122,12 @@
               "children": [],
               "repo_info": {
                 "archived": false,
-                "id": 501990676,
-                "language": "Solidity",
-                "last_commit": "2026-08-23T03:01:03Z",
-                "owner": "SunWeb3Sec",
-                "repo": "DeFiHackLabs",
-                "stars": 6751
-              }
-            },
-            {
-              "node_type": "item",
-              "title": "A tool that allows user to create time bound backups for various cryptocurrencies",
-              "description": null,
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "id": 581700458,
-                "language": "TypeScript",
-                "last_commit": "2025-03-20T21:20:58Z",
-                "owner": "JamesANZ",
-                "repo": "crypto-timelocked-backup",
-                "stars": 11
-              }
-            },
-            {
-              "node_type": "item",
-              "title": "Unredacter Tool",
-              "description": null,
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "id": 420161012,
-                "language": "TypeScript",
-                "last_commit": "2024-03-15T00:35:43Z",
-                "owner": "BishopFox",
-                "repo": "unredacter",
-                "stars": 8372
-              }
-            },
-            {
-              "node_type": "item",
-              "title": "IT security lecture",
-              "description": null,
-              "children": [],
-              "repo_info": {
-                "archived": true,
-                "id": 136597310,
+                "id": 473014643,
                 "language": null,
-                "last_commit": "2023-08-18T22:41:18Z",
-                "owner": "bkimminich",
-                "repo": "it-security-lecture",
-                "stars": 377
-              }
-            },
-            {
-              "node_type": "item",
-              "title": "Awesome wifi security",
-              "description": null,
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "id": 66666315,
-                "language": null,
-                "last_commit": "2019-04-10T16:47:06Z",
-                "owner": "edelahozuah",
-                "repo": "awesome-wifi-security",
-                "stars": 174
+                "last_commit": "2025-10-12T06:30:30Z",
+                "owner": "slowmist",
+                "repo": "Blockchain-dark-forest-selfguard-handbook",
+                "stars": 6839
               }
             }
           ],
@@ -141,83 +139,23 @@
           "children": [
             {
               "node_type": "item",
-              "title": "Authenticator app for storing your 2FA secrets",
+              "title": "A collection of practical security-focused guides and checklists for smart contract development",
               "description": null,
               "children": [],
               "repo_info": {
                 "archived": false,
-                "id": 560284721,
-                "language": "Dart",
-                "last_commit": "2026-08-23T10:39:34Z",
-                "owner": "ente",
-                "repo": "ente",
-                "stars": 28467
-              }
-            },
-            {
-              "node_type": "item",
-              "title": "Awesome Security Hardening Guides",
-              "description": null,
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "id": 184064793,
+                "id": 479526508,
                 "language": null,
-                "last_commit": "2026-05-05T21:38:04Z",
-                "owner": "decalage2",
-                "repo": "awesome-security-hardening",
-                "stars": 6520
-              }
-            },
-            {
-              "node_type": "item",
-              "title": "Android Forensics References",
-              "description": null,
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "id": 533161728,
-                "language": null,
-                "last_commit": "2025-09-23T21:37:54Z",
-                "owner": "RealityNet",
-                "repo": "Android-Forensics-References",
-                "stars": 361
-              }
-            },
-            {
-              "node_type": "item",
-              "title": "iOS Forensics References",
-              "description": null,
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "id": 627820495,
-                "language": null,
-                "last_commit": "2023-12-01T10:12:47Z",
-                "owner": "RealityNet",
-                "repo": "iOS-Forensics-References",
-                "stars": 237
-              }
-            },
-            {
-              "node_type": "item",
-              "title": "Check out: Portable Secret",
-              "description": "& digi cloak",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "id": 369786491,
-                "language": "TypeScript",
-                "last_commit": "2026-07-31T07:15:13Z",
-                "owner": "kaushalmeena",
-                "repo": "digi-cloak",
-                "stars": 81
+                "last_commit": "2023-11-15T16:33:31Z",
+                "owner": "nascentxyz",
+                "repo": "simple-security-toolkit",
+                "stars": 1233
               }
             }
           ],
-          "description": "Offline (better - physical) backups. Store them in a safe. Can be written on paper, but recommended to be etched or laser-printed into metal. Always be sure to have a backup stored somewhere safe if your threat model allows for that.\nIn cryptography, format-preserving encryption (FPE), refers to encrypting in such a way that the output (the ciphertext) is in the same format as the input (the plaintext). The meaning of \"format\" varies. Typically only finite sets of characters are used; numeric, alphabetic or alphanumeric.\nAsk yourself, what happens if my house catches on fire? What temperature is my safe rated to? Some individuals find a safety deposit box handy.",
+          "description": "Never link phone numbers to crypto platforms. Use trusted multiple e-sims if you have to link the phone. To lock down your SIM, contact your mobile phone carrier.\nThat is a standard that has been tested by telecommunications operators in the US, the UK, Poland, and China - also check out this tweet and this article. You just need to insist on it or visit the head office, and I’m sure that the support manager on the phone mayn’t know about it!\nAsk them to NEVER make changes to your phone number/SIM unless you physically show up to a specific store with at minimum two forms of identification. This (should) prevent hackers from calling up AT&T or T-Mobile or Vodafone, claiming to be you, and asking them to port your phone number to a new phone.\nSERM/ORM (search engine reputation marketing or reputation management) and Counter-OSINT - do exist, and one of the most interesting areas of which is to work with adding fake or confusing information about yourself in \"leakages\" or, for example, attaching to your number 100+ names related to taxi services through various GetContact accounts, to confuse potential bad actors who will try to research data on you in the future, in preparation for an attack. Then, think up.\nOn the opposite:\nInstead, require staff to verify via phone call to a secondary number because show ID is compromised or just use something like Efani. Or tend to use E-sim only!",
           "node_type": "group",
-          "title": "Problem 6"
+          "title": "Problem 3"
         },
         {
           "children": [
@@ -278,7 +216,7 @@
                 "last_commit": "2026-08-23T16:01:49Z",
                 "owner": "drduh",
                 "repo": "macOS-Security-and-Privacy-Guide",
-                "stars": 22488
+                "stars": 22486
               }
             },
             {
@@ -328,6 +266,21 @@
             },
             {
               "node_type": "item",
+              "title": "Awesome Security Hardening Guides",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 184064793,
+                "language": null,
+                "last_commit": "2026-05-05T21:38:04Z",
+                "owner": "decalage2",
+                "repo": "awesome-security-hardening",
+                "stars": 6522
+              }
+            },
+            {
+              "node_type": "item",
               "title": "algoVPN",
               "description": null,
               "children": [],
@@ -338,7 +291,7 @@
                 "last_commit": "2026-08-19T08:43:19Z",
                 "owner": "trailofbits",
                 "repo": "algo",
-                "stars": 30360
+                "stars": 30361
               }
             },
             {
@@ -353,7 +306,7 @@
                 "last_commit": "2026-01-19T12:59:23Z",
                 "owner": "ValdikSS",
                 "repo": "GoodbyeDPI",
-                "stars": 28584
+                "stars": 28587
               }
             },
             {
@@ -368,7 +321,7 @@
                 "last_commit": "2026-08-21T10:34:13Z",
                 "owner": "celzero",
                 "repo": "rethink-app",
-                "stars": 5323
+                "stars": 5329
               }
             },
             {
@@ -383,7 +336,7 @@
                 "last_commit": "2026-07-28T09:13:43Z",
                 "owner": "darkweak",
                 "repo": "souin",
-                "stars": 994
+                "stars": 995
               }
             },
             {
@@ -415,9 +368,24 @@
                 "repo": "anon-service",
                 "stars": 13
               }
+            },
+            {
+              "node_type": "item",
+              "title": "Discord Security",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 698007297,
+                "language": null,
+                "last_commit": "2023-10-03T03:20:35Z",
+                "owner": "0xngmi",
+                "repo": "discord-server-guidelines",
+                "stars": 44
+              }
             }
           ],
-          "description": "Never do anything you do not understand. Always check which token you approve, transaction you sign, assets you send, etc - be extremely accurate while making any financial operation. Keep in mind that one of possible attack vectors is to put you in a situation that will encourage you to do smth (login or anything like that).\nTip: Don't use Tails OS if you want to achieve anonymity on the network, choose Whonix OS together with Qubes OS or Whonix OS together with free and secure Linux and virtualization through KVM/Qemu!\nYou can install Comodo or MalwareBytes antivirus but it won't help you if you do not understand them. Keep up your basic set of defending tools up to date. For ultra-secure comunications, run WhonixOS and use Jabber (Adium, Psi+ or Xabber or ChatSecure) over Tor with OTR plug-in. Or Matrix… Or, at least, configure telegram correctly…\nOpSec isn't always a matter of survival! It manifests itself in a variety of ways: at work, in everyday life, in communication, in DAO work, in conferences, and so on. You may be surprised to learn that there is no perfect solution. The strategies and tactics differ greatly and are dependent on you and what you need to achieve.\nI'm only offering you a set of tools and guidelines to hunt for information; the rest is up to you! No one can create your security wall better than you, and learning OpSec does not require you to become a hostile, distrustful cryptopunk and abuse it to the extreme: you might find something that works for you.\nA VPN (Virtual Private Network) is an application that increases your online security and privacy. It creates an encrypted tunnel by redirecting your traffic and hides personal data, information and browsing history. Many of us do not know where to start when choosing a VPN, but I will help you in this, remember main key principles:\nOne helpful sheet created by someone comparing VPNs in detail is here!\nMullvad does a few things differently than most other VPNs, such as allowing cash payments and not requiring an email address to create an account. One may also wonder: Isn't WireGuard less safe than OpenVPN, since logs are kept for WireGuard (at least temporary? Well, If you have multiple users you have to make an additional gateway with additional IP address. Like in Nordlynx. But out of the box you cant say that OpenVPN is more safe. It's more difficult to configure it so misconfiguration may be an issue. With all said, I prefer mullvad.net + oVPN.\nThere is a take that you should never use VPN services and run your own VPS/VPN only! Check out this resource!\nAnother Option — Setting Up a Hardware VPN. If you area VPN enjoyer I’d strongly consider you look at affordable hardware options, for example, the gl-mt1300 is a cheap and very nice piece of kit, easy way to protect your home network from threats without relying on running software locally. It may seem overkill but the options of TOR or Mullvad and general WireGuard, and measures to stop DNS leakage make it quite a nice useful piece of kit!\nIt is important to note that you can achieve the same thing by installing oVPN Mullvad (or another service you trust / your own VPN) configuration on your home router! You should also keep in mind the basic rule: the VPN is your buddy and will keep you safe from a wide range of threats, including even several WiFi and physical attacks. I hope this short note helps you decide!\nOn the opposite:\nDon't use 3rd party VPN, rent a VPS and bootstrap open source VPN server, it's 5 min!\nAt the same time, I believe that OpSec, in its broadest sense, does not function on half-measures, and it's critical to understand how to do things in a benchmark so you have something to fall back on.\nAfter all, one key rule that almost never gets emphasized is \"always be aware of what rule you're breaking, why, and how it may affect you in case of an assault or other problems. In any case, it is critical to understand where the boundaries of this \"standard of OpSec & security\" lie, which I will attempt to do via the lens of many approaches, which I will attempt to express in such a way that they are universal.\nOn the opposite:\nTend to use:\nyou can use Apple Configurator and create a blueprint to ensure conformance (trusting they apply it)\nFor mobile:\nAlso check out:\nImportant OpSec Tip:\nAvoid installing any third-party software, including single-player and multiplayer games, on your primary (for work/crypto) computer or phone:",
+          "description": "Never do anything you do not understand. Always check which token you approve, transaction you sign, assets you send, etc - be extremely accurate while making any financial operation. Keep in mind that one of possible attack vectors is to put you in a situation that will encourage you to do smth (login or anything like that).\nTip: Don't use Tails OS if you want to achieve anonymity on the network, choose Whonix OS together with Qubes OS or Whonix OS together with free and secure Linux and virtualization through KVM/Qemu!\nYou can install Comodo or MalwareBytes antivirus but it won't help you if you do not understand them. Keep up your basic set of defending tools up to date. For ultra-secure comunications, run WhonixOS and use Jabber (Adium, Psi+ or Xabber or ChatSecure) over Tor with OTR plug-in. Or Matrix… Or, at least, configure telegram correctly…\nOpSec isn't always a matter of survival! It manifests itself in a variety of ways: at work, in everyday life, in communication, in DAO work, in conferences, and so on. You may be surprised to learn that there is no perfect solution. The strategies and tactics differ greatly and are dependent on you and what you need to achieve.\nI'm only offering you a set of tools and guidelines to hunt for information; the rest is up to you! No one can create your security wall better than you, and learning OpSec does not require you to become a hostile, distrustful cryptopunk and abuse it to the extreme: you might find something that works for you.\nAt the same time, I believe that OpSec, in its broadest sense, does not function on half-measures, and it's critical to understand how to do things in a benchmark so you have something to fall back on.\nAfter all, one key rule that almost never gets emphasized is \"always be aware of what rule you're breaking, why, and how it may affect you in case of an assault or other problems. In any case, it is critical to understand where the boundaries of this \"standard of OpSec & security\" lie, which I will attempt to do via the lens of many approaches, which I will attempt to express in such a way that they are universal.\nOn the opposite:\nTend to use:\nyou can use Apple Configurator and create a blueprint to ensure conformance (trusting they apply it)\nFor mobile:\nAlso check out:\nImportant OpSec Tip:\nAvoid installing any third-party software, including single-player and multiplayer games, on your primary (for work/crypto) computer or phone:",
           "node_type": "group",
           "title": "Problem 7"
         },
@@ -477,99 +445,83 @@
           "children": [
             {
               "node_type": "item",
-              "title": "CreepDetector",
+              "title": "Awesome InfoSec",
               "description": null,
               "children": [],
               "repo_info": {
                 "archived": false,
-                "id": 214523484,
-                "language": "Jupyter Notebook",
-                "last_commit": "2021-05-06T01:20:52Z",
-                "owner": "skickar",
-                "repo": "CreepDetector",
-                "stars": 210
-              }
-            },
-            {
-              "node_type": "item",
-              "title": "Wardriving",
-              "description": null,
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "id": 178940812,
-                "language": "Jupyter Notebook",
-                "last_commit": "2023-03-30T16:48:59Z",
-                "owner": "AlexLynd",
-                "repo": "ESP8266-Wardriving",
-                "stars": 176
-              }
-            },
-            {
-              "node_type": "item",
-              "title": "Discord e2e encryption",
-              "description": null,
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "id": 165284507,
-                "language": "JavaScript",
-                "last_commit": "2019-08-01T12:44:21Z",
-                "owner": "mpgn",
-                "repo": "discord-e2e-encryption",
-                "stars": 95
+                "id": 35577029,
+                "language": null,
+                "last_commit": "2026-08-15T16:05:29Z",
+                "owner": "onlurking",
+                "repo": "awesome-infosec",
+                "stars": 5723
               }
             }
           ],
-          "description": "Remain Vigilant - Create a culture of skepticism where they feel comfortable checking twice before clicking a link or responding to a request for sensitive information, and you’ll have a much more secure organization overall. Watch out physical attacks!",
+          "description": "OpSec often comes into play in public settings. For example, if members of your team are discussing work-related matters at a nearby lunch spot, during a conference, or over a beer, odds are that someone could overhear. As they say, loose lips can sink ships, so make sure you don’t discuss any sensitive company information while out in public.\nA lot of OpSec missteps can be avoided by being more aware of your surroundings and the context in which you are speaking: what you’re saying, where you are, who you’re speaking to, and who might overhear. It’s a good idea to go over the “no-no’s” for your specific company during onboarding and to remind employees of them periodically.",
           "node_type": "group",
-          "title": "Problem 10"
+          "title": "Problem 11"
         },
         {
           "children": [
             {
               "node_type": "item",
-              "title": "Guide to securing and improving privacy on macOS",
+              "title": "Android keyboard for secure E2EE communication through the signal protocol in any messenger",
               "description": null,
               "children": [],
               "repo_info": {
                 "archived": false,
-                "id": 41654081,
-                "language": null,
-                "last_commit": "2026-08-23T16:01:49Z",
-                "owner": "drduh",
-                "repo": "macOS-Security-and-Privacy-Guide",
-                "stars": 22488
+                "id": 640224990,
+                "language": "Java",
+                "last_commit": "2024-04-21T18:54:45Z",
+                "owner": "amnesica",
+                "repo": "KryptEY",
+                "stars": 875
               }
-            },
+            }
+          ],
+          "description": "Identify your sensitive data, including your product research, passwords, intellectual property, financial statements, customer information, and employee information. This will be the data you will need to focus your resources on protecting. Randomization, mimicry and entropy must accompany your every step and manifest itself in literally everything: as you can imagine, the law enforcers of different countries have long ago learned to analyze packets via DPI (to counter this you may use something like this or this or VPN), to match them with the post or message time and perform timing attacks and then go to the ISP provider or telecommunications company.\nBe smarter. Most likely in the future we will all have to face AI and Neural Network which were made specifically for finding people and information based on OSINT and similar (up to Big Data) methodologies, so the only thing that will save us is what separates humans from machines - our imagination and our capacity for illogical unpredictable actions.\nWhatever you do, do it with some element of randomness. If you find it hard to comprehend, then put it in the hands of playing cards or random.org. Do you transfer an amount? Send not an even (1000, 100, 50, etc.) or similar value, and so on. I think you get my point. Once again, be smarter, for example: there is a tool like Ethereum alarm clock (2), but you have to remember to use it with caution.\nMaybe you can come up with your own solution based on logic bomb and canarytokens.org with tenderly.co! The tool previously described has been hacked, use with caution and only if you know what you are doing. You can use Escrow and Multisig as a substitute for this.\nSteganography and Cryptography can also be combined for this purpose. After all, cryptography hides information, whereas steganography masks the fact that it was transmitted. For example, if you stenographically double-encrypt your passwords and store them in a cloud-based password manager, hackers (even if the vault is decoded or hacked) will be unable to use them as they will need your stega-key for this. You would, however, have to decrypt each password each time you are using it, with a special note.",
+          "node_type": "group",
+          "title": "Problem 12"
+        },
+        {
+          "children": [
             {
               "node_type": "item",
-              "title": "A collection of awesome security hardening guides, tools and other resources",
+              "title": "WhatBreach",
               "description": null,
               "children": [],
               "repo_info": {
                 "archived": false,
-                "id": 184064793,
-                "language": null,
-                "last_commit": "2026-05-05T21:38:04Z",
-                "owner": "decalage2",
-                "repo": "awesome-security-hardening",
-                "stars": 6520
+                "id": 182323091,
+                "language": "Python",
+                "last_commit": "2025-08-14T14:29:48Z",
+                "owner": "Ekultek",
+                "repo": "WhatBreach",
+                "stars": 1658
               }
-            },
+            }
+          ],
+          "description": "Identify possible threats. For each category of information that you deem sensitive, you should identify what kinds of threats are present. While you should be wary of third parties trying to steal your information, you should also watch out for insider threats, such as negligent employees and disgruntled workers. OpSec is generally more of a failure than the technology!\nKeep your friends close, and your enemies closer.\nOffline/Radio + Crypto:",
+          "node_type": "group",
+          "title": "Problem 13"
+        },
+        {
+          "children": [
             {
               "node_type": "item",
-              "title": "This is a macOS hardening to read or set security configuration",
+              "title": "Malwoverview",
               "description": null,
               "children": [],
               "repo_info": {
                 "archived": false,
-                "id": 382088950,
-                "language": "Shell",
-                "last_commit": "2024-11-14T13:37:43Z",
-                "owner": "ataumo",
-                "repo": "macos_hardening",
-                "stars": 157
+                "id": 147892666,
+                "language": "Python",
+                "last_commit": "2026-08-07T20:16:45Z",
+                "owner": "alexandreborges",
+                "repo": "malwoverview",
+                "stars": 4072
               }
             }
           ],
@@ -648,6 +600,36 @@
           "children": [
             {
               "node_type": "item",
+              "title": "Read More",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 376155268,
+                "language": null,
+                "last_commit": "2026-03-14T19:04:35Z",
+                "owner": "OffcierCia",
+                "repo": "ultimate-defi-research-base",
+                "stars": 2209
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "ETH-XMR atomic swap",
+              "description": "this one released via a bridge!",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 420196018,
+                "language": "Go",
+                "last_commit": "2023-12-14T04:22:58Z",
+                "owner": "athanorlabs",
+                "repo": "atomic-swap",
+                "stars": 378
+              }
+            },
+            {
+              "node_type": "item",
               "title": "Helios",
               "description": null,
               "children": [],
@@ -700,7 +682,7 @@
           "children": [
             {
               "node_type": "item",
-              "title": "Physical Attacks",
+              "title": "Read More",
               "description": null,
               "children": [],
               "repo_info": {
@@ -711,21 +693,6 @@
                 "owner": "jlopp",
                 "repo": "physical-bitcoin-attacks",
                 "stars": 893
-              }
-            },
-            {
-              "node_type": "item",
-              "title": "Counter-OSINT Techniques",
-              "description": null,
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "id": 576570079,
-                "language": null,
-                "last_commit": "2026-01-18T09:47:57Z",
-                "owner": "CScorza",
-                "repo": "OSINTAnonymous",
-                "stars": 473
               }
             },
             {
@@ -742,7 +709,7 @@
                     "last_commit": "2026-05-05T21:38:04Z",
                     "owner": "decalage2",
                     "repo": "awesome-security-hardening",
-                    "stars": 6520
+                    "stars": 6522
                   }
                 },
                 {
@@ -757,7 +724,7 @@
                     "last_commit": "2026-02-13T10:55:07Z",
                     "owner": "undergroundwires",
                     "repo": "privacy.sexy",
-                    "stars": 5973
+                    "stars": 5979
                   }
                 },
                 {
@@ -784,13 +751,482 @@
           "description": "Be aware of most common attacks. Follow hacker websites, latest security standards, check out what Nitrokey or YubiKey or Titan do and why. As a conclusion - read what is OSINT and counterOSINT so possible criminals won't be able to collect needed data.\nPretend to be someone ordinary. For example, follow the legend that you are just a developer of one of the games for Asian market (there are a lot of them), mimic a \"average person\" in everything - even in financial transactions/operations. Think like your possible enemy: forewarned is forearmed.\nCheck out this book & article!",
           "node_type": "group",
           "title": "Problem 25"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "https://github.com/jlopp/physical-bitcoin-attacks/blob/master/README.md",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 140097891,
+                "language": null,
+                "last_commit": "2026-08-21T11:10:16Z",
+                "owner": "jlopp",
+                "repo": "physical-bitcoin-attacks",
+                "stars": 893
+              }
+            }
+          ],
+          "description": "Support is very important to me, with it I can do what I love - educating DeFi & Crypto users!\nThe best thing is to support me directly by donating to any address from the list below:\nMuch much thanks every single one of you!\nThank you! Stay safe!",
+          "node_type": "group",
+          "title": "Additional Resources"
         }
       ],
       "title": "OpSec SelfGuard RoadMap"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Store SSH keys in the Secure Enclave!",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 241524703,
+            "language": "Swift",
+            "last_commit": "2026-08-19T08:42:13Z",
+            "owner": "maxgoedjen",
+            "repo": "secretive",
+            "stars": 8811
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Blockchain dark forest selfguard handbook",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 501990676,
+            "language": "Solidity",
+            "last_commit": "2026-08-24T03:06:00Z",
+            "owner": "SunWeb3Sec",
+            "repo": "DeFiHackLabs",
+            "stars": 6755
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "A tool that allows user to create time bound backups for various cryptocurrencies",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 581700458,
+            "language": "TypeScript",
+            "last_commit": "2025-03-20T21:20:58Z",
+            "owner": "JamesANZ",
+            "repo": "crypto-timelocked-backup",
+            "stars": 11
+          }
+        }
+      ],
+      "title": "Expand"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Unredacter Tool",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 420161012,
+            "language": "TypeScript",
+            "last_commit": "2024-03-15T00:35:43Z",
+            "owner": "BishopFox",
+            "repo": "unredacter",
+            "stars": 8374
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "IT security lecture",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "id": 136597310,
+            "language": null,
+            "last_commit": "2023-08-18T22:41:18Z",
+            "owner": "bkimminich",
+            "repo": "it-security-lecture",
+            "stars": 377
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Awesome wifi security",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 66666315,
+            "language": null,
+            "last_commit": "2019-04-10T16:47:06Z",
+            "owner": "edelahozuah",
+            "repo": "awesome-wifi-security",
+            "stars": 174
+          }
+        }
+      ],
+      "title": "Expand"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Awesome csirt",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 59441906,
+            "language": "C",
+            "last_commit": "2025-11-25T17:45:31Z",
+            "owner": "Spacial",
+            "repo": "awesome-csirt",
+            "stars": 647
+          }
+        }
+      ],
+      "title": "Expand"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "solidity-security",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 599937380,
+            "language": "Solidity",
+            "last_commit": "2025-06-12T09:23:51Z",
+            "owner": "Faillapop",
+            "repo": "faillapop",
+            "stars": 150
+          }
+        }
+      ],
+      "title": "Expand"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Authenticator app for storing your 2FA secrets",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 560284721,
+            "language": "Dart",
+            "last_commit": "2026-08-24T13:32:11Z",
+            "owner": "ente",
+            "repo": "ente",
+            "stars": 28479
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Awesome Security Hardening Guides",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 184064793,
+            "language": null,
+            "last_commit": "2026-05-05T21:38:04Z",
+            "owner": "decalage2",
+            "repo": "awesome-security-hardening",
+            "stars": 6522
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Android Forensics References",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 533161728,
+            "language": null,
+            "last_commit": "2025-09-23T21:37:54Z",
+            "owner": "RealityNet",
+            "repo": "Android-Forensics-References",
+            "stars": 361
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "iOS Forensics References",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 627820495,
+            "language": null,
+            "last_commit": "2023-12-01T10:12:47Z",
+            "owner": "RealityNet",
+            "repo": "iOS-Forensics-References",
+            "stars": 237
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Check out: Portable Secret",
+          "description": "& digi cloak",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 369786491,
+            "language": "TypeScript",
+            "last_commit": "2026-07-31T07:15:13Z",
+            "owner": "kaushalmeena",
+            "repo": "digi-cloak",
+            "stars": 81
+          }
+        }
+      ],
+      "title": "Expand"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "openvpn-install",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 10054176,
+            "language": "Shell",
+            "last_commit": "2026-07-02T17:57:04Z",
+            "owner": "Nyr",
+            "repo": "openvpn-install",
+            "stars": 20618
+          }
+        }
+      ],
+      "title": "Expand"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "CreepDetector",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 214523484,
+            "language": "Jupyter Notebook",
+            "last_commit": "2021-05-06T01:20:52Z",
+            "owner": "skickar",
+            "repo": "CreepDetector",
+            "stars": 210
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Wardriving",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 178940812,
+            "language": "Jupyter Notebook",
+            "last_commit": "2023-03-30T16:48:59Z",
+            "owner": "AlexLynd",
+            "repo": "ESP8266-Wardriving",
+            "stars": 176
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Discord e2e encryption",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 165284507,
+            "language": "JavaScript",
+            "last_commit": "2019-08-01T12:44:21Z",
+            "owner": "mpgn",
+            "repo": "discord-e2e-encryption",
+            "stars": 95
+          }
+        }
+      ],
+      "title": "Expand"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Check out this tool",
+          "description": "!",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 452300927,
+            "language": "Go",
+            "last_commit": "2022-01-31T13:16:52Z",
+            "owner": "utkusen",
+            "repo": "wholeaked",
+            "stars": 1100
+          }
+        }
+      ],
+      "title": "Expand"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Awesome Memory Forensics",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 477038428,
+            "language": null,
+            "last_commit": "2026-08-17T21:50:15Z",
+            "owner": "digitalisx",
+            "repo": "awesome-memory-forensics",
+            "stars": 561
+          }
+        }
+      ],
+      "title": "Expand"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Guide to securing and improving privacy on macOS",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 41654081,
+            "language": null,
+            "last_commit": "2026-08-23T16:01:49Z",
+            "owner": "drduh",
+            "repo": "macOS-Security-and-Privacy-Guide",
+            "stars": 22486
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "A collection of awesome security hardening guides, tools and other resources",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 184064793,
+            "language": null,
+            "last_commit": "2026-05-05T21:38:04Z",
+            "owner": "decalage2",
+            "repo": "awesome-security-hardening",
+            "stars": 6522
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "This is a macOS hardening to read or set security configuration",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 382088950,
+            "language": "Shell",
+            "last_commit": "2024-11-14T13:37:43Z",
+            "owner": "ataumo",
+            "repo": "macos_hardening",
+            "stars": 157
+          }
+        }
+      ],
+      "title": "Expand"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Read More",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 378536025,
+            "language": "JavaScript",
+            "last_commit": "2026-08-16T23:17:39Z",
+            "owner": "OffcierCia",
+            "repo": "DeFi-Developer-Road-Map",
+            "stars": 10818
+          }
+        }
+      ],
+      "title": "Expand"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Physical Attacks",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 140097891,
+            "language": null,
+            "last_commit": "2026-08-21T11:10:16Z",
+            "owner": "jlopp",
+            "repo": "physical-bitcoin-attacks",
+            "stars": 893
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Counter-OSINT Techniques",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 576570079,
+            "language": null,
+            "last_commit": "2026-01-18T09:47:57Z",
+            "owner": "CScorza",
+            "repo": "OSINTAnonymous",
+            "stars": 473
+          }
+        }
+      ],
+      "title": "Expand"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-23T16:54:29.615Z",
+    "last_updated": "2026-08-24T14:09:55.077Z",
     "original_repository": "OffcierCia/Crypto-OpSec-SelfGuard-RoadMap",
     "original_repository_id": 379360003,
     "original_repository_sha": "f910b843317d34227ad80c6567b46eefb2c082c4",
