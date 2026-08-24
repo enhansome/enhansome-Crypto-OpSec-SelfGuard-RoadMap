@@ -72,7 +72,7 @@ Let’s say we deal with a [Duress](https://play.google.com/store/apps/details?i
 
 ### **Why is this guide so big?**
 
-Well, regarding big lists. Japan was the first country to invent the work that we do now in the form of [SoKs](https://www.jsys.org/type_SoK/) or [Awesome GitHub lists](https://github.com/OffcierCia/ultimate-defi-research-base) ⭐ 2,209 | 🐛 1 | 📅 2026-03-14! If anyone is still around, browsers used to be sort of a table or database of websites, many of which were quite… uninspiring.
+Well, regarding big lists. Japan was the first country to invent the work that we do now in the form of [SoKs](https://www.jsys.org/type_SoK/) or [Awesome GitHub lists](https://github.com/OffcierCia/ultimate-defi-research-base) ⭐ 2,210 | 🐛 1 | 📅 2026-03-14! If anyone is still around, browsers used to be sort of a table or database of websites, many of which were quite… uninspiring.
 
 > This manual is the culmination of years of work by security professionals. Consider this guidebook to be a compilation of advice and routes.
 
@@ -96,7 +96,7 @@ Use a secure email provider. Also use trusted VPN like Mullvad or ProtonVPN (bet
 
 For example, if a Protonmail user sends an email to a Gmail user, the email is encrypted with TLS, but Google can still read and hand over any data that passes through their server. E2E can be re-established by using features such as the password-protected email feature from Protonmail.
 
-* [Croc Tool](https://github.com/schollz/croc) ⭐ 40,072 | 🐛 2 | 🌐 Go | 📅 2026-08-24
+* [Croc Tool](https://github.com/schollz/croc) ⭐ 40,075 | 🐛 2 | 🌐 Go | 📅 2026-08-24
 * [Watch More](https://www.youtube.com/channel/UCYVU6rModlGxvJbszCclGGw)
 * [Read More on Email Encryption with Proton](https://proton.me/support/proton-mail-encryption-explained)
 * [Meta Secret Tool](https://github.com/meta-secret)
@@ -160,7 +160,7 @@ Use passwords that are at least 8 characters in length, but a minimum of 12 is g
 <summary>Expand</summary>
 <br />
 
-* [Store SSH keys in the Secure Enclave!](https://github.com/maxgoedjen/secretive) ⭐ 8,811 | 🐛 169 | 🌐 Swift | 📅 2026-08-19
+* [Store SSH keys in the Secure Enclave!](https://github.com/maxgoedjen/secretive) ⭐ 8,812 | 🐛 169 | 🌐 Swift | 📅 2026-08-19
 * [Blockchain dark forest selfguard handbook](https://github.com/SunWeb3Sec/DeFiHackLabs/tree/main/academy/user_awareness/01_handbook/en) ⭐ 6,755 | 🐛 2 | 🌐 Solidity | 📅 2026-08-24
 * [A tool that allows user to create time bound backups for various cryptocurrencies](https://github.com/James-Sangalli/crypto-timelocked-backup) ⭐ 11 | 🐛 10 | 🌐 TypeScript | 📅 2025-03-20
 
@@ -174,7 +174,7 @@ Using a string of unrelated words while still meeting the dictionary requirement
 <summary>Expand</summary>
 <br />
 
-* [Unredacter Tool](https://github.com/BishopFox/unredacter) ⭐ 8,374 | 🐛 36 | 🌐 TypeScript | 📅 2024-03-15
+* [Unredacter Tool](https://github.com/BishopFox/unredacter) ⭐ 8,375 | 🐛 36 | 🌐 TypeScript | 📅 2024-03-15
 * [IT security lecture](https://github.com/bkimminich/it-security-lecture/) ⚠️ Archived
 * [Awesome wifi security](https://github.com/edelahozuah/awesome-wifi-security) ⭐ 174 | 🐛 2 | 📅 2019-04-10
 * [Wi-Fi Security A-Z](twitter.com/officer_cia/status/1566473017068331010)
@@ -213,7 +213,7 @@ If you see suspicious password activity or failed log-ins on any of your account
 
 **On the opposite:**
 
-> For 2FA one can use KeePass + Yubikey as well. KeePass allows setting up TOTP to any entry in your .kdbx file. Yubikey could be used in company with KeePass to add a bit of entropy on each re-encryption when adding an entry in your db file: [Ref No.1](https://developers.yubico.com/Developer_Program/Guides/Touch_triggered_OTP.html); [Ref No.2](https://www.reddit.com/r/KeePass/comments/opx34q/keepassxc_and_yubikeys_setting_up_the); [Ref No.3](https://github.com/keepassxreboot/keepassxc/discussions/6344) ⭐ 28,524 | 🐛 898 | 🌐 C++ | 📅 2026-08-24.
+> For 2FA one can use KeePass + Yubikey as well. KeePass allows setting up TOTP to any entry in your .kdbx file. Yubikey could be used in company with KeePass to add a bit of entropy on each re-encryption when adding an entry in your db file: [Ref No.1](https://developers.yubico.com/Developer_Program/Guides/Touch_triggered_OTP.html); [Ref No.2](https://www.reddit.com/r/KeePass/comments/opx34q/keepassxc_and_yubikeys_setting_up_the); [Ref No.3](https://github.com/keepassxreboot/keepassxc/discussions/6344) ⭐ 28,525 | 🐛 896 | 🌐 C++ | 📅 2026-08-24.
 
 <details>
 <summary>Expand</summary>
@@ -357,7 +357,7 @@ Ask yourself, what happens if my house catches on fire? What temperature is my s
 <summary>Expand</summary>
 <br />
 
-* [Authenticator app for storing your 2FA secrets](https://github.com/ente-io/auth/#readme) ⭐ 28,479 | 🐛 261 | 🌐 Dart | 📅 2026-08-24
+* [Authenticator app for storing your 2FA secrets](https://github.com/ente-io/auth/#readme) ⭐ 28,482 | 🐛 262 | 🌐 Dart | 📅 2026-08-24
 * [Awesome Security Hardening Guides](https://github.com/decalage2/awesome-security-hardening) ⭐ 6,522 | 🐛 126 | 📅 2026-05-05
 * [Android Forensics References](https://github.com/RealityNet/Android-Forensics-References) ⭐ 361 | 🐛 2 | 📅 2025-09-23
 * [iOS Forensics References](https://github.com/RealityNet/iOS-Forensics-References) ⭐ 237 | 🐛 2 | 📅 2023-12-01
@@ -379,7 +379,7 @@ Never do anything you do not understand. Always check which token you approve, t
 
 > You can install Comodo or MalwareBytes antivirus but it won't help you if you do not understand them. Keep up your basic set of defending tools up to date. For ultra-secure comunications, run WhonixOS and [use Jabber (Adium, Psi+ or Xabber or ChatSecure) over Tor with OTR plug-in.](https://www.darknetstats.com/tutorial-xmpp-jabber-otr-over-tor) Or Matrix… Or, at least, configure telegram correctly…
 
-* [A curated list of privacy & security-focused software and services](https://github.com/Lissy93/awesome-privacy) ⭐ 9,787 | 🐛 4 | 🌐 Astro | 📅 2026-08-22
+* [A curated list of privacy & security-focused software and services](https://github.com/Lissy93/awesome-privacy) ⭐ 9,788 | 🐛 4 | 🌐 Astro | 📅 2026-08-22
 * [YouTubeDrive](https://github.com/dzhang314/YouTubeDrive) ⭐ 1,940 | 🐛 1 | 🌐 Mathematica | 📅 2018-07-26 & [example](https://www.youtube.com/watch?v=Fmm1AeYmbNU)
 * [youbit](https://github.com/MeViMo/youbit) ⭐ 682 | 🐛 4 | 🌐 Cython | 📅 2022-11-07
 * [Digital Communications Protocols](https://docs.google.com/spreadsheets/d/1-UlA4-tslROBDS9IqHalWVztqZo7uxlCeKPQ-8uoFOU/edit#gid=0)
@@ -488,7 +488,7 @@ Also check out:
 
 * [algoVPN](https://github.com/trailofbits/algo) ⭐ 30,361 | 🐛 79 | 🌐 Python | 📅 2026-08-19
 * [GoodbyeDPI](https://github.com/ValdikSS/GoodbyeDPI) ⭐ 28,587 | 🐛 150 | 🌐 C | 📅 2026-01-19
-* [rethink-app](https://github.com/celzero/rethink-app) ⭐ 5,329 | 🐛 628 | 🌐 Kotlin | 📅 2026-08-21
+* [rethink-app](https://github.com/celzero/rethink-app) ⭐ 5,330 | 🐛 629 | 🌐 Kotlin | 📅 2026-08-21
 * [souin](https://github.com/darkweak/souin) ⭐ 995 | 🐛 71 | 🌐 Go | 📅 2026-07-28
 * [Teletun](https://github.com/PiMaker/Teletun) ⚠️ Archived
 * [anon-service](https://github.com/bit4mind/anon-service) ⭐ 13 | 🐛 0 | 🌐 Shell | 📅 2026-07-21
@@ -537,7 +537,7 @@ Avoid installing any third-party software, including single-player and multiplay
 
 Be careful about using your real home address online for delivery purposes. Data breaches are now a daily occurrence, and many breaches include customer names and addresses. Your physical address is not as easily changeable as a phone number or email address, so be especially mindful about where you use it on the Internet.
 
-* [DefaultCreds CheatSheet](https://github.com/ihebski/DefaultCreds-cheat-sheet/) ⭐ 6,721 | 🐛 0 | 🌐 Python | 📅 2026-07-09
+* [DefaultCreds CheatSheet](https://github.com/ihebski/DefaultCreds-cheat-sheet/) ⭐ 6,722 | 🐛 0 | 🌐 Python | 📅 2026-07-09
 * [Physical crypto attacks](https://github.com/jlopp/physical-bitcoin-attacks/blob/master/README.md) ⭐ 893 | 🐛 16 | 📅 2026-08-21
 * [About If you want know, who use your computer when you are not nearby - PC Mouse Tracker](https://github.com/iterweb/watcher) ⭐ 48 | 🐛 0 | 🌐 Python | 📅 2021-09-30
 
@@ -627,7 +627,7 @@ OpSec often comes into play in public settings. For example, if members of your 
 
 A lot of OpSec missteps can be avoided by being more aware of your surroundings and the context in which you are speaking: what you’re saying, where you are, who you’re speaking to, and who might overhear. It’s a good idea to go over the “no-no’s” for your specific company during onboarding and to remind employees of them periodically.
 
-* [Awesome InfoSec](https://github.com/onlurking/awesome-infosec) ⭐ 5,723 | 🐛 15 | 📅 2026-08-15
+* [Awesome InfoSec](https://github.com/onlurking/awesome-infosec) ⭐ 5,724 | 🐛 15 | 📅 2026-08-15
 * [Watch More](https://www.youtube.com/watch?v=hxHqE2W8scQy)
 * [Dear Security, be a part of the solution](https://medium.com/chris-dialogue/dear-security-be-a-part-of-the-solution-703201425805)
 * [Staying Safe in Web3: OTC Scams](https://polkaverse.com/@bruno/staying-safe-in-web3-otc-scams-30094)
@@ -842,7 +842,7 @@ Separate machines on the same network will not prevent this, as the traffic pass
 
 Malware can also have the functionality to "attack" a computer's clipboard. The malware could check the clipboard at a set interval to see if any cryptocurrency addresses are detected in it. If they are, it would then replace the one in the clipboard with one of the hacker's cryptocurrency addresses, which means the cryptocurrency would then be sent to the hacker. The beginning and end may match, but this requires extra functionality on the part of the malware, as it would need to generate wallets on the fly and exfiltrate the keys to the hacker.
 
-* [Malwoverview](https://github.com/alexandreborges/malwoverview) ⭐ 4,072 | 🐛 0 | 🌐 Python | 📅 2026-08-07
+* [Malwoverview](https://github.com/alexandreborges/malwoverview) ⭐ 4,073 | 🐛 0 | 🌐 Python | 📅 2026-08-07
 * [Watch More](https://www.youtube.com/watch?v=pGcerfVqYyU)
 * [Read More](https://medium.com/@cryptochatjoe/remaining-anonymous-in-todays-crypto-market-a-101-guide-for-the-badass-not-so-techies-7091edffa9aa)
 * [scan.tylabs.com](https://scan.tylabs.com)
@@ -964,7 +964,7 @@ Only Interact with DeFi Protocols You Trust - Take your time to read up on some 
 
 **Awesome Tools:**
 
-* [Read More](https://github.com/OffcierCia/ultimate-defi-research-base) ⭐ 2,209 | 🐛 1 | 📅 2026-03-14
+* [Read More](https://github.com/OffcierCia/ultimate-defi-research-base) ⭐ 2,210 | 🐛 1 | 📅 2026-03-14
 * [TryEthernal.com](https://TryEthernal.com)
 * [Defillama.com](https://Defillama.com)
 * [Rotki](https://github.com/rotki)
@@ -1004,7 +1004,7 @@ Use trusted services. Using a secure, easy-to-use crypto wallet to interact with
 <summary>Expand</summary>
 <br />
 
-* [Read More](https://github.com/OffcierCia/DeFi-Developer-Road-Map) ⭐ 10,818 | 🐛 5 | 🌐 JavaScript | 📅 2026-08-16
+* [Read More](https://github.com/OffcierCia/DeFi-Developer-Road-Map) ⭐ 10,820 | 🐛 5 | 🌐 JavaScript | 📅 2026-08-16
 * [The Only Safe Way to Store Crypto](https://officercia.mirror.xyz/p1ieZdxQWH4yHCNOXNPHyT8So1cY0X_wMGKwdmavi7s)
 * [Read More](https://blog.eduonix.com/cryptocurrency/cryptocurrency-security-checklist-investors-adopt/)
 * [How to protect your assets](https://mirror.xyz/crisgarner.eth/gJjASuCkbXJ1w574ePvJ3kNyWBZQfUyelMvsp4ujZ80)
@@ -1070,7 +1070,7 @@ Pretend to be someone ordinary. For example, follow the legend that you are just
 **Also check out:**
 
 * [Awesome Security Hardening Guides](https://github.com/decalage2/awesome-security-hardening) ⭐ 6,522 | 🐛 126 | 📅 2026-05-05
-* [Privacy.sexy Repo](https://github.com/undergroundwires/privacy.sexy) ⭐ 5,979 | 🐛 251 | 🌐 TypeScript | 📅 2026-02-13
+* [Privacy.sexy Repo](https://github.com/undergroundwires/privacy.sexy) ⭐ 5,980 | 🐛 251 | 🌐 TypeScript | 📅 2026-02-13
 * [A collection of practical security-focused guides and checklists for smart contract development](https://github.com/nascentxyz/simple-security-toolkit) ⭐ 1,233 | 🐛 1 | 📅 2023-11-15
 * [AnonPlanet](https://anonymousplanet.org/links.html)
 * [Anon Guide](https://hackmd.io/@0xngmi/B1BXYIWCO) or via [this link](hackmd.io/YKjhguQES_KeKYs-v1YC1w?both)

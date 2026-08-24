@@ -102,10 +102,10 @@
                 "archived": false,
                 "id": 107286889,
                 "language": "Go",
-                "last_commit": "2026-08-24T13:58:13Z",
+                "last_commit": "2026-08-24T16:04:40Z",
                 "owner": "schollz",
                 "repo": "croc",
-                "stars": 40072
+                "stars": 40075
               }
             }
           ],
@@ -171,7 +171,7 @@
                 "last_commit": "2026-08-22T05:31:45Z",
                 "owner": "lissy93",
                 "repo": "awesome-privacy",
-                "stars": 9787
+                "stars": 9788
               }
             },
             {
@@ -321,7 +321,7 @@
                 "last_commit": "2026-08-21T10:34:13Z",
                 "owner": "celzero",
                 "repo": "rethink-app",
-                "stars": 5329
+                "stars": 5330
               }
             },
             {
@@ -403,7 +403,7 @@
                 "last_commit": "2026-07-09T10:09:24Z",
                 "owner": "ihebski",
                 "repo": "DefaultCreds-cheat-sheet",
-                "stars": 6721
+                "stars": 6722
               }
             },
             {
@@ -455,7 +455,7 @@
                 "last_commit": "2026-08-15T16:05:29Z",
                 "owner": "onlurking",
                 "repo": "awesome-infosec",
-                "stars": 5723
+                "stars": 5724
               }
             }
           ],
@@ -521,7 +521,7 @@
                 "last_commit": "2026-08-07T20:16:45Z",
                 "owner": "alexandreborges",
                 "repo": "malwoverview",
-                "stars": 4072
+                "stars": 4073
               }
             }
           ],
@@ -610,7 +610,7 @@
                 "last_commit": "2026-03-14T19:04:35Z",
                 "owner": "OffcierCia",
                 "repo": "ultimate-defi-research-base",
-                "stars": 2209
+                "stars": 2210
               }
             },
             {
@@ -724,7 +724,7 @@
                     "last_commit": "2026-02-13T10:55:07Z",
                     "owner": "undergroundwires",
                     "repo": "privacy.sexy",
-                    "stars": 5979
+                    "stars": 5980
                   }
                 },
                 {
@@ -792,7 +792,7 @@
             "last_commit": "2026-08-19T08:42:13Z",
             "owner": "maxgoedjen",
             "repo": "secretive",
-            "stars": 8811
+            "stars": 8812
           }
         },
         {
@@ -843,7 +843,7 @@
             "last_commit": "2024-03-15T00:35:43Z",
             "owner": "BishopFox",
             "repo": "unredacter",
-            "stars": 8374
+            "stars": 8375
           }
         },
         {
@@ -936,7 +936,7 @@
             "last_commit": "2026-08-24T13:32:11Z",
             "owner": "ente",
             "repo": "ente",
-            "stars": 28479
+            "stars": 28482
           }
         },
         {
@@ -1182,7 +1182,7 @@
             "last_commit": "2026-08-16T23:17:39Z",
             "owner": "OffcierCia",
             "repo": "DeFi-Developer-Road-Map",
-            "stars": 10818
+            "stars": 10820
           }
         }
       ],
@@ -1226,7 +1226,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T14:09:55.077Z",
+    "last_updated": "2026-08-24T17:07:36.361Z",
     "original_repository": "OffcierCia/Crypto-OpSec-SelfGuard-RoadMap",
     "original_repository_id": 379360003,
     "original_repository_sha": "f910b843317d34227ad80c6567b46eefb2c082c4",
