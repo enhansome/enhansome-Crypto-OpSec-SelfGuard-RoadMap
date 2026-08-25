@@ -50,7 +50,7 @@
             "last_commit": "2023-05-22T13:36:52Z",
             "owner": "mektigboy",
             "repo": "evm-chad",
-            "stars": 333
+            "stars": 332
           },
           "title": "Why does this guide focus primarily on advice for EVM-based blockchains and cryptocurrencies based on them?"
         },
@@ -105,7 +105,7 @@
                 "last_commit": "2026-08-24T16:04:40Z",
                 "owner": "schollz",
                 "repo": "croc",
-                "stars": 40075
+                "stars": 40086
               }
             }
           ],
@@ -168,10 +168,10 @@
                 "archived": false,
                 "id": 512269935,
                 "language": "Astro",
-                "last_commit": "2026-08-22T05:31:45Z",
+                "last_commit": "2026-08-24T18:46:19Z",
                 "owner": "lissy93",
                 "repo": "awesome-privacy",
-                "stars": 9788
+                "stars": 9792
               }
             },
             {
@@ -216,7 +216,7 @@
                 "last_commit": "2026-08-23T16:01:49Z",
                 "owner": "drduh",
                 "repo": "macOS-Security-and-Privacy-Guide",
-                "stars": 22486
+                "stars": 22485
               }
             },
             {
@@ -231,7 +231,7 @@
                 "last_commit": "2026-08-20T18:24:35Z",
                 "owner": "usnistgov",
                 "repo": "macos_security",
-                "stars": 2448
+                "stars": 2449
               }
             },
             {
@@ -246,7 +246,7 @@
                 "last_commit": "2026-07-28T20:37:27Z",
                 "owner": "Brandon7CC",
                 "repo": "mac-monitor",
-                "stars": 1375
+                "stars": 1376
               }
             },
             {
@@ -276,7 +276,7 @@
                 "last_commit": "2026-05-05T21:38:04Z",
                 "owner": "decalage2",
                 "repo": "awesome-security-hardening",
-                "stars": 6522
+                "stars": 6524
               }
             },
             {
@@ -306,7 +306,7 @@
                 "last_commit": "2026-01-19T12:59:23Z",
                 "owner": "ValdikSS",
                 "repo": "GoodbyeDPI",
-                "stars": 28587
+                "stars": 28588
               }
             },
             {
@@ -318,10 +318,10 @@
                 "archived": false,
                 "id": 270683546,
                 "language": "Kotlin",
-                "last_commit": "2026-08-21T10:34:13Z",
+                "last_commit": "2026-08-24T17:44:52Z",
                 "owner": "celzero",
                 "repo": "rethink-app",
-                "stars": 5330
+                "stars": 5332
               }
             },
             {
@@ -403,7 +403,7 @@
                 "last_commit": "2026-07-09T10:09:24Z",
                 "owner": "ihebski",
                 "repo": "DefaultCreds-cheat-sheet",
-                "stars": 6722
+                "stars": 6724
               }
             },
             {
@@ -499,7 +499,7 @@
                 "last_commit": "2025-08-14T14:29:48Z",
                 "owner": "Ekultek",
                 "repo": "WhatBreach",
-                "stars": 1658
+                "stars": 1659
               }
             }
           ],
@@ -709,7 +709,7 @@
                     "last_commit": "2026-05-05T21:38:04Z",
                     "owner": "decalage2",
                     "repo": "awesome-security-hardening",
-                    "stars": 6522
+                    "stars": 6524
                   }
                 },
                 {
@@ -724,7 +724,7 @@
                     "last_commit": "2026-02-13T10:55:07Z",
                     "owner": "undergroundwires",
                     "repo": "privacy.sexy",
-                    "stars": 5980
+                    "stars": 5981
                   }
                 },
                 {
@@ -756,7 +756,7 @@
           "children": [
             {
               "node_type": "item",
-              "title": "https://github.com/jlopp/physical-bitcoin-attacks/blob/master/README.md",
+              "title": "jlopp/physical-bitcoin-attacks",
               "description": null,
               "children": [],
               "repo_info": {
@@ -792,7 +792,7 @@
             "last_commit": "2026-08-19T08:42:13Z",
             "owner": "maxgoedjen",
             "repo": "secretive",
-            "stars": 8812
+            "stars": 8815
           }
         },
         {
@@ -807,7 +807,7 @@
             "last_commit": "2026-08-24T03:06:00Z",
             "owner": "SunWeb3Sec",
             "repo": "DeFiHackLabs",
-            "stars": 6755
+            "stars": 6756
           }
         },
         {
@@ -933,10 +933,10 @@
             "archived": false,
             "id": 560284721,
             "language": "Dart",
-            "last_commit": "2026-08-24T13:32:11Z",
+            "last_commit": "2026-08-25T05:54:20Z",
             "owner": "ente",
             "repo": "ente",
-            "stars": 28482
+            "stars": 28486
           }
         },
         {
@@ -951,7 +951,7 @@
             "last_commit": "2026-05-05T21:38:04Z",
             "owner": "decalage2",
             "repo": "awesome-security-hardening",
-            "stars": 6522
+            "stars": 6524
           }
         },
         {
@@ -1131,7 +1131,7 @@
             "last_commit": "2026-08-23T16:01:49Z",
             "owner": "drduh",
             "repo": "macOS-Security-and-Privacy-Guide",
-            "stars": 22486
+            "stars": 22485
           }
         },
         {
@@ -1146,7 +1146,7 @@
             "last_commit": "2026-05-05T21:38:04Z",
             "owner": "decalage2",
             "repo": "awesome-security-hardening",
-            "stars": 6522
+            "stars": 6524
           }
         },
         {
@@ -1182,7 +1182,7 @@
             "last_commit": "2026-08-16T23:17:39Z",
             "owner": "OffcierCia",
             "repo": "DeFi-Developer-Road-Map",
-            "stars": 10820
+            "stars": 10819
           }
         }
       ],
@@ -1226,7 +1226,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T17:07:36.361Z",
+    "last_updated": "2026-08-25T05:59:52.332Z",
     "original_repository": "OffcierCia/Crypto-OpSec-SelfGuard-RoadMap",
     "original_repository_id": 379360003,
     "original_repository_sha": "f910b843317d34227ad80c6567b46eefb2c082c4",
