@@ -102,10 +102,10 @@
                 "archived": false,
                 "id": 107286889,
                 "language": "Go",
-                "last_commit": "2026-08-24T16:04:40Z",
+                "last_commit": "2026-08-25T09:50:58Z",
                 "owner": "schollz",
                 "repo": "croc",
-                "stars": 40086
+                "stars": 40095
               }
             }
           ],
@@ -127,7 +127,7 @@
                 "last_commit": "2025-10-12T06:30:30Z",
                 "owner": "slowmist",
                 "repo": "Blockchain-dark-forest-selfguard-handbook",
-                "stars": 6839
+                "stars": 6840
               }
             }
           ],
@@ -168,7 +168,7 @@
                 "archived": false,
                 "id": 512269935,
                 "language": "Astro",
-                "last_commit": "2026-08-24T18:46:19Z",
+                "last_commit": "2026-08-25T13:55:23Z",
                 "owner": "lissy93",
                 "repo": "awesome-privacy",
                 "stars": 9792
@@ -276,7 +276,7 @@
                 "last_commit": "2026-05-05T21:38:04Z",
                 "owner": "decalage2",
                 "repo": "awesome-security-hardening",
-                "stars": 6524
+                "stars": 6525
               }
             },
             {
@@ -291,7 +291,7 @@
                 "last_commit": "2026-08-19T08:43:19Z",
                 "owner": "trailofbits",
                 "repo": "algo",
-                "stars": 30361
+                "stars": 30362
               }
             },
             {
@@ -333,7 +333,7 @@
                 "archived": false,
                 "id": 218724447,
                 "language": "Go",
-                "last_commit": "2026-07-28T09:13:43Z",
+                "last_commit": "2026-08-25T16:41:03Z",
                 "owner": "darkweak",
                 "repo": "souin",
                 "stars": 995
@@ -415,7 +415,7 @@
                 "archived": false,
                 "id": 140097891,
                 "language": null,
-                "last_commit": "2026-08-21T11:10:16Z",
+                "last_commit": "2026-08-25T14:39:35Z",
                 "owner": "jlopp",
                 "repo": "physical-bitcoin-attacks",
                 "stars": 893
@@ -455,7 +455,7 @@
                 "last_commit": "2026-08-15T16:05:29Z",
                 "owner": "onlurking",
                 "repo": "awesome-infosec",
-                "stars": 5724
+                "stars": 5725
               }
             }
           ],
@@ -477,7 +477,7 @@
                 "last_commit": "2024-04-21T18:54:45Z",
                 "owner": "amnesica",
                 "repo": "KryptEY",
-                "stars": 875
+                "stars": 873
               }
             }
           ],
@@ -521,7 +521,7 @@
                 "last_commit": "2026-08-07T20:16:45Z",
                 "owner": "alexandreborges",
                 "repo": "malwoverview",
-                "stars": 4073
+                "stars": 4075
               }
             }
           ],
@@ -689,7 +689,7 @@
                 "archived": false,
                 "id": 140097891,
                 "language": null,
-                "last_commit": "2026-08-21T11:10:16Z",
+                "last_commit": "2026-08-25T14:39:35Z",
                 "owner": "jlopp",
                 "repo": "physical-bitcoin-attacks",
                 "stars": 893
@@ -709,7 +709,7 @@
                     "last_commit": "2026-05-05T21:38:04Z",
                     "owner": "decalage2",
                     "repo": "awesome-security-hardening",
-                    "stars": 6524
+                    "stars": 6525
                   }
                 },
                 {
@@ -763,7 +763,7 @@
                 "archived": false,
                 "id": 140097891,
                 "language": null,
-                "last_commit": "2026-08-21T11:10:16Z",
+                "last_commit": "2026-08-25T14:39:35Z",
                 "owner": "jlopp",
                 "repo": "physical-bitcoin-attacks",
                 "stars": 893
@@ -792,7 +792,7 @@
             "last_commit": "2026-08-19T08:42:13Z",
             "owner": "maxgoedjen",
             "repo": "secretive",
-            "stars": 8815
+            "stars": 8817
           }
         },
         {
@@ -843,7 +843,7 @@
             "last_commit": "2024-03-15T00:35:43Z",
             "owner": "BishopFox",
             "repo": "unredacter",
-            "stars": 8375
+            "stars": 8380
           }
         },
         {
@@ -933,10 +933,10 @@
             "archived": false,
             "id": 560284721,
             "language": "Dart",
-            "last_commit": "2026-08-25T05:54:20Z",
+            "last_commit": "2026-08-25T14:00:58Z",
             "owner": "ente",
             "repo": "ente",
-            "stars": 28486
+            "stars": 28495
           }
         },
         {
@@ -951,7 +951,7 @@
             "last_commit": "2026-05-05T21:38:04Z",
             "owner": "decalage2",
             "repo": "awesome-security-hardening",
-            "stars": 6524
+            "stars": 6525
           }
         },
         {
@@ -1017,7 +1017,7 @@
             "last_commit": "2026-07-02T17:57:04Z",
             "owner": "Nyr",
             "repo": "openvpn-install",
-            "stars": 20618
+            "stars": 20617
           }
         }
       ],
@@ -1146,7 +1146,7 @@
             "last_commit": "2026-05-05T21:38:04Z",
             "owner": "decalage2",
             "repo": "awesome-security-hardening",
-            "stars": 6524
+            "stars": 6525
           }
         },
         {
@@ -1182,7 +1182,7 @@
             "last_commit": "2026-08-16T23:17:39Z",
             "owner": "OffcierCia",
             "repo": "DeFi-Developer-Road-Map",
-            "stars": 10819
+            "stars": 10818
           }
         }
       ],
@@ -1200,7 +1200,7 @@
             "archived": false,
             "id": 140097891,
             "language": null,
-            "last_commit": "2026-08-21T11:10:16Z",
+            "last_commit": "2026-08-25T14:39:35Z",
             "owner": "jlopp",
             "repo": "physical-bitcoin-attacks",
             "stars": 893
@@ -1226,7 +1226,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T05:59:52.332Z",
+    "last_updated": "2026-08-25T17:07:17.274Z",
     "original_repository": "OffcierCia/Crypto-OpSec-SelfGuard-RoadMap",
     "original_repository_id": 379360003,
     "original_repository_sha": "f910b843317d34227ad80c6567b46eefb2c082c4",
