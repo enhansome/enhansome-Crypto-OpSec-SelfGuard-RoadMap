@@ -105,7 +105,7 @@
                 "last_commit": "2026-08-26T11:23:09Z",
                 "owner": "schollz",
                 "repo": "croc",
-                "stars": 40104
+                "stars": 40115
               }
             }
           ],
@@ -171,7 +171,7 @@
                 "last_commit": "2026-08-26T17:08:44Z",
                 "owner": "lissy93",
                 "repo": "awesome-privacy",
-                "stars": 9797
+                "stars": 9796
               }
             },
             {
@@ -186,7 +186,7 @@
                 "last_commit": "2018-07-26T07:46:43Z",
                 "owner": "dzhang314",
                 "repo": "YouTubeDrive",
-                "stars": 1940
+                "stars": 1939
               }
             },
             {
@@ -213,10 +213,10 @@
                 "archived": false,
                 "id": 41654081,
                 "language": null,
-                "last_commit": "2026-08-26T00:31:11Z",
+                "last_commit": "2026-08-27T03:00:01Z",
                 "owner": "drduh",
                 "repo": "macOS-Security-and-Privacy-Guide",
-                "stars": 22489
+                "stars": 22494
               }
             },
             {
@@ -228,10 +228,10 @@
                 "archived": false,
                 "id": 269753140,
                 "language": "YAML",
-                "last_commit": "2026-08-26T18:09:27Z",
+                "last_commit": "2026-08-26T18:42:40Z",
                 "owner": "usnistgov",
                 "repo": "macos_security",
-                "stars": 2449
+                "stars": 2454
               }
             },
             {
@@ -288,10 +288,10 @@
                 "archived": false,
                 "id": 58842707,
                 "language": "Python",
-                "last_commit": "2026-08-19T08:43:19Z",
+                "last_commit": "2026-08-26T21:45:41Z",
                 "owner": "trailofbits",
                 "repo": "algo",
-                "stars": 30365
+                "stars": 30368
               }
             },
             {
@@ -306,7 +306,7 @@
                 "last_commit": "2026-01-19T12:59:23Z",
                 "owner": "ValdikSS",
                 "repo": "GoodbyeDPI",
-                "stars": 28588
+                "stars": 28589
               }
             },
             {
@@ -321,7 +321,7 @@
                 "last_commit": "2026-08-24T17:44:52Z",
                 "owner": "celzero",
                 "repo": "rethink-app",
-                "stars": 5336
+                "stars": 5339
               }
             },
             {
@@ -336,7 +336,7 @@
                 "last_commit": "2026-08-25T16:41:03Z",
                 "owner": "darkweak",
                 "repo": "souin",
-                "stars": 996
+                "stars": 997
               }
             },
             {
@@ -403,7 +403,7 @@
                 "last_commit": "2026-07-09T10:09:24Z",
                 "owner": "ihebski",
                 "repo": "DefaultCreds-cheat-sheet",
-                "stars": 6725
+                "stars": 6726
               }
             },
             {
@@ -455,7 +455,7 @@
                 "last_commit": "2026-08-15T16:05:29Z",
                 "owner": "onlurking",
                 "repo": "awesome-infosec",
-                "stars": 5726
+                "stars": 5727
               }
             }
           ],
@@ -477,7 +477,7 @@
                 "last_commit": "2024-04-21T18:54:45Z",
                 "owner": "amnesica",
                 "repo": "KryptEY",
-                "stars": 873
+                "stars": 872
               }
             }
           ],
@@ -499,7 +499,7 @@
                 "last_commit": "2025-08-14T14:29:48Z",
                 "owner": "Ekultek",
                 "repo": "WhatBreach",
-                "stars": 1662
+                "stars": 1665
               }
             }
           ],
@@ -724,7 +724,7 @@
                     "last_commit": "2026-02-13T10:55:07Z",
                     "owner": "undergroundwires",
                     "repo": "privacy.sexy",
-                    "stars": 5983
+                    "stars": 5984
                   }
                 },
                 {
@@ -792,7 +792,7 @@
             "last_commit": "2026-08-19T08:42:13Z",
             "owner": "maxgoedjen",
             "repo": "secretive",
-            "stars": 8819
+            "stars": 8820
           }
         },
         {
@@ -804,7 +804,7 @@
             "archived": false,
             "id": 501990676,
             "language": "Solidity",
-            "last_commit": "2026-08-24T03:06:00Z",
+            "last_commit": "2026-08-27T03:01:04Z",
             "owner": "SunWeb3Sec",
             "repo": "DeFiHackLabs",
             "stars": 6759
@@ -843,7 +843,7 @@
             "last_commit": "2024-03-15T00:35:43Z",
             "owner": "BishopFox",
             "repo": "unredacter",
-            "stars": 8381
+            "stars": 8382
           }
         },
         {
@@ -933,10 +933,10 @@
             "archived": false,
             "id": 560284721,
             "language": "Dart",
-            "last_commit": "2026-08-26T02:31:54Z",
+            "last_commit": "2026-08-27T11:19:05Z",
             "owner": "ente",
             "repo": "ente",
-            "stars": 28508
+            "stars": 28519
           }
         },
         {
@@ -1017,7 +1017,7 @@
             "last_commit": "2026-07-02T17:57:04Z",
             "owner": "Nyr",
             "repo": "openvpn-install",
-            "stars": 20618
+            "stars": 20616
           }
         }
       ],
@@ -1128,10 +1128,10 @@
             "archived": false,
             "id": 41654081,
             "language": null,
-            "last_commit": "2026-08-26T00:31:11Z",
+            "last_commit": "2026-08-27T03:00:01Z",
             "owner": "drduh",
             "repo": "macOS-Security-and-Privacy-Guide",
-            "stars": 22489
+            "stars": 22494
           }
         },
         {
@@ -1226,9 +1226,16 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-26T18:18:46.138Z",
-    "original_repository": "OffcierCia/Crypto-OpSec-SelfGuard-RoadMap",
-    "original_repository_id": 379360003,
+    "last_updated": "2026-08-27T11:38:21.058Z",
+    "original_repository_info": {
+      "archived": false,
+      "id": 379360003,
+      "language": null,
+      "last_commit": "2026-08-16T23:20:41Z",
+      "owner": "OffcierCia",
+      "repo": "Crypto-OpSec-SelfGuard-RoadMap",
+      "stars": 1861
+    },
     "original_repository_sha": "f910b843317d34227ad80c6567b46eefb2c082c4",
     "enhanced_repository": "enhansome/enhansome-Crypto-OpSec-SelfGuard-RoadMap",
     "enhanced_repository_description": null,
