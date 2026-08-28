@@ -102,10 +102,10 @@
                 "archived": false,
                 "id": 107286889,
                 "language": "Go",
-                "last_commit": "2026-08-26T11:23:09Z",
+                "last_commit": "2026-08-27T13:23:34Z",
                 "owner": "schollz",
                 "repo": "croc",
-                "stars": 40115
+                "stars": 40120
               }
             }
           ],
@@ -171,7 +171,7 @@
                 "last_commit": "2026-08-26T17:08:44Z",
                 "owner": "lissy93",
                 "repo": "awesome-privacy",
-                "stars": 9796
+                "stars": 9800
               }
             },
             {
@@ -216,7 +216,7 @@
                 "last_commit": "2026-08-27T03:00:01Z",
                 "owner": "drduh",
                 "repo": "macOS-Security-and-Privacy-Guide",
-                "stars": 22494
+                "stars": 22496
               }
             },
             {
@@ -276,7 +276,7 @@
                 "last_commit": "2026-05-05T21:38:04Z",
                 "owner": "decalage2",
                 "repo": "awesome-security-hardening",
-                "stars": 6526
+                "stars": 6527
               }
             },
             {
@@ -306,7 +306,7 @@
                 "last_commit": "2026-01-19T12:59:23Z",
                 "owner": "ValdikSS",
                 "repo": "GoodbyeDPI",
-                "stars": 28589
+                "stars": 28592
               }
             },
             {
@@ -321,7 +321,7 @@
                 "last_commit": "2026-08-24T17:44:52Z",
                 "owner": "celzero",
                 "repo": "rethink-app",
-                "stars": 5339
+                "stars": 5338
               }
             },
             {
@@ -477,7 +477,7 @@
                 "last_commit": "2024-04-21T18:54:45Z",
                 "owner": "amnesica",
                 "repo": "KryptEY",
-                "stars": 872
+                "stars": 873
               }
             }
           ],
@@ -709,7 +709,7 @@
                     "last_commit": "2026-05-05T21:38:04Z",
                     "owner": "decalage2",
                     "repo": "awesome-security-hardening",
-                    "stars": 6526
+                    "stars": 6527
                   }
                 },
                 {
@@ -843,7 +843,7 @@
             "last_commit": "2024-03-15T00:35:43Z",
             "owner": "BishopFox",
             "repo": "unredacter",
-            "stars": 8382
+            "stars": 8383
           }
         },
         {
@@ -933,10 +933,10 @@
             "archived": false,
             "id": 560284721,
             "language": "Dart",
-            "last_commit": "2026-08-27T11:19:05Z",
+            "last_commit": "2026-08-28T00:53:17Z",
             "owner": "ente",
             "repo": "ente",
-            "stars": 28519
+            "stars": 28531
           }
         },
         {
@@ -951,7 +951,7 @@
             "last_commit": "2026-05-05T21:38:04Z",
             "owner": "decalage2",
             "repo": "awesome-security-hardening",
-            "stars": 6526
+            "stars": 6527
           }
         },
         {
@@ -1017,7 +1017,7 @@
             "last_commit": "2026-07-02T17:57:04Z",
             "owner": "Nyr",
             "repo": "openvpn-install",
-            "stars": 20616
+            "stars": 20617
           }
         }
       ],
@@ -1131,7 +1131,7 @@
             "last_commit": "2026-08-27T03:00:01Z",
             "owner": "drduh",
             "repo": "macOS-Security-and-Privacy-Guide",
-            "stars": 22494
+            "stars": 22496
           }
         },
         {
@@ -1146,7 +1146,7 @@
             "last_commit": "2026-05-05T21:38:04Z",
             "owner": "decalage2",
             "repo": "awesome-security-hardening",
-            "stars": 6526
+            "stars": 6527
           }
         },
         {
@@ -1182,7 +1182,7 @@
             "last_commit": "2026-08-16T23:17:39Z",
             "owner": "OffcierCia",
             "repo": "DeFi-Developer-Road-Map",
-            "stars": 10819
+            "stars": 10818
           }
         }
       ],
@@ -1226,7 +1226,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T11:38:21.058Z",
+    "last_updated": "2026-08-28T01:04:50.873Z",
     "original_repository_info": {
       "archived": false,
       "id": 379360003,
