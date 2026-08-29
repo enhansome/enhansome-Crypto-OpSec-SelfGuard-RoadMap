@@ -16,7 +16,8 @@
             "owner": "OffcierCia",
             "repo": "Crypto-OpSec-SelfGuard-RoadMap",
             "stars": 1861
-          }
+          },
+          "first_seen": "2026-08-29T00:38:09.728Z"
         },
         {
           "node_type": "item",
@@ -31,7 +32,8 @@
             "owner": "OffcierCia",
             "repo": "Crypto-OpSec-SelfGuard-RoadMap",
             "stars": 1861
-          }
+          },
+          "first_seen": "2026-08-29T00:38:09.728Z"
         }
       ],
       "title": "Overview"
@@ -52,7 +54,8 @@
             "repo": "evm-chad",
             "stars": 332
           },
-          "title": "Why does this guide focus primarily on advice for EVM-based blockchains and cryptocurrencies based on them?"
+          "title": "Why does this guide focus primarily on advice for EVM-based blockchains and cryptocurrencies based on them?",
+          "first_seen": "2026-08-29T00:38:09.728Z"
         },
         {
           "children": [
@@ -68,8 +71,9 @@
                 "last_commit": "2025-03-07T09:26:13Z",
                 "owner": "hasanfirnas",
                 "repo": "symbiote",
-                "stars": 1132
-              }
+                "stars": 1131
+              },
+              "first_seen": "2026-08-29T00:38:09.728Z"
             },
             {
               "node_type": "item",
@@ -84,7 +88,8 @@
                 "owner": "utkusen",
                 "repo": "wholeaked",
                 "stars": 1100
-              }
+              },
+              "first_seen": "2026-08-29T00:38:09.728Z"
             }
           ],
           "description": "Try not to enable such a psychological phenomenon as the tunnel effect, which refers us to the aviation psychology and flight psychology, to emerge and expand. When experienced pilots get overly focused on one item while disregarding or ignoring all other warnings, they have an accident. I hope you understood my guide correctly and did not allow this to happen. Be cautious, don't rush, and stay calm. When you are hungry, unwell, or defenseless, do not act on emotion. Do not confuse with a tunnel syndrome! Nonetheless, it is critical that you have no distractions and that you are healthy and well-fed.\nThis is all correct, but nothing stops you from doing a fork or ordering an independent audit of the tools you are going to use, does it? With all said, it all depends on what you are going to get in result and against whom you are acting.\nStudy Kerckhoffs's principle - The principle which holds that a cryptosystem should be secure, even if everything about the system, except the key, is public knowledge. This concept is widely embraced by cryptographers, in contrast to security through obscurity, which is not.\nLet’s say we deal with a Duress or Wasted tools. As such, it can be used wrong (e.g. weak password), or used to do bad things (e.g., exfiltrate intellectual property). On the opposite, we can just use Steganography and a small paper, without even touching the computer. Both attitudes have the right to exist, in my honest opinion! All of the above refers to the criticism of tools as such and their role in OpSec.\nI highly recommend to purchase a hardware wallet directly from the manufacturer's website rather than online retailers like Amazon/eBay. It is also advised to use an alternative email address or a virtual office to protect your personal information in case of a data leak. I also don’t like trusting hardware. Therefore, we all should have physical ciphers! Once again, study Steganography!",
@@ -102,11 +107,12 @@
                 "archived": false,
                 "id": 107286889,
                 "language": "Go",
-                "last_commit": "2026-08-27T13:23:34Z",
+                "last_commit": "2026-08-28T19:29:10Z",
                 "owner": "schollz",
                 "repo": "croc",
-                "stars": 40120
-              }
+                "stars": 40129
+              },
+              "first_seen": "2026-08-29T00:38:09.728Z"
             }
           ],
           "description": "Use a secure email provider. Also use trusted VPN like Mullvad or ProtonVPN (better - selfhost it). E2E (end-to-end) encryption is only as secure as the service you are sending the email to.\nFor example, if a Protonmail user sends an email to a Gmail user, the email is encrypted with TLS, but Google can still read and hand over any data that passes through their server. E2E can be re-established by using features such as the password-protected email feature from Protonmail.\nDon't forget that the VDS/RDP + VM combination can replace all of this, but it is not available to everyone. If you know how to do it correctly - choose this way. Check out this article as well.\nOn the opposite:\nDon’t use 3rd party VPN, rent a VPS and bootstrap open source VPN server!\nCheck out:\nUse dedicated email address for each account, or use an alias eg. chortly534524twitter@gmail , if it leaks it will be isolated to the account!\nYou can also use something like private addresses feature from DuckDuckGo or simplelogin.io.",
@@ -127,8 +133,9 @@
                 "last_commit": "2025-10-12T06:30:30Z",
                 "owner": "slowmist",
                 "repo": "Blockchain-dark-forest-selfguard-handbook",
-                "stars": 6843
-              }
+                "stars": 6844
+              },
+              "first_seen": "2026-08-29T00:38:09.728Z"
             }
           ],
           "description": "Use different emails and different strong passwords. Never reuse passwords, especially for accounts with personally identifiable and sensitive information (e.g. Facebook, Gmail, AppleID, Twitter, banks/payments, crypto accounts).\nUse passwords that are at least 8 characters in length, but a minimum of 12 is generally recommended for memorization. Along with that, if using memorization, ensure that a minimum complexity requirement is met: which means having an uppercase character, a lowercase character, a digit, and a non-alphabetic character.\nFor a perfect-level privacy, always generate complex passwords and write them down on a notebook. It takes time but saves headache. Somewhere along the line, the 'stop writing passwords on sticky notes' narrative got misinterpreted as 'never write them down'. There's nuance to it!\nUsing a string of unrelated words while still meeting the dictionary requirement makes it easy to have an extremely secure password while still being able to remember it. If fully relying on a password manager, a password of 20+ characters in length that is randomly generated can be used.\nIf you see suspicious password activity or failed log-ins on any of your accounts, change all of your passwords, starting with sensitive and authorization accounts, such as your primary email and bank/crypto accounts.\nKeePass or Keepassx or KeePassDX or KeePassXC or BitWarden are good options. I also found this tutorial for integrity check (and other checks) very helpful, be sure to check it out as well: link.\nOn the opposite:\nFor 2FA one can use KeePass + Yubikey as well. KeePass allows setting up TOTP to any entry in your .kdbx file. Yubikey could be used in company with KeePass to add a bit of entropy on each re-encryption when adding an entry in your db file: Ref No.1; Ref No.2; Ref No.3.",
@@ -150,7 +157,8 @@
                 "owner": "nascentxyz",
                 "repo": "simple-security-toolkit",
                 "stars": 1233
-              }
+              },
+              "first_seen": "2026-08-29T00:38:09.728Z"
             }
           ],
           "description": "Never link phone numbers to crypto platforms. Use trusted multiple e-sims if you have to link the phone. To lock down your SIM, contact your mobile phone carrier.\nThat is a standard that has been tested by telecommunications operators in the US, the UK, Poland, and China - also check out this tweet and this article. You just need to insist on it or visit the head office, and I’m sure that the support manager on the phone mayn’t know about it!\nAsk them to NEVER make changes to your phone number/SIM unless you physically show up to a specific store with at minimum two forms of identification. This (should) prevent hackers from calling up AT&T or T-Mobile or Vodafone, claiming to be you, and asking them to port your phone number to a new phone.\nSERM/ORM (search engine reputation marketing or reputation management) and Counter-OSINT - do exist, and one of the most interesting areas of which is to work with adding fake or confusing information about yourself in \"leakages\" or, for example, attaching to your number 100+ names related to taxi services through various GetContact accounts, to confuse potential bad actors who will try to research data on you in the future, in preparation for an attack. Then, think up.\nOn the opposite:\nInstead, require staff to verify via phone call to a secondary number because show ID is compromised or just use something like Efani. Or tend to use E-sim only!",
@@ -171,8 +179,9 @@
                 "last_commit": "2026-08-26T17:08:44Z",
                 "owner": "lissy93",
                 "repo": "awesome-privacy",
-                "stars": 9800
-              }
+                "stars": 9802
+              },
+              "first_seen": "2026-08-29T00:38:09.728Z"
             },
             {
               "node_type": "item",
@@ -187,7 +196,8 @@
                 "owner": "dzhang314",
                 "repo": "YouTubeDrive",
                 "stars": 1939
-              }
+              },
+              "first_seen": "2026-08-29T00:38:09.728Z"
             },
             {
               "node_type": "item",
@@ -202,7 +212,8 @@
                 "owner": "flonle",
                 "repo": "youbit",
                 "stars": 682
-              }
+              },
+              "first_seen": "2026-08-29T00:38:09.728Z"
             },
             {
               "node_type": "item",
@@ -216,8 +227,9 @@
                 "last_commit": "2026-08-27T03:00:01Z",
                 "owner": "drduh",
                 "repo": "macOS-Security-and-Privacy-Guide",
-                "stars": 22496
-              }
+                "stars": 22499
+              },
+              "first_seen": "2026-08-29T00:38:09.728Z"
             },
             {
               "node_type": "item",
@@ -231,8 +243,9 @@
                 "last_commit": "2026-08-26T18:42:40Z",
                 "owner": "usnistgov",
                 "repo": "macos_security",
-                "stars": 2454
-              }
+                "stars": 2456
+              },
+              "first_seen": "2026-08-29T00:38:09.728Z"
             },
             {
               "node_type": "item",
@@ -247,7 +260,8 @@
                 "owner": "Brandon7CC",
                 "repo": "mac-monitor",
                 "stars": 1379
-              }
+              },
+              "first_seen": "2026-08-29T00:38:09.728Z"
             },
             {
               "node_type": "item",
@@ -262,7 +276,8 @@
                 "owner": "sambacha",
                 "repo": "macos-secure-profiles",
                 "stars": 13
-              }
+              },
+              "first_seen": "2026-08-29T00:38:09.728Z"
             },
             {
               "node_type": "item",
@@ -276,8 +291,9 @@
                 "last_commit": "2026-05-05T21:38:04Z",
                 "owner": "decalage2",
                 "repo": "awesome-security-hardening",
-                "stars": 6527
-              }
+                "stars": 6529
+              },
+              "first_seen": "2026-08-29T00:38:09.728Z"
             },
             {
               "node_type": "item",
@@ -291,8 +307,9 @@
                 "last_commit": "2026-08-26T21:45:41Z",
                 "owner": "trailofbits",
                 "repo": "algo",
-                "stars": 30368
-              }
+                "stars": 30367
+              },
+              "first_seen": "2026-08-29T00:38:09.728Z"
             },
             {
               "node_type": "item",
@@ -306,8 +323,9 @@
                 "last_commit": "2026-01-19T12:59:23Z",
                 "owner": "ValdikSS",
                 "repo": "GoodbyeDPI",
-                "stars": 28592
-              }
+                "stars": 28595
+              },
+              "first_seen": "2026-08-29T00:38:09.728Z"
             },
             {
               "node_type": "item",
@@ -321,8 +339,9 @@
                 "last_commit": "2026-08-24T17:44:52Z",
                 "owner": "celzero",
                 "repo": "rethink-app",
-                "stars": 5338
-              }
+                "stars": 5348
+              },
+              "first_seen": "2026-08-29T00:38:09.728Z"
             },
             {
               "node_type": "item",
@@ -337,7 +356,8 @@
                 "owner": "darkweak",
                 "repo": "souin",
                 "stars": 997
-              }
+              },
+              "first_seen": "2026-08-29T00:38:09.728Z"
             },
             {
               "node_type": "item",
@@ -352,7 +372,8 @@
                 "owner": "PiMaker",
                 "repo": "Teletun",
                 "stars": 352
-              }
+              },
+              "first_seen": "2026-08-29T00:38:09.728Z"
             },
             {
               "node_type": "item",
@@ -367,7 +388,8 @@
                 "owner": "bit4mind",
                 "repo": "anon-service",
                 "stars": 13
-              }
+              },
+              "first_seen": "2026-08-29T00:38:09.728Z"
             },
             {
               "node_type": "item",
@@ -382,7 +404,8 @@
                 "owner": "0xngmi",
                 "repo": "discord-server-guidelines",
                 "stars": 44
-              }
+              },
+              "first_seen": "2026-08-29T00:38:09.728Z"
             }
           ],
           "description": "Never do anything you do not understand. Always check which token you approve, transaction you sign, assets you send, etc - be extremely accurate while making any financial operation. Keep in mind that one of possible attack vectors is to put you in a situation that will encourage you to do smth (login or anything like that).\nTip: Don't use Tails OS if you want to achieve anonymity on the network, choose Whonix OS together with Qubes OS or Whonix OS together with free and secure Linux and virtualization through KVM/Qemu!\nYou can install Comodo or MalwareBytes antivirus but it won't help you if you do not understand them. Keep up your basic set of defending tools up to date. For ultra-secure comunications, run WhonixOS and use Jabber (Adium, Psi+ or Xabber or ChatSecure) over Tor with OTR plug-in. Or Matrix… Or, at least, configure telegram correctly…\nOpSec isn't always a matter of survival! It manifests itself in a variety of ways: at work, in everyday life, in communication, in DAO work, in conferences, and so on. You may be surprised to learn that there is no perfect solution. The strategies and tactics differ greatly and are dependent on you and what you need to achieve.\nI'm only offering you a set of tools and guidelines to hunt for information; the rest is up to you! No one can create your security wall better than you, and learning OpSec does not require you to become a hostile, distrustful cryptopunk and abuse it to the extreme: you might find something that works for you.\nAt the same time, I believe that OpSec, in its broadest sense, does not function on half-measures, and it's critical to understand how to do things in a benchmark so you have something to fall back on.\nAfter all, one key rule that almost never gets emphasized is \"always be aware of what rule you're breaking, why, and how it may affect you in case of an assault or other problems. In any case, it is critical to understand where the boundaries of this \"standard of OpSec & security\" lie, which I will attempt to do via the lens of many approaches, which I will attempt to express in such a way that they are universal.\nOn the opposite:\nTend to use:\nyou can use Apple Configurator and create a blueprint to ensure conformance (trusting they apply it)\nFor mobile:\nAlso check out:\nImportant OpSec Tip:\nAvoid installing any third-party software, including single-player and multiplayer games, on your primary (for work/crypto) computer or phone:",
@@ -404,7 +427,8 @@
                 "owner": "ihebski",
                 "repo": "DefaultCreds-cheat-sheet",
                 "stars": 6726
-              }
+              },
+              "first_seen": "2026-08-29T00:38:09.728Z"
             },
             {
               "node_type": "item",
@@ -418,8 +442,9 @@
                 "last_commit": "2026-08-25T14:39:35Z",
                 "owner": "jlopp",
                 "repo": "physical-bitcoin-attacks",
-                "stars": 893
-              }
+                "stars": 894
+              },
+              "first_seen": "2026-08-29T00:38:09.728Z"
             },
             {
               "node_type": "item",
@@ -434,7 +459,8 @@
                 "owner": "iterweb",
                 "repo": "watcher",
                 "stars": 48
-              }
+              },
+              "first_seen": "2026-08-29T00:38:09.728Z"
             }
           ],
           "description": "Be careful about using your real home address online for delivery purposes. Data breaches are now a daily occurrence, and many breaches include customer names and addresses. Your physical address is not as easily changeable as a phone number or email address, so be especially mindful about where you use it on the Internet.\nIf you’re ordering pizza with crypto, order it for pickup instead of delivery. When online shopping, use a different (and publicly available) address for package delivery. Options here include your workplace or drop boxes at delivery service providers like FedEx and your local postal service.\nAlso:",
@@ -452,11 +478,12 @@
                 "archived": false,
                 "id": 35577029,
                 "language": null,
-                "last_commit": "2026-08-15T16:05:29Z",
+                "last_commit": "2026-08-28T15:30:27Z",
                 "owner": "onlurking",
                 "repo": "awesome-infosec",
-                "stars": 5727
-              }
+                "stars": 5728
+              },
+              "first_seen": "2026-08-29T00:38:09.728Z"
             }
           ],
           "description": "OpSec often comes into play in public settings. For example, if members of your team are discussing work-related matters at a nearby lunch spot, during a conference, or over a beer, odds are that someone could overhear. As they say, loose lips can sink ships, so make sure you don’t discuss any sensitive company information while out in public.\nA lot of OpSec missteps can be avoided by being more aware of your surroundings and the context in which you are speaking: what you’re saying, where you are, who you’re speaking to, and who might overhear. It’s a good idea to go over the “no-no’s” for your specific company during onboarding and to remind employees of them periodically.",
@@ -478,7 +505,8 @@
                 "owner": "amnesica",
                 "repo": "KryptEY",
                 "stars": 873
-              }
+              },
+              "first_seen": "2026-08-29T00:38:09.728Z"
             }
           ],
           "description": "Identify your sensitive data, including your product research, passwords, intellectual property, financial statements, customer information, and employee information. This will be the data you will need to focus your resources on protecting. Randomization, mimicry and entropy must accompany your every step and manifest itself in literally everything: as you can imagine, the law enforcers of different countries have long ago learned to analyze packets via DPI (to counter this you may use something like this or this or VPN), to match them with the post or message time and perform timing attacks and then go to the ISP provider or telecommunications company.\nBe smarter. Most likely in the future we will all have to face AI and Neural Network which were made specifically for finding people and information based on OSINT and similar (up to Big Data) methodologies, so the only thing that will save us is what separates humans from machines - our imagination and our capacity for illogical unpredictable actions.\nWhatever you do, do it with some element of randomness. If you find it hard to comprehend, then put it in the hands of playing cards or random.org. Do you transfer an amount? Send not an even (1000, 100, 50, etc.) or similar value, and so on. I think you get my point. Once again, be smarter, for example: there is a tool like Ethereum alarm clock (2), but you have to remember to use it with caution.\nMaybe you can come up with your own solution based on logic bomb and canarytokens.org with tenderly.co! The tool previously described has been hacked, use with caution and only if you know what you are doing. You can use Escrow and Multisig as a substitute for this.\nSteganography and Cryptography can also be combined for this purpose. After all, cryptography hides information, whereas steganography masks the fact that it was transmitted. For example, if you stenographically double-encrypt your passwords and store them in a cloud-based password manager, hackers (even if the vault is decoded or hacked) will be unable to use them as they will need your stega-key for this. You would, however, have to decrypt each password each time you are using it, with a special note.",
@@ -499,8 +527,9 @@
                 "last_commit": "2025-08-14T14:29:48Z",
                 "owner": "Ekultek",
                 "repo": "WhatBreach",
-                "stars": 1665
-              }
+                "stars": 1664
+              },
+              "first_seen": "2026-08-29T00:38:09.728Z"
             }
           ],
           "description": "Identify possible threats. For each category of information that you deem sensitive, you should identify what kinds of threats are present. While you should be wary of third parties trying to steal your information, you should also watch out for insider threats, such as negligent employees and disgruntled workers. OpSec is generally more of a failure than the technology!\nKeep your friends close, and your enemies closer.\nOffline/Radio + Crypto:",
@@ -521,8 +550,9 @@
                 "last_commit": "2026-08-07T20:16:45Z",
                 "owner": "alexandreborges",
                 "repo": "malwoverview",
-                "stars": 4075
-              }
+                "stars": 4076
+              },
+              "first_seen": "2026-08-29T00:38:09.728Z"
             }
           ],
           "description": "Risk management: The process of identifying, assessing and controlling threats to an organization's capital and earnings. These risks stem from a variety of sources including financial uncertainties, legal liabilities, technology issues, strategic management errors, accidents and natural disasters.\nMany individuals from an organization can be in charge of different parts of the risk management process. Through this process, they can discover potential areas for a data breach or other threats. Understanding potential threat vectors is central to this process, as it allows them to be seen before they can be exploited.\nFor example: A hacker delivered a RAT (remote access trojan) onto the computer of an employee. If the RAT has a variety of capabilities, it could steal the cookies from the web browser, sift through files on the computer, and then exfiltrate that data to be sold on a darkweb market at a later date. The operational security steps mentioned in problems 1 through 10 should help prevent this from happening.\nAnother potential attack is called \"DNS Poisoning\". It is a \"highly deceptive cyber attack in which hackers redirect web traffic toward fake web servers and phishing websites\". A web page could appear that looks like a normal login page for a business like GMail, Kraken, etc., but in reality it could be a phishing site made to steal your login information (email/username/password).\nSeparate machines on the same network will not prevent this, as the traffic passes through the router for both machines, so the solution is to have separate networks and to verify website certificates. Some VPN providers use their own DNS servers through the software package they provide, so this could prevent this type of attack as well.\nMalware can also have the functionality to \"attack\" a computer's clipboard. The malware could check the clipboard at a set interval to see if any cryptocurrency addresses are detected in it. If they are, it would then replace the one in the clipboard with one of the hacker's cryptocurrency addresses, which means the cryptocurrency would then be sent to the hacker. The beginning and end may match, but this requires extra functionality on the part of the malware, as it would need to generate wallets on the fly and exfiltrate the keys to the hacker.",
@@ -544,7 +574,8 @@
                 "owner": "dividuum",
                 "repo": "html-vault",
                 "stars": 156
-              }
+              },
+              "first_seen": "2026-08-29T00:38:09.728Z"
             },
             {
               "node_type": "item",
@@ -559,7 +590,8 @@
                 "owner": "kaushalmeena",
                 "repo": "digi-cloak",
                 "stars": 80
-              }
+              },
+              "first_seen": "2026-08-29T00:38:09.728Z"
             },
             {
               "node_type": "item",
@@ -574,7 +606,8 @@
                 "owner": "Zoltu",
                 "repo": "recoverable-wallet",
                 "stars": 51
-              }
+              },
+              "first_seen": "2026-08-29T00:38:09.728Z"
             },
             {
               "node_type": "item",
@@ -589,7 +622,8 @@
                 "owner": "starius",
                 "repo": "logic-bomb",
                 "stars": 46
-              }
+              },
+              "first_seen": "2026-08-29T00:38:09.728Z"
             }
           ],
           "description": "Your level of opsec usually depends on your threat model and which adversary you're up against. So it's hard to define how good your opsec is. But I'd say it sounds pretty okay. I recommend:\nIf you defiantly refuse to say who you are, it can make people angry that you’re upsetting social reciprocity. You know who they are, but they don’t know who you are. It feels rude. Read this article!\nThings to check out in any Airbnb/Booking property:\nRead:\nKeep in mind that cameras are frequently mounted with the mirror in the frame. This increases the camera's field of view. Check out ceiling as well. Also, keep in mind that the camera can be hidden in glasses, a cigarette pack, or a watch.\nCheck out:",
@@ -610,8 +644,9 @@
                 "last_commit": "2026-03-14T19:04:35Z",
                 "owner": "OffcierCia",
                 "repo": "ultimate-defi-research-base",
-                "stars": 2211
-              }
+                "stars": 2212
+              },
+              "first_seen": "2026-08-29T00:38:09.728Z"
             },
             {
               "node_type": "item",
@@ -626,7 +661,8 @@
                 "owner": "athanorlabs",
                 "repo": "atomic-swap",
                 "stars": 378
-              }
+              },
+              "first_seen": "2026-08-29T00:38:09.728Z"
             },
             {
               "node_type": "item",
@@ -640,8 +676,9 @@
                 "last_commit": "2026-06-26T19:14:25Z",
                 "owner": "a16z",
                 "repo": "helios",
-                "stars": 2175
-              }
+                "stars": 2176
+              },
+              "first_seen": "2026-08-29T00:38:09.728Z"
             },
             {
               "node_type": "item",
@@ -656,7 +693,8 @@
                 "owner": "EdenBlockVC",
                 "repo": "spook",
                 "stars": 55
-              }
+              },
+              "first_seen": "2026-08-29T00:38:09.728Z"
             },
             {
               "node_type": "item",
@@ -671,7 +709,8 @@
                 "owner": "shark0der",
                 "repo": "rpc-proxy",
                 "stars": 25
-              }
+              },
+              "first_seen": "2026-08-29T00:38:09.728Z"
             }
           ],
           "description": "Only Interact with DeFi Protocols You Trust - Take your time to read up on some previous concepts we’ve covered such as staking, yield farming, NFT farming, and research any other new terms you may come across before depositing crypto into a DApp that deploys any of these investment strategies.\nWallets Review:\nAwesome Tools:\nDon’t use Tornado and forget about it, but you can use:\nUse a reliable RPC provide or run a light client or a full node:\nCheck out this awesome repo!",
@@ -692,8 +731,9 @@
                 "last_commit": "2026-08-25T14:39:35Z",
                 "owner": "jlopp",
                 "repo": "physical-bitcoin-attacks",
-                "stars": 893
-              }
+                "stars": 894
+              },
+              "first_seen": "2026-08-29T00:38:09.728Z"
             },
             {
               "children": [
@@ -709,8 +749,9 @@
                     "last_commit": "2026-05-05T21:38:04Z",
                     "owner": "decalage2",
                     "repo": "awesome-security-hardening",
-                    "stars": 6527
-                  }
+                    "stars": 6529
+                  },
+                  "first_seen": "2026-08-29T00:38:09.728Z"
                 },
                 {
                   "node_type": "item",
@@ -724,8 +765,9 @@
                     "last_commit": "2026-02-13T10:55:07Z",
                     "owner": "undergroundwires",
                     "repo": "privacy.sexy",
-                    "stars": 5984
-                  }
+                    "stars": 5989
+                  },
+                  "first_seen": "2026-08-29T00:38:09.728Z"
                 },
                 {
                   "node_type": "item",
@@ -740,7 +782,8 @@
                     "owner": "nascentxyz",
                     "repo": "simple-security-toolkit",
                     "stars": 1233
-                  }
+                  },
+                  "first_seen": "2026-08-29T00:38:09.728Z"
                 }
               ],
               "description": "Also check out:",
@@ -766,8 +809,9 @@
                 "last_commit": "2026-08-25T14:39:35Z",
                 "owner": "jlopp",
                 "repo": "physical-bitcoin-attacks",
-                "stars": 893
-              }
+                "stars": 894
+              },
+              "first_seen": "2026-08-29T00:38:09.728Z"
             }
           ],
           "description": "Support is very important to me, with it I can do what I love - educating DeFi & Crypto users!\nThe best thing is to support me directly by donating to any address from the list below:\nMuch much thanks every single one of you!\nThank you! Stay safe!",
@@ -792,8 +836,9 @@
             "last_commit": "2026-08-19T08:42:13Z",
             "owner": "maxgoedjen",
             "repo": "secretive",
-            "stars": 8820
-          }
+            "stars": 8823
+          },
+          "first_seen": "2026-08-29T00:38:09.728Z"
         },
         {
           "node_type": "item",
@@ -804,11 +849,12 @@
             "archived": false,
             "id": 501990676,
             "language": "Solidity",
-            "last_commit": "2026-08-27T03:01:04Z",
+            "last_commit": "2026-08-28T03:03:12Z",
             "owner": "SunWeb3Sec",
             "repo": "DeFiHackLabs",
-            "stars": 6759
-          }
+            "stars": 6760
+          },
+          "first_seen": "2026-08-29T00:38:09.728Z"
         },
         {
           "node_type": "item",
@@ -823,7 +869,8 @@
             "owner": "JamesANZ",
             "repo": "crypto-timelocked-backup",
             "stars": 11
-          }
+          },
+          "first_seen": "2026-08-29T00:38:09.728Z"
         }
       ],
       "title": "Expand"
@@ -844,7 +891,8 @@
             "owner": "BishopFox",
             "repo": "unredacter",
             "stars": 8383
-          }
+          },
+          "first_seen": "2026-08-29T00:38:09.728Z"
         },
         {
           "node_type": "item",
@@ -859,7 +907,8 @@
             "owner": "bkimminich",
             "repo": "it-security-lecture",
             "stars": 377
-          }
+          },
+          "first_seen": "2026-08-29T00:38:09.728Z"
         },
         {
           "node_type": "item",
@@ -874,7 +923,8 @@
             "owner": "edelahozuah",
             "repo": "awesome-wifi-security",
             "stars": 174
-          }
+          },
+          "first_seen": "2026-08-29T00:38:09.728Z"
         }
       ],
       "title": "Expand"
@@ -895,7 +945,8 @@
             "owner": "Spacial",
             "repo": "awesome-csirt",
             "stars": 647
-          }
+          },
+          "first_seen": "2026-08-29T00:38:09.728Z"
         }
       ],
       "title": "Expand"
@@ -916,7 +967,8 @@
             "owner": "Faillapop",
             "repo": "faillapop",
             "stars": 150
-          }
+          },
+          "first_seen": "2026-08-29T00:38:09.728Z"
         }
       ],
       "title": "Expand"
@@ -933,11 +985,12 @@
             "archived": false,
             "id": 560284721,
             "language": "Dart",
-            "last_commit": "2026-08-28T00:53:17Z",
+            "last_commit": "2026-08-29T00:19:25Z",
             "owner": "ente",
             "repo": "ente",
-            "stars": 28531
-          }
+            "stars": 28548
+          },
+          "first_seen": "2026-08-29T00:38:09.728Z"
         },
         {
           "node_type": "item",
@@ -951,8 +1004,9 @@
             "last_commit": "2026-05-05T21:38:04Z",
             "owner": "decalage2",
             "repo": "awesome-security-hardening",
-            "stars": 6527
-          }
+            "stars": 6529
+          },
+          "first_seen": "2026-08-29T00:38:09.728Z"
         },
         {
           "node_type": "item",
@@ -967,7 +1021,8 @@
             "owner": "RealityNet",
             "repo": "Android-Forensics-References",
             "stars": 362
-          }
+          },
+          "first_seen": "2026-08-29T00:38:09.728Z"
         },
         {
           "node_type": "item",
@@ -982,7 +1037,8 @@
             "owner": "RealityNet",
             "repo": "iOS-Forensics-References",
             "stars": 237
-          }
+          },
+          "first_seen": "2026-08-29T00:38:09.728Z"
         },
         {
           "node_type": "item",
@@ -997,7 +1053,8 @@
             "owner": "kaushalmeena",
             "repo": "digi-cloak",
             "stars": 80
-          }
+          },
+          "first_seen": "2026-08-29T00:38:09.728Z"
         }
       ],
       "title": "Expand"
@@ -1017,8 +1074,9 @@
             "last_commit": "2026-07-02T17:57:04Z",
             "owner": "Nyr",
             "repo": "openvpn-install",
-            "stars": 20617
-          }
+            "stars": 20620
+          },
+          "first_seen": "2026-08-29T00:38:09.728Z"
         }
       ],
       "title": "Expand"
@@ -1039,7 +1097,8 @@
             "owner": "skickar",
             "repo": "CreepDetector",
             "stars": 210
-          }
+          },
+          "first_seen": "2026-08-29T00:38:09.728Z"
         },
         {
           "node_type": "item",
@@ -1054,7 +1113,8 @@
             "owner": "AlexLynd",
             "repo": "ESP8266-Wardriving",
             "stars": 176
-          }
+          },
+          "first_seen": "2026-08-29T00:38:09.728Z"
         },
         {
           "node_type": "item",
@@ -1069,7 +1129,8 @@
             "owner": "mpgn",
             "repo": "discord-e2e-encryption",
             "stars": 95
-          }
+          },
+          "first_seen": "2026-08-29T00:38:09.728Z"
         }
       ],
       "title": "Expand"
@@ -1090,7 +1151,8 @@
             "owner": "utkusen",
             "repo": "wholeaked",
             "stars": 1100
-          }
+          },
+          "first_seen": "2026-08-29T00:38:09.728Z"
         }
       ],
       "title": "Expand"
@@ -1111,7 +1173,8 @@
             "owner": "digitalisx",
             "repo": "awesome-memory-forensics",
             "stars": 562
-          }
+          },
+          "first_seen": "2026-08-29T00:38:09.728Z"
         }
       ],
       "title": "Expand"
@@ -1131,8 +1194,9 @@
             "last_commit": "2026-08-27T03:00:01Z",
             "owner": "drduh",
             "repo": "macOS-Security-and-Privacy-Guide",
-            "stars": 22496
-          }
+            "stars": 22499
+          },
+          "first_seen": "2026-08-29T00:38:09.728Z"
         },
         {
           "node_type": "item",
@@ -1146,8 +1210,9 @@
             "last_commit": "2026-05-05T21:38:04Z",
             "owner": "decalage2",
             "repo": "awesome-security-hardening",
-            "stars": 6527
-          }
+            "stars": 6529
+          },
+          "first_seen": "2026-08-29T00:38:09.728Z"
         },
         {
           "node_type": "item",
@@ -1162,7 +1227,8 @@
             "owner": "ataumo",
             "repo": "macos_hardening",
             "stars": 157
-          }
+          },
+          "first_seen": "2026-08-29T00:38:09.728Z"
         }
       ],
       "title": "Expand"
@@ -1182,8 +1248,9 @@
             "last_commit": "2026-08-16T23:17:39Z",
             "owner": "OffcierCia",
             "repo": "DeFi-Developer-Road-Map",
-            "stars": 10818
-          }
+            "stars": 10820
+          },
+          "first_seen": "2026-08-29T00:38:09.728Z"
         }
       ],
       "title": "Expand"
@@ -1203,8 +1270,9 @@
             "last_commit": "2026-08-25T14:39:35Z",
             "owner": "jlopp",
             "repo": "physical-bitcoin-attacks",
-            "stars": 893
-          }
+            "stars": 894
+          },
+          "first_seen": "2026-08-29T00:38:09.728Z"
         },
         {
           "node_type": "item",
@@ -1218,15 +1286,16 @@
             "last_commit": "2026-01-18T09:47:57Z",
             "owner": "CScorza",
             "repo": "OSINTAnonymous",
-            "stars": 473
-          }
+            "stars": 474
+          },
+          "first_seen": "2026-08-29T00:38:09.728Z"
         }
       ],
       "title": "Expand"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T01:04:50.873Z",
+    "last_updated": "2026-08-29T00:38:09.728Z",
     "original_repository_info": {
       "archived": false,
       "id": 379360003,
