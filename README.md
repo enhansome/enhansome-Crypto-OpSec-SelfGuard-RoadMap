@@ -161,7 +161,7 @@ Use passwords that are at least 8 characters in length, but a minimum of 12 is g
 <br />
 
 * [Store SSH keys in the Secure Enclave!](https://github.com/maxgoedjen/secretive) ⭐ 8,823 | 🐛 169 | 🌐 Swift | 📅 2026-08-19
-* [Blockchain dark forest selfguard handbook](https://github.com/SunWeb3Sec/DeFiHackLabs/tree/main/academy/user_awareness/01_handbook/en) ⭐ 6,760 | 🐛 3 | 🌐 Solidity | 📅 2026-08-28
+* [Blockchain dark forest selfguard handbook](https://github.com/SunWeb3Sec/DeFiHackLabs/tree/main/academy/user_awareness/01_handbook/en) ⭐ 6,760 | 🐛 2 | 🌐 Solidity | 📅 2026-08-29
 * [A tool that allows user to create time bound backups for various cryptocurrencies](https://github.com/James-Sangalli/crypto-timelocked-backup) ⭐ 11 | 🐛 10 | 🌐 TypeScript | 📅 2025-03-20
 
 </details>
@@ -213,7 +213,7 @@ If you see suspicious password activity or failed log-ins on any of your account
 
 **On the opposite:**
 
-> For 2FA one can use KeePass + Yubikey as well. KeePass allows setting up TOTP to any entry in your .kdbx file. Yubikey could be used in company with KeePass to add a bit of entropy on each re-encryption when adding an entry in your db file: [Ref No.1](https://developers.yubico.com/Developer_Program/Guides/Touch_triggered_OTP.html); [Ref No.2](https://www.reddit.com/r/KeePass/comments/opx34q/keepassxc_and_yubikeys_setting_up_the); [Ref No.3](https://github.com/keepassxreboot/keepassxc/discussions/6344) ⭐ 28,585 | 🐛 900 | 🌐 C++ | 📅 2026-08-24.
+> For 2FA one can use KeePass + Yubikey as well. KeePass allows setting up TOTP to any entry in your .kdbx file. Yubikey could be used in company with KeePass to add a bit of entropy on each re-encryption when adding an entry in your db file: [Ref No.1](https://developers.yubico.com/Developer_Program/Guides/Touch_triggered_OTP.html); [Ref No.2](https://www.reddit.com/r/KeePass/comments/opx34q/keepassxc_and_yubikeys_setting_up_the); [Ref No.3](https://github.com/keepassxreboot/keepassxc/discussions/6344) ⭐ 28,587 | 🐛 900 | 🌐 C++ | 📅 2026-08-24.
 
 <details>
 <summary>Expand</summary>
@@ -357,7 +357,7 @@ Ask yourself, what happens if my house catches on fire? What temperature is my s
 <summary>Expand</summary>
 <br />
 
-* [Authenticator app for storing your 2FA secrets](https://github.com/ente-io/auth/#readme) ⭐ 28,548 | 🐛 256 | 🌐 Dart | 📅 2026-08-29
+* [Authenticator app for storing your 2FA secrets](https://github.com/ente-io/auth/#readme) ⭐ 28,550 | 🐛 257 | 🌐 Dart | 📅 2026-08-29
 * [Awesome Security Hardening Guides](https://github.com/decalage2/awesome-security-hardening) ⭐ 6,529 | 🐛 125 | 📅 2026-05-05
 * [Android Forensics References](https://github.com/RealityNet/Android-Forensics-References) ⭐ 362 | 🐛 2 | 📅 2025-09-23
 * [iOS Forensics References](https://github.com/RealityNet/iOS-Forensics-References) ⭐ 237 | 🐛 2 | 📅 2023-12-01
@@ -457,7 +457,7 @@ At the same time, I believe that OpSec, in its broadest sense, does not function
 
 After all, one key rule that almost never gets emphasized is "always be aware of what rule you're breaking, why, and how it may affect you in case of an assault or other problems. In any case, it is critical to understand where the boundaries of this "standard of OpSec & security" lie, which I will attempt to do via the lens of many approaches, which I will attempt to express in such a way that they are universal.
 
-* [MacOS Security](https://github.com/usnistgov/macos_security) ⭐ 2,456 | 🐛 21 | 🌐 YAML | 📅 2026-08-26
+* [MacOS Security](https://github.com/usnistgov/macos_security) ⭐ 2,456 | 🐛 20 | 🌐 YAML | 📅 2026-08-29
 * [Mac Monitor](https://github.com/redcanaryco/mac-monitor) ⭐ 1,379 | 🐛 7 | 🌐 Swift | 📅 2026-07-28
 * [MacOS Secure Profiles](https://github.com/sambacha/macos-secure-profiles) ⭐ 13 | 🐛 0 | 🌐 Shell | 📅 2023-09-22
 * [Read this article!](https://mjg59.dreamwidth.org/66429.html)

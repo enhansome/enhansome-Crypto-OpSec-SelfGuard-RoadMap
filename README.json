@@ -10,12 +10,27 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Here we collect and discuss the best DeFi, Blockchain and crypto-related OpSec researches and data terminals - contributions are welcome.",
+            "homepage": "https://t.me/officer_cia",
             "id": 379360003,
             "language": null,
+            "license": "Unlicense",
             "last_commit": "2026-08-16T23:20:41Z",
+            "open_issues": 2,
             "owner": "OffcierCia",
             "repo": "Crypto-OpSec-SelfGuard-RoadMap",
-            "stars": 1861
+            "stars": 1861,
+            "topics": [
+              "awesome-list",
+              "blockchain",
+              "cryptocurrency",
+              "curated-list",
+              "defi",
+              "infosec",
+              "knowledge-base",
+              "opsec",
+              "security"
+            ]
           },
           "first_seen": "2026-08-29T00:38:09.728Z"
         },
@@ -26,12 +41,27 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Here we collect and discuss the best DeFi, Blockchain and crypto-related OpSec researches and data terminals - contributions are welcome.",
+            "homepage": "https://t.me/officer_cia",
             "id": 379360003,
             "language": null,
+            "license": "Unlicense",
             "last_commit": "2026-08-16T23:20:41Z",
+            "open_issues": 2,
             "owner": "OffcierCia",
             "repo": "Crypto-OpSec-SelfGuard-RoadMap",
-            "stars": 1861
+            "stars": 1861,
+            "topics": [
+              "awesome-list",
+              "blockchain",
+              "cryptocurrency",
+              "curated-list",
+              "defi",
+              "infosec",
+              "knowledge-base",
+              "opsec",
+              "security"
+            ]
           },
           "first_seen": "2026-08-29T00:38:09.728Z"
         }
@@ -47,12 +77,17 @@
           "node_type": "item",
           "repo_info": {
             "archived": false,
+            "description": "A curated list of the hottest and most fresh resources to become an EVM chad",
+            "homepage": null,
             "id": 591521463,
             "language": null,
+            "license": null,
             "last_commit": "2023-05-22T13:36:52Z",
+            "open_issues": 1,
             "owner": "mektigboy",
             "repo": "evm-chad",
-            "stars": 332
+            "stars": 332,
+            "topics": []
           },
           "title": "Why does this guide focus primarily on advice for EVM-based blockchains and cryptocurrencies based on them?",
           "first_seen": "2026-08-29T00:38:09.728Z"
@@ -66,12 +101,28 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Your target's phone's front and back cameras📸 can be accessed by sending a link🔗.",
+                "homepage": null,
                 "id": 259053705,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2025-03-07T09:26:13Z",
+                "open_issues": 2,
                 "owner": "hasanfirnas",
                 "repo": "symbiote",
-                "stars": 1131
+                "stars": 1131,
+                "topics": [
+                  "androidcamera",
+                  "camera-hacking",
+                  "hacking-tools",
+                  "kali-linux",
+                  "localxpose",
+                  "ngrok",
+                  "phishing",
+                  "termux",
+                  "webcam-capture",
+                  "webcamhack"
+                ]
               },
               "first_seen": "2026-08-29T00:38:09.728Z"
             },
@@ -82,12 +133,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "a file-sharing tool that allows you to find the responsible person in case of a leakage",
+                "homepage": null,
                 "id": 452300927,
                 "language": "Go",
+                "license": "BSD-3-Clause",
                 "last_commit": "2022-01-31T13:16:52Z",
+                "open_issues": 1,
                 "owner": "utkusen",
                 "repo": "wholeaked",
-                "stars": 1100
+                "stars": 1100,
+                "topics": [
+                  "file-sharing",
+                  "osint",
+                  "privacy",
+                  "privacy-tools",
+                  "security"
+                ]
               },
               "first_seen": "2026-08-29T00:38:09.728Z"
             }
@@ -105,12 +167,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Easily and securely send things from one computer to another :crocodile: :package:",
+                "homepage": "https://getcroc.com",
                 "id": 107286889,
                 "language": "Go",
+                "license": "MIT",
                 "last_commit": "2026-08-28T19:29:10Z",
+                "open_issues": 2,
                 "owner": "schollz",
                 "repo": "croc",
-                "stars": 40129
+                "stars": 40129,
+                "topics": [
+                  "data-transfer",
+                  "file-sharing",
+                  "golang",
+                  "pake",
+                  "peer-to-peer",
+                  "tcp",
+                  "transfer"
+                ]
               },
               "first_seen": "2026-08-29T00:38:09.728Z"
             }
@@ -128,12 +203,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Blockchain dark forest selfguard handbook. Master these, master the security of your cryptocurrency.",
+                "homepage": null,
                 "id": 473014643,
                 "language": null,
+                "license": null,
                 "last_commit": "2025-10-12T06:30:30Z",
+                "open_issues": 20,
                 "owner": "slowmist",
                 "repo": "Blockchain-dark-forest-selfguard-handbook",
-                "stars": 6844
+                "stars": 6844,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:38:09.728Z"
             }
@@ -151,12 +231,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A collection of practical security-focused guides and checklists for smart contract development",
+                "homepage": null,
                 "id": 479526508,
                 "language": null,
+                "license": "MIT",
                 "last_commit": "2023-11-15T16:33:31Z",
+                "open_issues": 1,
                 "owner": "nascentxyz",
                 "repo": "simple-security-toolkit",
-                "stars": 1233
+                "stars": 1233,
+                "topics": [
+                  "crypto",
+                  "security",
+                  "security-tools",
+                  "smart-contracts",
+                  "solidity"
+                ]
               },
               "first_seen": "2026-08-29T00:38:09.728Z"
             }
@@ -174,12 +265,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "🦄  A curated list of privacy & security-focused software and services",
+                "homepage": "https://awesome-privacy.xyz",
                 "id": 512269935,
                 "language": "Astro",
+                "license": "CC0-1.0",
                 "last_commit": "2026-08-26T17:08:44Z",
+                "open_issues": 2,
                 "owner": "lissy93",
                 "repo": "awesome-privacy",
-                "stars": 9802
+                "stars": 9802,
+                "topics": [
+                  "awesome",
+                  "awesome-list",
+                  "privacy",
+                  "security",
+                  "self-hosted",
+                  "software"
+                ]
               },
               "first_seen": "2026-08-29T00:38:09.728Z"
             },
@@ -190,12 +293,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Store files as YouTube videos == infinite disk space",
+                "homepage": null,
                 "id": 94035182,
                 "language": "Mathematica",
+                "license": "MIT",
                 "last_commit": "2018-07-26T07:46:43Z",
+                "open_issues": 1,
                 "owner": "dzhang314",
                 "repo": "YouTubeDrive",
-                "stars": 1939
+                "stars": 1939,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:38:09.728Z"
             },
@@ -206,12 +314,20 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Host any type of file on YouTube",
+                "homepage": null,
                 "id": 456664586,
                 "language": "Cython",
+                "license": "MIT",
                 "last_commit": "2022-11-07T00:02:35Z",
+                "open_issues": 4,
                 "owner": "flonle",
                 "repo": "youbit",
-                "stars": 682
+                "stars": 682,
+                "topics": [
+                  "python",
+                  "video"
+                ]
               },
               "first_seen": "2026-08-29T00:38:09.728Z"
             },
@@ -222,12 +338,35 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Community guide to securing and improving privacy on macOS.",
+                "homepage": "https://drduh.github.io/macOS-Security-and-Privacy-Guide/",
                 "id": 41654081,
                 "language": null,
+                "license": "MIT",
                 "last_commit": "2026-08-27T03:00:01Z",
+                "open_issues": 8,
                 "owner": "drduh",
                 "repo": "macOS-Security-and-Privacy-Guide",
-                "stars": 22499
+                "stars": 22499,
+                "topics": [
+                  "apple",
+                  "checklist",
+                  "disk-encryption",
+                  "guide",
+                  "guides",
+                  "hardening",
+                  "information-security",
+                  "infosec",
+                  "macbook-configuration",
+                  "macos",
+                  "macos-security",
+                  "macos-setup",
+                  "opsec",
+                  "osx",
+                  "privacy",
+                  "security",
+                  "sysadmin"
+                ]
               },
               "first_seen": "2026-08-29T00:38:09.728Z"
             },
@@ -238,12 +377,26 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "macOS Security Compliance Project",
+                "homepage": "https://pages.nist.gov/macos_security",
                 "id": 269753140,
                 "language": "YAML",
-                "last_commit": "2026-08-26T18:42:40Z",
+                "license": "NOASSERTION",
+                "last_commit": "2026-08-29T02:00:08Z",
+                "open_issues": 20,
                 "owner": "usnistgov",
                 "repo": "macos_security",
-                "stars": 2456
+                "stars": 2456,
+                "topics": [
+                  "apple",
+                  "bash",
+                  "compliance",
+                  "macos",
+                  "mdm",
+                  "mscp",
+                  "python3",
+                  "zsh"
+                ]
               },
               "first_seen": "2026-08-29T00:38:09.728Z"
             },
@@ -254,12 +407,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "\"The missing ProcMon for macOS\": Mac Monitor records Endpoint Security events and displays them for analysis.",
+                "homepage": null,
                 "id": 614452756,
                 "language": "Swift",
+                "license": "BSD-3-Clause",
                 "last_commit": "2026-07-28T20:37:27Z",
+                "open_issues": 7,
                 "owner": "Brandon7CC",
                 "repo": "mac-monitor",
-                "stars": 1379
+                "stars": 1379,
+                "topics": [
+                  "endpoint-security",
+                  "macos",
+                  "swift",
+                  "swiftui"
+                ]
               },
               "first_seen": "2026-08-29T00:38:09.728Z"
             },
@@ -270,12 +433,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "macOS Security Profiles based off of STIG  Developed by Apple and DISA for the DOD",
+                "homepage": null,
                 "id": 590674771,
                 "language": "Shell",
+                "license": null,
                 "last_commit": "2023-09-22T01:18:51Z",
+                "open_issues": 0,
                 "owner": "sambacha",
                 "repo": "macos-secure-profiles",
-                "stars": 13
+                "stars": 13,
+                "topics": [
+                  "macos",
+                  "secure-boot",
+                  "stig-compliant"
+                ]
               },
               "first_seen": "2026-08-29T00:38:09.728Z"
             },
@@ -286,12 +458,32 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A collection of awesome security hardening guides, tools and other resources",
+                "homepage": null,
                 "id": 184064793,
                 "language": null,
+                "license": null,
                 "last_commit": "2026-05-05T21:38:04Z",
+                "open_issues": 125,
                 "owner": "decalage2",
                 "repo": "awesome-security-hardening",
-                "stars": 6529
+                "stars": 6529,
+                "topics": [
+                  "awesome-list",
+                  "best-practices",
+                  "blue-team",
+                  "blueteam",
+                  "cis-benchmarks",
+                  "computer-security",
+                  "cyber-security",
+                  "cybersecurity",
+                  "infosec",
+                  "linux-hardening",
+                  "security",
+                  "security-hardening",
+                  "security-tools",
+                  "windows-hardening"
+                ]
               },
               "first_seen": "2026-08-29T00:38:09.728Z"
             },
@@ -302,12 +494,29 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Set up a personal VPN in the cloud",
+                "homepage": "https://blog.trailofbits.com/2016/12/12/meet-algo-the-vpn-that-works/",
                 "id": 58842707,
                 "language": "Python",
+                "license": "AGPL-3.0",
                 "last_commit": "2026-08-26T21:45:41Z",
+                "open_issues": 75,
                 "owner": "trailofbits",
                 "repo": "algo",
-                "stars": 30367
+                "stars": 30367,
+                "topics": [
+                  "ansible",
+                  "encryption",
+                  "ikev2",
+                  "ipsec",
+                  "security",
+                  "ssh-tunnel",
+                  "strongswan",
+                  "vpn",
+                  "vpn-client",
+                  "vpn-server",
+                  "wireguard"
+                ]
               },
               "first_seen": "2026-08-29T00:38:09.728Z"
             },
@@ -318,12 +527,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "GoodbyeDPI — Deep Packet Inspection circumvention utility (for Windows)",
+                "homepage": "https://ntc.party/c/community-software/goodbyedpi",
                 "id": 91493088,
                 "language": "C",
+                "license": "Apache-2.0",
                 "last_commit": "2026-01-19T12:59:23Z",
+                "open_issues": 152,
                 "owner": "ValdikSS",
                 "repo": "GoodbyeDPI",
-                "stars": 28595
+                "stars": 28595,
+                "topics": [
+                  "anticensorship",
+                  "censorship-circumvention",
+                  "deep-packet-inspection",
+                  "dpi"
+                ]
               },
               "first_seen": "2026-08-29T00:38:09.728Z"
             },
@@ -334,12 +553,34 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "DNS over HTTPS / DNS over Tor / DNSCrypt client, WireGuard proxifier, firewall, and connection tracker for Android.",
+                "homepage": "https://rethinkfirewall.com/",
                 "id": 270683546,
                 "language": "Kotlin",
+                "license": "Apache-2.0",
                 "last_commit": "2026-08-24T17:44:52Z",
+                "open_issues": 642,
                 "owner": "celzero",
                 "repo": "rethink-app",
-                "stars": 5348
+                "stars": 5348,
+                "topics": [
+                  "android",
+                  "android-app",
+                  "android-application",
+                  "android-firewall",
+                  "anti-censorship",
+                  "anti-surveillance",
+                  "censorship-circumvention",
+                  "censorship-resistance",
+                  "dns",
+                  "dns-over-https",
+                  "dnscrypt",
+                  "firewall",
+                  "internet-freedom",
+                  "open-source",
+                  "privacy-enhancing-technologies",
+                  "wireguard"
+                ]
               },
               "first_seen": "2026-08-29T00:38:09.728Z"
             },
@@ -350,12 +591,38 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "An HTTP cache system, RFC compliant, compatible with @tyktechnologies, @traefik, @caddyserver, @go-chi, @bnkamalesh, @beego, @devfeel, @labstack, @gofiber, @go-goyave, @go-kratos, @gin-gonic, @roadrunner-server, @zalando, @zeromicro, @nginx and @apache",
+                "homepage": "https://docs.souin.io",
                 "id": 218724447,
                 "language": "Go",
+                "license": "MIT",
                 "last_commit": "2026-08-25T16:41:03Z",
+                "open_issues": 72,
                 "owner": "darkweak",
                 "repo": "souin",
-                "stars": 997
+                "stars": 997,
+                "topics": [
+                  "cache",
+                  "caddy",
+                  "caddy-module",
+                  "caddy-plugin",
+                  "caddy-server",
+                  "caddyserver",
+                  "echo-framework",
+                  "gin-gonic",
+                  "gin-middleware",
+                  "http-cache",
+                  "labstack-echo",
+                  "middleware",
+                  "skipper",
+                  "souin-instance",
+                  "traefik",
+                  "traefik-plugin",
+                  "traefik-v2",
+                  "tyk",
+                  "tyk-gateway",
+                  "varnish"
+                ]
               },
               "first_seen": "2026-08-29T00:38:09.728Z"
             },
@@ -366,12 +633,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "IP over Telegram, because why not.",
+                "homepage": null,
                 "id": 78554405,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2020-01-31T13:01:45Z",
+                "open_issues": 1,
                 "owner": "PiMaker",
                 "repo": "Teletun",
-                "stars": 352
+                "stars": 352,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:38:09.728Z"
             },
@@ -382,12 +654,32 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Transparent proxy through Tor with optionally DNSCrypt and Anonymized-DNS feature enabled.",
+                "homepage": null,
                 "id": 316360105,
                 "language": "Shell",
+                "license": "GPL-3.0",
                 "last_commit": "2026-07-21T00:58:44Z",
+                "open_issues": 0,
                 "owner": "bit4mind",
                 "repo": "anon-service",
-                "stars": 13
+                "stars": 13,
+                "topics": [
+                  "anonymity",
+                  "anonymized",
+                  "anonymized-dns",
+                  "dns",
+                  "dnscrypt",
+                  "dnscrypt-proxy",
+                  "iptables",
+                  "privacy",
+                  "proxy",
+                  "security",
+                  "shell",
+                  "tor",
+                  "transparent-proxy",
+                  "unbound"
+                ]
               },
               "first_seen": "2026-08-29T00:38:09.728Z"
             },
@@ -398,12 +690,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 698007297,
                 "language": null,
+                "license": null,
                 "last_commit": "2023-10-03T03:20:35Z",
+                "open_issues": 0,
                 "owner": "0xngmi",
                 "repo": "discord-server-guidelines",
-                "stars": 44
+                "stars": 44,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:38:09.728Z"
             }
@@ -421,12 +718,32 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "One place for all the default credentials to assist the Blue/Red teamers identifying devices with default password 🛡️",
+                "homepage": "https://pypi.org/project/DefaultCreds_cheat_sheet/",
                 "id": 326038947,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2026-07-09T10:09:24Z",
+                "open_issues": 0,
                 "owner": "ihebski",
                 "repo": "DefaultCreds-cheat-sheet",
-                "stars": 6726
+                "stars": 6726,
+                "topics": [
+                  "blueteam",
+                  "blueteam-tools",
+                  "blueteaming",
+                  "bugbounty",
+                  "cheatsheet",
+                  "cybersecurity",
+                  "default-password",
+                  "exploit",
+                  "infosec",
+                  "offensive-security",
+                  "offensive-security-projects",
+                  "pentest",
+                  "pentesting",
+                  "soc"
+                ]
               },
               "first_seen": "2026-08-29T00:38:09.728Z"
             },
@@ -437,12 +754,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A list of known attacks against Bitcoin / crypto asset owning entities that occurred in meatspace.",
+                "homepage": null,
                 "id": 140097891,
                 "language": null,
+                "license": "Unlicense",
                 "last_commit": "2026-08-25T14:39:35Z",
+                "open_issues": 16,
                 "owner": "jlopp",
                 "repo": "physical-bitcoin-attacks",
-                "stars": 894
+                "stars": 894,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:38:09.728Z"
             },
@@ -453,12 +775,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "If you want know, who use your computer when you are not nearby!",
+                "homepage": null,
                 "id": 288392278,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2021-09-30T13:18:03Z",
+                "open_issues": 0,
                 "owner": "iterweb",
                 "repo": "watcher",
-                "stars": 48
+                "stars": 48,
+                "topics": [
+                  "privacy",
+                  "python",
+                  "security",
+                  "watch",
+                  "watcher",
+                  "windows"
+                ]
               },
               "first_seen": "2026-08-29T00:38:09.728Z"
             }
@@ -476,12 +810,26 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": " A curated list of awesome infosec courses and training resources.",
+                "homepage": null,
                 "id": 35577029,
                 "language": null,
+                "license": null,
                 "last_commit": "2026-08-28T15:30:27Z",
+                "open_issues": 15,
                 "owner": "onlurking",
                 "repo": "awesome-infosec",
-                "stars": 5728
+                "stars": 5728,
+                "topics": [
+                  "awesome",
+                  "courses",
+                  "infosec",
+                  "lab",
+                  "penetration-testing",
+                  "pentest",
+                  "security",
+                  "security-professionals"
+                ]
               },
               "first_seen": "2026-08-29T00:38:09.728Z"
             }
@@ -499,12 +847,37 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Android keyboard for secure E2EE communication through the signal protocol in any messenger. Communicate securely and independent, regardless of the legal situation or whether messengers use E2EE",
+                "homepage": null,
                 "id": 640224990,
                 "language": "Java",
+                "license": "GPL-3.0",
                 "last_commit": "2024-04-21T18:54:45Z",
+                "open_issues": 22,
                 "owner": "amnesica",
                 "repo": "KryptEY",
-                "stars": 873
+                "stars": 873,
+                "topics": [
+                  "android",
+                  "android-keyboard",
+                  "chat-control",
+                  "chatcontrol",
+                  "chatkontrolle",
+                  "chatkontrolle-stoppen",
+                  "e2ee",
+                  "e2ee-encryption",
+                  "end-to-end-encryption",
+                  "input-method",
+                  "java",
+                  "keyboard",
+                  "libsignal",
+                  "messenger",
+                  "privacy",
+                  "security",
+                  "signal-android",
+                  "signal-protocol",
+                  "stop-scanning-me"
+                ]
               },
               "first_seen": "2026-08-29T00:38:09.728Z"
             }
@@ -522,12 +895,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "OSINT tool to find breached emails, databases, pastes, and relevant information",
+                "homepage": null,
                 "id": 182323091,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2025-08-14T14:29:48Z",
+                "open_issues": 16,
                 "owner": "Ekultek",
                 "repo": "WhatBreach",
-                "stars": 1664
+                "stars": 1664,
+                "topics": [
+                  "breach",
+                  "breaches",
+                  "domains",
+                  "emails",
+                  "osint"
+                ]
               },
               "first_seen": "2026-08-29T00:38:09.728Z"
             }
@@ -545,12 +929,35 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Malwoverview is a first response tool for threat hunting across VirusTotal, Hybrid Analysis, URLHaus, Polyswarm, Malshare, Alien Vault, Malpedia, Malware Bazaar, ThreatFox, Triage, IPInfo, Shodan, AbuseIPDB, GreyNoise, URLScan.io, Whois/RDAP, NIST, and VulnCheck. Supports LLM enrichment, IOC extraction, YARA scanning, and Android analysis.",
+                "homepage": "https://github.com/alexandreborges/malwoverview",
                 "id": 147892666,
                 "language": "Python",
+                "license": "GPL-3.0",
                 "last_commit": "2026-08-07T20:16:45Z",
+                "open_issues": 0,
                 "owner": "alexandreborges",
                 "repo": "malwoverview",
-                "stars": 4076
+                "stars": 4076,
+                "topics": [
+                  "alienvault",
+                  "cve",
+                  "cve-search",
+                  "cybersecurity",
+                  "malpedia",
+                  "malshare",
+                  "malware",
+                  "malware-analysis",
+                  "malwarebazaar",
+                  "threat-hunting",
+                  "threatfox",
+                  "threathunting",
+                  "threatintelligence",
+                  "triage",
+                  "urlhaus",
+                  "virustotal",
+                  "vulnerability"
+                ]
               },
               "first_seen": "2026-08-29T00:38:09.728Z"
             }
@@ -568,12 +975,20 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Generates self-contained HTML files protecting secret text content.",
+                "homepage": null,
                 "id": 233909943,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2024-10-24T11:39:32Z",
+                "open_issues": 1,
                 "owner": "dividuum",
                 "repo": "html-vault",
-                "stars": 156
+                "stars": 156,
+                "topics": [
+                  "secret-storage",
+                  "self-contained"
+                ]
               },
               "first_seen": "2026-08-29T00:38:09.728Z"
             },
@@ -584,12 +999,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Hide secrets in plain sight — tuck private messages inside ordinary images, guarded by AES encryption and LSB steganography.",
+                "homepage": "https://kaushalmeena.github.io/digi-cloak/",
                 "id": 369786491,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2026-07-31T07:15:13Z",
+                "open_issues": 0,
                 "owner": "kaushalmeena",
                 "repo": "digi-cloak",
-                "stars": 80
+                "stars": 80,
+                "topics": [
+                  "angular",
+                  "cryptography",
+                  "html",
+                  "pwa",
+                  "steganography",
+                  "tailwindcss",
+                  "typescript"
+                ]
               },
               "first_seen": "2026-08-29T00:38:09.728Z"
             },
@@ -600,12 +1028,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "Contracts for a wallet that is recoverable via backup keys.",
+                "homepage": null,
                 "id": 91194466,
                 "language": "TypeScript",
+                "license": null,
                 "last_commit": "2025-03-29T07:46:06Z",
+                "open_issues": 0,
                 "owner": "Zoltu",
                 "repo": "recoverable-wallet",
-                "stars": 51
+                "stars": 51,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:38:09.728Z"
             },
@@ -616,12 +1049,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Linux kernel module which powers off the computer on certain text from keyboard",
+                "homepage": null,
                 "id": 43718424,
                 "language": "C",
+                "license": "GPL-2.0",
                 "last_commit": "2015-10-07T00:57:17Z",
+                "open_issues": 1,
                 "owner": "starius",
                 "repo": "logic-bomb",
-                "stars": 46
+                "stars": 46,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:38:09.728Z"
             }
@@ -639,12 +1077,30 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Here we collect and discuss the best DeFI & Blockchain researches and tools. Feel free to DM me on Twitter or open pool request. ",
+                "homepage": "https://officercia.medium.com/",
                 "id": 376155268,
                 "language": null,
+                "license": "NOASSERTION",
                 "last_commit": "2026-03-14T19:04:35Z",
+                "open_issues": 1,
                 "owner": "OffcierCia",
                 "repo": "ultimate-defi-research-base",
-                "stars": 2212
+                "stars": 2212,
+                "topics": [
+                  "awesome",
+                  "awesome-list",
+                  "bitcoin",
+                  "blockchain",
+                  "blockchain-technology",
+                  "cryptocurrency",
+                  "curated-list",
+                  "defi",
+                  "ethereum",
+                  "knowledge-base",
+                  "research",
+                  "smart-contracts"
+                ]
               },
               "first_seen": "2026-08-29T00:38:09.728Z"
             },
@@ -655,12 +1111,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "💫 ETH-XMR atomic swap implementation",
+                "homepage": null,
                 "id": 420196018,
                 "language": "Go",
+                "license": "LGPL-3.0",
                 "last_commit": "2023-12-14T04:22:58Z",
+                "open_issues": 44,
                 "owner": "athanorlabs",
                 "repo": "atomic-swap",
-                "stars": 378
+                "stars": 378,
+                "topics": [
+                  "atomic-swap",
+                  "blockchain",
+                  "ethereum",
+                  "monero"
+                ]
               },
               "first_seen": "2026-08-29T00:38:09.728Z"
             },
@@ -671,12 +1137,19 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A fast, secure, and portable multichain light client for Ethereum",
+                "homepage": null,
                 "id": 523436104,
                 "language": "Rust",
+                "license": "MIT",
                 "last_commit": "2026-06-26T19:14:25Z",
+                "open_issues": 95,
                 "owner": "a16z",
                 "repo": "helios",
-                "stars": 2176
+                "stars": 2176,
+                "topics": [
+                  "ethereum"
+                ]
               },
               "first_seen": "2026-08-29T00:38:09.728Z"
             },
@@ -687,12 +1160,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Mixing service using the Nym network to anonymize Ethereum RPC calls",
+                "homepage": null,
                 "id": 584359190,
                 "language": "TypeScript",
+                "license": null,
                 "last_commit": "2026-07-28T13:11:55Z",
+                "open_issues": 0,
                 "owner": "EdenBlockVC",
                 "repo": "spook",
-                "stars": 55
+                "stars": 55,
+                "topics": [
+                  "anonymity",
+                  "ethereum",
+                  "nym",
+                  "rpc"
+                ]
               },
               "first_seen": "2026-08-29T00:38:09.728Z"
             },
@@ -703,12 +1186,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Proxy requests to different Ethereum RPC servers and optionally alter the request.",
+                "homepage": null,
                 "id": 570681127,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2022-11-25T21:10:25Z",
+                "open_issues": 0,
                 "owner": "shark0der",
                 "repo": "rpc-proxy",
-                "stars": 25
+                "stars": 25,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:38:09.728Z"
             }
@@ -726,12 +1214,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A list of known attacks against Bitcoin / crypto asset owning entities that occurred in meatspace.",
+                "homepage": null,
                 "id": 140097891,
                 "language": null,
+                "license": "Unlicense",
                 "last_commit": "2026-08-25T14:39:35Z",
+                "open_issues": 16,
                 "owner": "jlopp",
                 "repo": "physical-bitcoin-attacks",
-                "stars": 894
+                "stars": 894,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:38:09.728Z"
             },
@@ -744,12 +1237,32 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "A collection of awesome security hardening guides, tools and other resources",
+                    "homepage": null,
                     "id": 184064793,
                     "language": null,
+                    "license": null,
                     "last_commit": "2026-05-05T21:38:04Z",
+                    "open_issues": 125,
                     "owner": "decalage2",
                     "repo": "awesome-security-hardening",
-                    "stars": 6529
+                    "stars": 6529,
+                    "topics": [
+                      "awesome-list",
+                      "best-practices",
+                      "blue-team",
+                      "blueteam",
+                      "cis-benchmarks",
+                      "computer-security",
+                      "cyber-security",
+                      "cybersecurity",
+                      "infosec",
+                      "linux-hardening",
+                      "security",
+                      "security-hardening",
+                      "security-tools",
+                      "windows-hardening"
+                    ]
                   },
                   "first_seen": "2026-08-29T00:38:09.728Z"
                 },
@@ -760,12 +1273,38 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Open-source tool to enforce privacy & security best-practices on Windows, macOS and Linux, because privacy is sexy",
+                    "homepage": "https://privacy.sexy",
                     "id": 231104091,
                     "language": "TypeScript",
+                    "license": "AGPL-3.0",
                     "last_commit": "2026-02-13T10:55:07Z",
+                    "open_issues": 251,
                     "owner": "undergroundwires",
                     "repo": "privacy.sexy",
-                    "stars": 5989
+                    "stars": 5989,
+                    "topics": [
+                      "bloatware",
+                      "bloatware-removal",
+                      "cleanup",
+                      "cybersecurity",
+                      "debloat",
+                      "debloater",
+                      "debotnet",
+                      "domain-driven-design",
+                      "linux",
+                      "macos",
+                      "privacy",
+                      "privacy-protection",
+                      "privacy-tools",
+                      "security",
+                      "security-hardening",
+                      "security-tool",
+                      "security-tools",
+                      "tweaks-collection",
+                      "windows10",
+                      "windows11"
+                    ]
                   },
                   "first_seen": "2026-08-29T00:38:09.728Z"
                 },
@@ -776,12 +1315,23 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "A collection of practical security-focused guides and checklists for smart contract development",
+                    "homepage": null,
                     "id": 479526508,
                     "language": null,
+                    "license": "MIT",
                     "last_commit": "2023-11-15T16:33:31Z",
+                    "open_issues": 1,
                     "owner": "nascentxyz",
                     "repo": "simple-security-toolkit",
-                    "stars": 1233
+                    "stars": 1233,
+                    "topics": [
+                      "crypto",
+                      "security",
+                      "security-tools",
+                      "smart-contracts",
+                      "solidity"
+                    ]
                   },
                   "first_seen": "2026-08-29T00:38:09.728Z"
                 }
@@ -804,12 +1354,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A list of known attacks against Bitcoin / crypto asset owning entities that occurred in meatspace.",
+                "homepage": null,
                 "id": 140097891,
                 "language": null,
+                "license": "Unlicense",
                 "last_commit": "2026-08-25T14:39:35Z",
+                "open_issues": 16,
                 "owner": "jlopp",
                 "repo": "physical-bitcoin-attacks",
-                "stars": 894
+                "stars": 894,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:38:09.728Z"
             }
@@ -831,12 +1386,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Protect your SSH keys with your Mac's Secure Enclave",
+            "homepage": "https://secretive.dev",
             "id": 241524703,
             "language": "Swift",
+            "license": "MIT",
             "last_commit": "2026-08-19T08:42:13Z",
+            "open_issues": 169,
             "owner": "maxgoedjen",
             "repo": "secretive",
-            "stars": 8823
+            "stars": 8823,
+            "topics": [
+              "mac",
+              "secure-enclave",
+              "security",
+              "ssh"
+            ]
           },
           "first_seen": "2026-08-29T00:38:09.728Z"
         },
@@ -847,12 +1412,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Reproduce DeFi hacked incidents using Foundry.",
+            "homepage": null,
             "id": 501990676,
             "language": "Solidity",
-            "last_commit": "2026-08-28T03:03:12Z",
+            "license": "Apache-2.0",
+            "last_commit": "2026-08-29T03:00:58Z",
+            "open_issues": 2,
             "owner": "SunWeb3Sec",
             "repo": "DeFiHackLabs",
-            "stars": 6760
+            "stars": 6760,
+            "topics": [
+              "defi",
+              "ethereum",
+              "foundry",
+              "solidity",
+              "web3"
+            ]
           },
           "first_seen": "2026-08-29T00:38:09.728Z"
         },
@@ -863,12 +1439,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A tool that allows user to create time bound backups for various cryptocurrencies",
+            "homepage": "https://james-sangalli.medium.com/utxo-based-backups-an-idea-for-bitcoin-cold-storage-21f620c35981",
             "id": 581700458,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2025-03-20T21:20:58Z",
+            "open_issues": 10,
             "owner": "JamesANZ",
             "repo": "crypto-timelocked-backup",
-            "stars": 11
+            "stars": 11,
+            "topics": [
+              "backup-tool",
+              "bitcoin",
+              "dotsama",
+              "ethereum"
+            ]
           },
           "first_seen": "2026-08-29T00:38:09.728Z"
         }
@@ -885,12 +1471,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Never ever ever use pixelation as a redaction technique",
+            "homepage": null,
             "id": 420161012,
             "language": "TypeScript",
+            "license": "GPL-3.0",
             "last_commit": "2024-03-15T00:35:43Z",
+            "open_issues": 36,
             "owner": "BishopFox",
             "repo": "unredacter",
-            "stars": 8383
+            "stars": 8383,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:38:09.728Z"
         },
@@ -901,12 +1492,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "University lecture on \"IT Security\" as Open Educational Resources material",
+            "homepage": null,
             "id": 136597310,
             "language": null,
+            "license": "NOASSERTION",
             "last_commit": "2023-08-18T22:41:18Z",
+            "open_issues": 0,
             "owner": "bkimminich",
             "repo": "it-security-lecture",
-            "stars": 377
+            "stars": 377,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:38:09.728Z"
         },
@@ -917,12 +1513,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A collection of awesome resources related to 802.11 security, tools and other things ",
+            "homepage": null,
             "id": 66666315,
             "language": null,
+            "license": null,
             "last_commit": "2019-04-10T16:47:06Z",
+            "open_issues": 2,
             "owner": "edelahozuah",
             "repo": "awesome-wifi-security",
-            "stars": 174
+            "stars": 174,
+            "topics": [
+              "cybersecurity",
+              "wifi"
+            ]
           },
           "first_seen": "2026-08-29T00:38:09.728Z"
         }
@@ -939,12 +1543,31 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Awesome CSIRT is an curated list of links and resources in security and CSIRT daily activities.",
+            "homepage": null,
             "id": 59441906,
             "language": "C",
+            "license": "GPL-3.0",
             "last_commit": "2025-11-25T17:45:31Z",
+            "open_issues": 3,
             "owner": "Spacial",
             "repo": "awesome-csirt",
-            "stars": 647
+            "stars": 647,
+            "topics": [
+              "awesome",
+              "awesome-list",
+              "csirt",
+              "cve",
+              "exfiltration",
+              "exploits",
+              "malware-analysis",
+              "pentesting",
+              "poc",
+              "reverse-engineering",
+              "secure-programming",
+              "security",
+              "threat-intelligence"
+            ]
           },
           "first_seen": "2026-08-29T00:38:09.728Z"
         }
@@ -961,12 +1584,31 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Vulnerable-by-design solidity protocol to help Web3 security enthusiasts practice their skills in an environment closer to real live.",
+            "homepage": null,
             "id": 599937380,
             "language": "Solidity",
+            "license": "GPL-3.0",
             "last_commit": "2025-06-12T09:23:51Z",
+            "open_issues": 0,
             "owner": "Faillapop",
             "repo": "faillapop",
-            "stars": 150
+            "stars": 150,
+            "topics": [
+              "audit",
+              "beginner",
+              "bug",
+              "bugbounty",
+              "contract",
+              "ethereum",
+              "evm",
+              "security",
+              "smart",
+              "smart-contracts",
+              "smartcontract",
+              "solidity",
+              "vulnerabilities"
+            ]
           },
           "first_seen": "2026-08-29T00:38:09.728Z"
         }
@@ -983,12 +1625,35 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "💚 End-to-end encrypted cloud for everything.",
+            "homepage": "https://ente.com",
             "id": 560284721,
             "language": "Dart",
+            "license": "AGPL-3.0",
             "last_commit": "2026-08-29T00:19:25Z",
+            "open_issues": 257,
             "owner": "ente",
             "repo": "ente",
-            "stars": 28548
+            "stars": 28550,
+            "topics": [
+              "2fa",
+              "android",
+              "authy",
+              "e2ee",
+              "encryption",
+              "end-to-end-encryption",
+              "flutter",
+              "golang",
+              "google-photos",
+              "google-photos-alternative",
+              "ios",
+              "opensource",
+              "photos",
+              "privacy",
+              "privacy-tools",
+              "typescript",
+              "zero-knowledge"
+            ]
           },
           "first_seen": "2026-08-29T00:38:09.728Z"
         },
@@ -999,12 +1664,32 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A collection of awesome security hardening guides, tools and other resources",
+            "homepage": null,
             "id": 184064793,
             "language": null,
+            "license": null,
             "last_commit": "2026-05-05T21:38:04Z",
+            "open_issues": 125,
             "owner": "decalage2",
             "repo": "awesome-security-hardening",
-            "stars": 6529
+            "stars": 6529,
+            "topics": [
+              "awesome-list",
+              "best-practices",
+              "blue-team",
+              "blueteam",
+              "cis-benchmarks",
+              "computer-security",
+              "cyber-security",
+              "cybersecurity",
+              "infosec",
+              "linux-hardening",
+              "security",
+              "security-hardening",
+              "security-tools",
+              "windows-hardening"
+            ]
           },
           "first_seen": "2026-08-29T00:38:09.728Z"
         },
@@ -1015,12 +1700,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 533161728,
             "language": null,
+            "license": null,
             "last_commit": "2025-09-23T21:37:54Z",
+            "open_issues": 2,
             "owner": "RealityNet",
             "repo": "Android-Forensics-References",
-            "stars": 362
+            "stars": 362,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:38:09.728Z"
         },
@@ -1031,12 +1721,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A curated list of iOS Forensics References, organized by folder with specific references (links to blog post, research paper, articles, and so on) for each interesting file",
+            "homepage": null,
             "id": 627820495,
             "language": null,
+            "license": null,
             "last_commit": "2023-12-01T10:12:47Z",
+            "open_issues": 2,
             "owner": "RealityNet",
             "repo": "iOS-Forensics-References",
-            "stars": 237
+            "stars": 237,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:38:09.728Z"
         },
@@ -1047,12 +1742,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Hide secrets in plain sight — tuck private messages inside ordinary images, guarded by AES encryption and LSB steganography.",
+            "homepage": "https://kaushalmeena.github.io/digi-cloak/",
             "id": 369786491,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2026-07-31T07:15:13Z",
+            "open_issues": 0,
             "owner": "kaushalmeena",
             "repo": "digi-cloak",
-            "stars": 80
+            "stars": 80,
+            "topics": [
+              "angular",
+              "cryptography",
+              "html",
+              "pwa",
+              "steganography",
+              "tailwindcss",
+              "typescript"
+            ]
           },
           "first_seen": "2026-08-29T00:38:09.728Z"
         }
@@ -1069,12 +1777,28 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "OpenVPN road warrior installer for Ubuntu, Debian, AlmaLinux, Rocky Linux, CentOS and Fedora",
+            "homepage": null,
             "id": 10054176,
             "language": "Shell",
+            "license": "MIT",
             "last_commit": "2026-07-02T17:57:04Z",
+            "open_issues": 0,
             "owner": "Nyr",
             "repo": "openvpn-install",
-            "stars": 20620
+            "stars": 20620,
+            "topics": [
+              "almalinux",
+              "bash",
+              "centos",
+              "debian",
+              "fedora",
+              "openvpn",
+              "rockylinux",
+              "shell",
+              "ubuntu",
+              "vpn"
+            ]
           },
           "first_seen": "2026-08-29T00:38:09.728Z"
         }
@@ -1091,12 +1815,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Heck off, creeps",
+            "homepage": null,
             "id": 214523484,
             "language": "Jupyter Notebook",
+            "license": null,
             "last_commit": "2021-05-06T01:20:52Z",
+            "open_issues": 1,
             "owner": "skickar",
             "repo": "CreepDetector",
-            "stars": 210
+            "stars": 210,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:38:09.728Z"
         },
@@ -1107,12 +1836,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "ESP8266 wardriving scripts & Jupyter Notebook data visualization tools",
+            "homepage": null,
             "id": 178940812,
             "language": "Jupyter Notebook",
+            "license": null,
             "last_commit": "2023-03-30T16:48:59Z",
+            "open_issues": 10,
             "owner": "AlexLynd",
             "repo": "ESP8266-Wardriving",
-            "stars": 176
+            "stars": 176,
+            "topics": [
+              "csv",
+              "esp32",
+              "esp8266",
+              "gps",
+              "logging",
+              "wardriving",
+              "wifi",
+              "wigle"
+            ]
           },
           "first_seen": "2026-08-29T00:38:09.728Z"
         },
@@ -1123,12 +1866,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": ":key: Tampermonkey script that encrypt and decrypt your messages on Discord :key:",
+            "homepage": null,
             "id": 165284507,
             "language": "JavaScript",
+            "license": "GPL-3.0",
             "last_commit": "2019-08-01T12:44:21Z",
+            "open_issues": 0,
             "owner": "mpgn",
             "repo": "discord-e2e-encryption",
-            "stars": 95
+            "stars": 95,
+            "topics": [
+              "discord",
+              "discord-js",
+              "encryption",
+              "end-to-end-encryption",
+              "greasemonkey",
+              "tampermonkey"
+            ]
           },
           "first_seen": "2026-08-29T00:38:09.728Z"
         }
@@ -1145,12 +1900,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "a file-sharing tool that allows you to find the responsible person in case of a leakage",
+            "homepage": null,
             "id": 452300927,
             "language": "Go",
+            "license": "BSD-3-Clause",
             "last_commit": "2022-01-31T13:16:52Z",
+            "open_issues": 1,
             "owner": "utkusen",
             "repo": "wholeaked",
-            "stars": 1100
+            "stars": 1100,
+            "topics": [
+              "file-sharing",
+              "osint",
+              "privacy",
+              "privacy-tools",
+              "security"
+            ]
           },
           "first_seen": "2026-08-29T00:38:09.728Z"
         }
@@ -1167,12 +1933,29 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A curated list of awesome Memory Forensics for DFIR",
+            "homepage": null,
             "id": 477038428,
             "language": null,
+            "license": "CC0-1.0",
             "last_commit": "2026-08-17T21:50:15Z",
+            "open_issues": 2,
             "owner": "digitalisx",
             "repo": "awesome-memory-forensics",
-            "stars": 562
+            "stars": 562,
+            "topics": [
+              "awesome",
+              "awesome-list",
+              "digital-forensics",
+              "digital-forensics-incident-response",
+              "forensics",
+              "incident-response",
+              "malware",
+              "malware-analysis",
+              "malware-research",
+              "memory",
+              "memory-analysis"
+            ]
           },
           "first_seen": "2026-08-29T00:38:09.728Z"
         }
@@ -1189,12 +1972,35 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Community guide to securing and improving privacy on macOS.",
+            "homepage": "https://drduh.github.io/macOS-Security-and-Privacy-Guide/",
             "id": 41654081,
             "language": null,
+            "license": "MIT",
             "last_commit": "2026-08-27T03:00:01Z",
+            "open_issues": 8,
             "owner": "drduh",
             "repo": "macOS-Security-and-Privacy-Guide",
-            "stars": 22499
+            "stars": 22499,
+            "topics": [
+              "apple",
+              "checklist",
+              "disk-encryption",
+              "guide",
+              "guides",
+              "hardening",
+              "information-security",
+              "infosec",
+              "macbook-configuration",
+              "macos",
+              "macos-security",
+              "macos-setup",
+              "opsec",
+              "osx",
+              "privacy",
+              "security",
+              "sysadmin"
+            ]
           },
           "first_seen": "2026-08-29T00:38:09.728Z"
         },
@@ -1205,12 +2011,32 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A collection of awesome security hardening guides, tools and other resources",
+            "homepage": null,
             "id": 184064793,
             "language": null,
+            "license": null,
             "last_commit": "2026-05-05T21:38:04Z",
+            "open_issues": 125,
             "owner": "decalage2",
             "repo": "awesome-security-hardening",
-            "stars": 6529
+            "stars": 6529,
+            "topics": [
+              "awesome-list",
+              "best-practices",
+              "blue-team",
+              "blueteam",
+              "cis-benchmarks",
+              "computer-security",
+              "cyber-security",
+              "cybersecurity",
+              "infosec",
+              "linux-hardening",
+              "security",
+              "security-hardening",
+              "security-tools",
+              "windows-hardening"
+            ]
           },
           "first_seen": "2026-08-29T00:38:09.728Z"
         },
@@ -1221,12 +2047,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "This is a macOS hardening to read or set security configuration.",
+            "homepage": null,
             "id": 382088950,
             "language": "Shell",
+            "license": "AGPL-3.0",
             "last_commit": "2024-11-14T13:37:43Z",
+            "open_issues": 2,
             "owner": "ataumo",
             "repo": "macos_hardening",
-            "stars": 157
+            "stars": 157,
+            "topics": [
+              "bash",
+              "hardening",
+              "macos",
+              "macos-hardening",
+              "macos-policies",
+              "macos-scripting",
+              "scripting"
+            ]
           },
           "first_seen": "2026-08-29T00:38:09.728Z"
         }
@@ -1243,12 +2082,28 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "DeFi Developer roadmap is a curated Developer handbook which includes a list of the best tools for DApps development, resources and references! ",
+            "homepage": "https://officercia.medium.com/",
             "id": 378536025,
             "language": "JavaScript",
+            "license": "NOASSERTION",
             "last_commit": "2026-08-16T23:17:39Z",
+            "open_issues": 5,
             "owner": "OffcierCia",
             "repo": "DeFi-Developer-Road-Map",
-            "stars": 10820
+            "stars": 10820,
+            "topics": [
+              "awesome",
+              "awesome-list",
+              "blockchain",
+              "curated-list",
+              "defi",
+              "ethereum",
+              "knowledge-base",
+              "roadmap",
+              "smart-contracts",
+              "solidity"
+            ]
           },
           "first_seen": "2026-08-29T00:38:09.728Z"
         }
@@ -1265,12 +2120,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A list of known attacks against Bitcoin / crypto asset owning entities that occurred in meatspace.",
+            "homepage": null,
             "id": 140097891,
             "language": null,
+            "license": "Unlicense",
             "last_commit": "2026-08-25T14:39:35Z",
+            "open_issues": 16,
             "owner": "jlopp",
             "repo": "physical-bitcoin-attacks",
-            "stars": 894
+            "stars": 894,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:38:09.728Z"
         },
@@ -1281,12 +2141,30 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Creazione d'identità Fake - Impostazione Privacy Profili Social - Creazione Ambiente di Lavoro ",
+            "homepage": "https://cscorza.github.io/CScorza/",
             "id": 576570079,
             "language": null,
+            "license": null,
             "last_commit": "2026-01-18T09:47:57Z",
+            "open_issues": 0,
             "owner": "CScorza",
             "repo": "OSINTAnonymous",
-            "stars": 474
+            "stars": 474,
+            "topics": [
+              "email",
+              "fake",
+              "osint",
+              "phone",
+              "privacy",
+              "profile",
+              "protection",
+              "sms",
+              "social-network",
+              "telgram",
+              "virtualization",
+              "whatsapp"
+            ]
           },
           "first_seen": "2026-08-29T00:38:09.728Z"
         }
@@ -1295,15 +2173,30 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T00:38:09.728Z",
+    "last_updated": "2026-08-29T04:30:06.792Z",
     "original_repository_info": {
       "archived": false,
+      "description": "Here we collect and discuss the best DeFi, Blockchain and crypto-related OpSec researches and data terminals - contributions are welcome.",
+      "homepage": "https://t.me/officer_cia",
       "id": 379360003,
       "language": null,
+      "license": "Unlicense",
       "last_commit": "2026-08-16T23:20:41Z",
+      "open_issues": 2,
       "owner": "OffcierCia",
       "repo": "Crypto-OpSec-SelfGuard-RoadMap",
-      "stars": 1861
+      "stars": 1861,
+      "topics": [
+        "awesome-list",
+        "blockchain",
+        "cryptocurrency",
+        "curated-list",
+        "defi",
+        "infosec",
+        "knowledge-base",
+        "opsec",
+        "security"
+      ]
     },
     "original_repository_sha": "f910b843317d34227ad80c6567b46eefb2c082c4",
     "enhanced_repository": "enhansome/enhansome-Crypto-OpSec-SelfGuard-RoadMap",
