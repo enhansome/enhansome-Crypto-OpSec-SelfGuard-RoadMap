@@ -1,74 +1,6 @@
 {
   "items": [
     {
-      "description": "Note: OpSec is a term coming from the military, meaning operational security. It has been widely used to describe security precautions in various sensible activities, and more recently also in cryptocurrency management.",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "Portuguese-Brazilian",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "Here we collect and discuss the best DeFi, Blockchain and crypto-related OpSec researches and data terminals - contributions are welcome.",
-            "homepage": "https://t.me/officer_cia",
-            "id": 379360003,
-            "language": null,
-            "license": "Unlicense",
-            "last_commit": "2026-08-16T23:20:41Z",
-            "open_issues": 2,
-            "owner": "OffcierCia",
-            "repo": "Crypto-OpSec-SelfGuard-RoadMap",
-            "stars": 1876,
-            "topics": [
-              "awesome-list",
-              "blockchain",
-              "cryptocurrency",
-              "curated-list",
-              "defi",
-              "infosec",
-              "knowledge-base",
-              "opsec",
-              "security"
-            ]
-          },
-          "first_seen": "2026-08-29T00:38:09.728Z"
-        },
-        {
-          "node_type": "item",
-          "title": "French",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "Here we collect and discuss the best DeFi, Blockchain and crypto-related OpSec researches and data terminals - contributions are welcome.",
-            "homepage": "https://t.me/officer_cia",
-            "id": 379360003,
-            "language": null,
-            "license": "Unlicense",
-            "last_commit": "2026-08-16T23:20:41Z",
-            "open_issues": 2,
-            "owner": "OffcierCia",
-            "repo": "Crypto-OpSec-SelfGuard-RoadMap",
-            "stars": 1876,
-            "topics": [
-              "awesome-list",
-              "blockchain",
-              "cryptocurrency",
-              "curated-list",
-              "defi",
-              "infosec",
-              "knowledge-base",
-              "opsec",
-              "security"
-            ]
-          },
-          "first_seen": "2026-08-29T00:38:09.728Z"
-        }
-      ],
-      "title": "Overview"
-    },
-    {
       "description": "Special Thanks:\n| Special Notes:",
       "items": [
         {
@@ -97,7 +29,7 @@
             {
               "node_type": "item",
               "title": "Symbiote Tool",
-              "description": null,
+              "description": "hasanfirnas/symbiote",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -129,7 +61,7 @@
             {
               "node_type": "item",
               "title": "Wholeaked Tool",
-              "description": null,
+              "description": "utkusen/wholeaked",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -163,7 +95,7 @@
             {
               "node_type": "item",
               "title": "Croc Tool",
-              "description": null,
+              "description": "schollz/croc",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -176,7 +108,7 @@
                 "open_issues": 4,
                 "owner": "schollz",
                 "repo": "croc",
-                "stars": 40505,
+                "stars": 40508,
                 "topics": [
                   "data-transfer",
                   "file-sharing",
@@ -199,7 +131,7 @@
             {
               "node_type": "item",
               "title": "Blockchain dark forest selfguard handbook",
-              "description": null,
+              "description": "slowmist/Blockchain-dark-forest-selfguard-handbook",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -216,6 +148,207 @@
                 "topics": []
               },
               "first_seen": "2026-08-29T00:38:09.728Z"
+            },
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "Store SSH keys in the Secure Enclave!",
+                  "description": "maxgoedjen/secretive",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "description": "Protect your SSH keys with your Mac's Secure Enclave",
+                    "homepage": "https://secretive.dev",
+                    "id": 241524703,
+                    "language": "Swift",
+                    "license": "MIT",
+                    "last_commit": "2026-10-01T05:02:41Z",
+                    "open_issues": 174,
+                    "owner": "maxgoedjen",
+                    "repo": "secretive",
+                    "stars": 8937,
+                    "topics": [
+                      "mac",
+                      "secure-enclave",
+                      "security",
+                      "ssh"
+                    ]
+                  },
+                  "first_seen": "2026-08-29T00:38:09.728Z"
+                },
+                {
+                  "node_type": "item",
+                  "title": "Blockchain dark forest selfguard handbook",
+                  "description": "SunWeb3Sec/DeFiHackLabs",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "description": "Reproduce DeFi hacked incidents using Foundry.",
+                    "homepage": null,
+                    "id": 501990676,
+                    "language": "Solidity",
+                    "license": "Apache-2.0",
+                    "last_commit": "2026-10-03T03:01:52Z",
+                    "open_issues": 4,
+                    "owner": "SunWeb3Sec",
+                    "repo": "DeFiHackLabs",
+                    "stars": 6803,
+                    "topics": [
+                      "defi",
+                      "ethereum",
+                      "foundry",
+                      "solidity",
+                      "web3"
+                    ]
+                  },
+                  "first_seen": "2026-08-29T00:38:09.728Z"
+                },
+                {
+                  "node_type": "item",
+                  "title": "A tool that allows user to create time bound backups for various cryptocurrencies",
+                  "description": "JamesANZ/crypto-timelocked-backup",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "description": "A tool that allows user to create time bound backups for various cryptocurrencies",
+                    "homepage": "https://james-sangalli.medium.com/utxo-based-backups-an-idea-for-bitcoin-cold-storage-21f620c35981",
+                    "id": 581700458,
+                    "language": "TypeScript",
+                    "license": "MIT",
+                    "last_commit": "2025-03-20T21:20:58Z",
+                    "open_issues": 10,
+                    "owner": "JamesANZ",
+                    "repo": "crypto-timelocked-backup",
+                    "stars": 11,
+                    "topics": [
+                      "backup-tool",
+                      "bitcoin",
+                      "dotsama",
+                      "ethereum"
+                    ]
+                  },
+                  "first_seen": "2026-08-29T00:38:09.728Z"
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "Expand"
+            },
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "Unredacter Tool",
+                  "description": "BishopFox/unredacter",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "description": "Never ever ever use pixelation as a redaction technique",
+                    "homepage": null,
+                    "id": 420161012,
+                    "language": "TypeScript",
+                    "license": "GPL-3.0",
+                    "last_commit": "2024-03-15T00:35:43Z",
+                    "open_issues": 36,
+                    "owner": "BishopFox",
+                    "repo": "unredacter",
+                    "stars": 8397,
+                    "topics": []
+                  },
+                  "first_seen": "2026-08-29T00:38:09.728Z"
+                },
+                {
+                  "node_type": "item",
+                  "title": "IT security lecture",
+                  "description": "bkimminich/it-security-lecture",
+                  "children": [],
+                  "repo_info": {
+                    "archived": true,
+                    "description": "University lecture on \"IT Security\" as Open Educational Resources material",
+                    "homepage": null,
+                    "id": 136597310,
+                    "language": null,
+                    "license": "NOASSERTION",
+                    "last_commit": "2023-08-18T22:41:18Z",
+                    "open_issues": 0,
+                    "owner": "bkimminich",
+                    "repo": "it-security-lecture",
+                    "stars": 378,
+                    "topics": []
+                  },
+                  "first_seen": "2026-08-29T00:38:09.728Z"
+                },
+                {
+                  "node_type": "item",
+                  "title": "Awesome wifi security",
+                  "description": "edelahozuah/awesome-wifi-security",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "description": "A collection of awesome resources related to 802.11 security, tools and other things ",
+                    "homepage": null,
+                    "id": 66666315,
+                    "language": null,
+                    "license": null,
+                    "last_commit": "2019-04-10T16:47:06Z",
+                    "open_issues": 3,
+                    "owner": "edelahozuah",
+                    "repo": "awesome-wifi-security",
+                    "stars": 176,
+                    "topics": [
+                      "cybersecurity",
+                      "wifi"
+                    ]
+                  },
+                  "first_seen": "2026-08-29T00:38:09.728Z"
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "Expand"
+            },
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "Awesome csirt",
+                  "description": "Spacial/awesome-csirt",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "description": "Awesome CSIRT is an curated list of links and resources in security and CSIRT daily activities.",
+                    "homepage": null,
+                    "id": 59441906,
+                    "language": "C",
+                    "license": "GPL-3.0",
+                    "last_commit": "2025-11-25T17:45:31Z",
+                    "open_issues": 6,
+                    "owner": "Spacial",
+                    "repo": "awesome-csirt",
+                    "stars": 657,
+                    "topics": [
+                      "awesome",
+                      "awesome-list",
+                      "csirt",
+                      "cve",
+                      "exfiltration",
+                      "exploits",
+                      "malware-analysis",
+                      "pentesting",
+                      "poc",
+                      "reverse-engineering",
+                      "secure-programming",
+                      "security",
+                      "threat-intelligence"
+                    ]
+                  },
+                  "first_seen": "2026-08-29T00:38:09.728Z"
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "Expand"
             }
           ],
           "description": "Use different emails and different strong passwords. Never reuse passwords, especially for accounts with personally identifiable and sensitive information (e.g. Facebook, Gmail, AppleID, Twitter, banks/payments, crypto accounts).\nUse passwords that are at least 8 characters in length, but a minimum of 12 is generally recommended for memorization. Along with that, if using memorization, ensure that a minimum complexity requirement is met: which means having an uppercase character, a lowercase character, a digit, and a non-alphabetic character.\nFor a perfect-level privacy, always generate complex passwords and write them down on a notebook. It takes time but saves headache. Somewhere along the line, the 'stop writing passwords on sticky notes' narrative got misinterpreted as 'never write them down'. There's nuance to it!\nUsing a string of unrelated words while still meeting the dictionary requirement makes it easy to have an extremely secure password while still being able to remember it. If fully relying on a password manager, a password of 20+ characters in length that is randomly generated can be used.\nIf you see suspicious password activity or failed log-ins on any of your accounts, change all of your passwords, starting with sensitive and authorization accounts, such as your primary email and bank/crypto accounts.\nKeePass or Keepassx or KeePassDX or KeePassXC or BitWarden are good options. I also found this tutorial for integrity check (and other checks) very helpful, be sure to check it out as well: link.\nOn the opposite:\nFor 2FA one can use KeePass + Yubikey as well. KeePass allows setting up TOTP to any entry in your .kdbx file. Yubikey could be used in company with KeePass to add a bit of entropy on each re-encryption when adding an entry in your db file: Ref No.1; Ref No.2; Ref No.3.",
@@ -227,7 +360,7 @@
             {
               "node_type": "item",
               "title": "A collection of practical security-focused guides and checklists for smart contract development",
-              "description": null,
+              "description": "nascentxyz/simple-security-toolkit",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -259,9 +392,218 @@
         {
           "children": [
             {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "solidity-security",
+                  "description": "Faillapop/faillapop",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "description": "Vulnerable-by-design solidity protocol to help Web3 security enthusiasts practice their skills in an environment closer to real live.",
+                    "homepage": null,
+                    "id": 599937380,
+                    "language": "Solidity",
+                    "license": "GPL-3.0",
+                    "last_commit": "2025-06-12T09:23:51Z",
+                    "open_issues": 0,
+                    "owner": "Faillapop",
+                    "repo": "faillapop",
+                    "stars": 150,
+                    "topics": [
+                      "audit",
+                      "beginner",
+                      "bug",
+                      "bugbounty",
+                      "contract",
+                      "ethereum",
+                      "evm",
+                      "security",
+                      "smart",
+                      "smart-contracts",
+                      "smartcontract",
+                      "solidity",
+                      "vulnerabilities"
+                    ]
+                  },
+                  "first_seen": "2026-08-29T00:38:09.728Z"
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "Expand"
+            }
+          ],
+          "description": "Instead of SMS-based 2FA, use Authy or Aegis OTP for iOS or Android. Google Authenticator is generally not recommended anymore in order to stay out of the Google ecosystem, and Authy offers more robust account recovery options (Aegis does not offer the same level of account recovery options). Keep in mind that the codes generated by 2FA apps are device specific.\nLearn MFA and 3FA! Check out this article.\nIf your account is not manually backed up to Google cloud or iCloud and you lose your phone, you’ll need to spend some time proving your identity to restore your 2FA. The added security is worth the hassle!\nHardware-based 2FA options are regarded as more secure than phone-based OTP options since the keys are stored on the YubiKey device itself, not on your phone, or in the cloud, or on your computer.\nOn the opposite:\nAegis Authenticator is open source (licensed under GPL v3) and the source code can be found here. The issue with Authy is that it depends on a phone number which can be changed through an email request, allowing anyone access to HOTP/TOTP after an approximate 4-day wait period. To avoid that, disable multi-device function in Authy's settings!",
+          "node_type": "group",
+          "title": "Problem 4"
+        },
+        {
+          "children": [
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "Authenticator app for storing your 2FA secrets",
+                  "description": "ente/ente",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "description": "💚 End-to-end encrypted cloud for everything.",
+                    "homepage": "https://ente.com",
+                    "id": 560284721,
+                    "language": "Dart",
+                    "license": "AGPL-3.0",
+                    "last_commit": "2026-10-02T15:25:28Z",
+                    "open_issues": 209,
+                    "owner": "ente",
+                    "repo": "ente",
+                    "stars": 29210,
+                    "topics": [
+                      "2fa",
+                      "android",
+                      "authy",
+                      "e2ee",
+                      "encryption",
+                      "end-to-end-encryption",
+                      "flutter",
+                      "golang",
+                      "google-photos",
+                      "google-photos-alternative",
+                      "ios",
+                      "opensource",
+                      "photos",
+                      "privacy",
+                      "privacy-tools",
+                      "typescript",
+                      "zero-knowledge"
+                    ]
+                  },
+                  "first_seen": "2026-08-29T00:38:09.728Z"
+                },
+                {
+                  "node_type": "item",
+                  "title": "Awesome Security Hardening Guides",
+                  "description": "decalage2/awesome-security-hardening",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "description": "A collection of awesome security hardening guides, tools and other resources",
+                    "homepage": null,
+                    "id": 184064793,
+                    "language": null,
+                    "license": null,
+                    "last_commit": "2026-09-22T20:30:20Z",
+                    "open_issues": 131,
+                    "owner": "decalage2",
+                    "repo": "awesome-security-hardening",
+                    "stars": 6568,
+                    "topics": [
+                      "awesome-list",
+                      "best-practices",
+                      "blue-team",
+                      "blueteam",
+                      "cis-benchmarks",
+                      "computer-security",
+                      "cyber-security",
+                      "cybersecurity",
+                      "infosec",
+                      "linux-hardening",
+                      "security",
+                      "security-hardening",
+                      "security-tools",
+                      "windows-hardening"
+                    ]
+                  },
+                  "first_seen": "2026-08-29T00:38:09.728Z"
+                },
+                {
+                  "node_type": "item",
+                  "title": "Android Forensics References",
+                  "description": "RealityNet/Android-Forensics-References",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "description": null,
+                    "homepage": null,
+                    "id": 533161728,
+                    "language": null,
+                    "license": null,
+                    "last_commit": "2025-09-23T21:37:54Z",
+                    "open_issues": 2,
+                    "owner": "RealityNet",
+                    "repo": "Android-Forensics-References",
+                    "stars": 364,
+                    "topics": []
+                  },
+                  "first_seen": "2026-08-29T00:38:09.728Z"
+                },
+                {
+                  "node_type": "item",
+                  "title": "iOS Forensics References",
+                  "description": "RealityNet/iOS-Forensics-References",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "description": "A curated list of iOS Forensics References, organized by folder with specific references (links to blog post, research paper, articles, and so on) for each interesting file",
+                    "homepage": null,
+                    "id": 627820495,
+                    "language": null,
+                    "license": null,
+                    "last_commit": "2023-12-01T10:12:47Z",
+                    "open_issues": 2,
+                    "owner": "RealityNet",
+                    "repo": "iOS-Forensics-References",
+                    "stars": 238,
+                    "topics": []
+                  },
+                  "first_seen": "2026-08-29T00:38:09.728Z"
+                },
+                {
+                  "node_type": "item",
+                  "title": "Check out: Portable Secret",
+                  "description": "& digi cloak",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "description": "Hide secrets in plain sight — tuck private messages inside ordinary images, guarded by AES encryption and LSB steganography.",
+                    "homepage": "https://kaushalmeena.github.io/digi-cloak/",
+                    "id": 369786491,
+                    "language": "TypeScript",
+                    "license": "MIT",
+                    "last_commit": "2026-07-31T07:15:13Z",
+                    "open_issues": 0,
+                    "owner": "kaushalmeena",
+                    "repo": "digi-cloak",
+                    "stars": 79,
+                    "topics": [
+                      "angular",
+                      "cryptography",
+                      "html",
+                      "pwa",
+                      "steganography",
+                      "tailwindcss",
+                      "typescript"
+                    ]
+                  },
+                  "first_seen": "2026-08-29T00:38:09.728Z"
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "Expand"
+            }
+          ],
+          "description": "Offline (better - physical) backups. Store them in a safe. Can be written on paper, but recommended to be etched or laser-printed into metal. Always be sure to have a backup stored somewhere safe if your threat model allows for that.\nIn cryptography, format-preserving encryption (FPE), refers to encrypting in such a way that the output (the ciphertext) is in the same format as the input (the plaintext). The meaning of \"format\" varies. Typically only finite sets of characters are used; numeric, alphabetic or alphanumeric.\nAsk yourself, what happens if my house catches on fire? What temperature is my safe rated to? Some individuals find a safety deposit box handy.",
+          "node_type": "group",
+          "title": "Problem 6"
+        },
+        {
+          "children": [
+            {
               "node_type": "item",
               "title": "A curated list of privacy & security-focused software and services",
-              "description": null,
+              "description": "lissy93/awesome-privacy",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -271,10 +613,10 @@
                 "language": "Astro",
                 "license": "CC0-1.0",
                 "last_commit": "2026-10-02T20:46:31Z",
-                "open_issues": 1,
+                "open_issues": 2,
                 "owner": "lissy93",
                 "repo": "awesome-privacy",
-                "stars": 9918,
+                "stars": 9920,
                 "topics": [
                   "awesome",
                   "awesome-list",
@@ -310,7 +652,7 @@
             {
               "node_type": "item",
               "title": "youbit",
-              "description": null,
+              "description": "flonle/youbit",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -332,9 +674,48 @@
               "first_seen": "2026-08-29T00:38:09.728Z"
             },
             {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "openvpn-install",
+                  "description": "Nyr/openvpn-install",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "description": "OpenVPN road warrior installer for Ubuntu, Debian, AlmaLinux, Rocky Linux, CentOS and Fedora",
+                    "homepage": null,
+                    "id": 10054176,
+                    "language": "Shell",
+                    "license": "MIT",
+                    "last_commit": "2026-09-22T15:10:28Z",
+                    "open_issues": 0,
+                    "owner": "Nyr",
+                    "repo": "openvpn-install",
+                    "stars": 20647,
+                    "topics": [
+                      "almalinux",
+                      "bash",
+                      "centos",
+                      "debian",
+                      "fedora",
+                      "openvpn",
+                      "rockylinux",
+                      "shell",
+                      "ubuntu",
+                      "vpn"
+                    ]
+                  },
+                  "first_seen": "2026-08-29T00:38:09.728Z"
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "Expand"
+            },
+            {
               "node_type": "item",
               "title": "Guide to securing and improving privacy on macOS",
-              "description": null,
+              "description": "drduh/macOS-Security-and-Privacy-Guide",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -347,7 +728,7 @@
                 "open_issues": 5,
                 "owner": "drduh",
                 "repo": "macOS-Security-and-Privacy-Guide",
-                "stars": 22533,
+                "stars": 22535,
                 "topics": [
                   "apple",
                   "checklist",
@@ -373,7 +754,7 @@
             {
               "node_type": "item",
               "title": "MacOS Security",
-              "description": null,
+              "description": "usnistgov/macos_security",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -403,7 +784,7 @@
             {
               "node_type": "item",
               "title": "Mac Monitor",
-              "description": null,
+              "description": "Brandon7CC/mac-monitor",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -429,7 +810,7 @@
             {
               "node_type": "item",
               "title": "MacOS Secure Profiles",
-              "description": null,
+              "description": "sambacha/macos-secure-profiles",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -454,7 +835,7 @@
             {
               "node_type": "item",
               "title": "Awesome Security Hardening Guides",
-              "description": null,
+              "description": "decalage2/awesome-security-hardening",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -467,7 +848,7 @@
                 "open_issues": 131,
                 "owner": "decalage2",
                 "repo": "awesome-security-hardening",
-                "stars": 6567,
+                "stars": 6568,
                 "topics": [
                   "awesome-list",
                   "best-practices",
@@ -490,7 +871,7 @@
             {
               "node_type": "item",
               "title": "algoVPN",
-              "description": null,
+              "description": "trailofbits/algo",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -523,7 +904,7 @@
             {
               "node_type": "item",
               "title": "GoodbyeDPI",
-              "description": null,
+              "description": "ValdikSS/GoodbyeDPI",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -536,7 +917,7 @@
                 "open_issues": 153,
                 "owner": "ValdikSS",
                 "repo": "GoodbyeDPI",
-                "stars": 28696,
+                "stars": 28699,
                 "topics": [
                   "anticensorship",
                   "censorship-circumvention",
@@ -549,7 +930,7 @@
             {
               "node_type": "item",
               "title": "rethink-app",
-              "description": null,
+              "description": "celzero/rethink-app",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -559,7 +940,7 @@
                 "language": "Kotlin",
                 "license": "Apache-2.0",
                 "last_commit": "2026-09-28T17:43:36Z",
-                "open_issues": 650,
+                "open_issues": 651,
                 "owner": "celzero",
                 "repo": "rethink-app",
                 "stars": 5521,
@@ -587,7 +968,7 @@
             {
               "node_type": "item",
               "title": "souin",
-              "description": null,
+              "description": "darkweak/souin",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -629,7 +1010,7 @@
             {
               "node_type": "item",
               "title": "Teletun",
-              "description": null,
+              "description": "PiMaker/Teletun",
               "children": [],
               "repo_info": {
                 "archived": true,
@@ -650,7 +1031,7 @@
             {
               "node_type": "item",
               "title": "anon-service",
-              "description": null,
+              "description": "bit4mind/anon-service",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -686,7 +1067,7 @@
             {
               "node_type": "item",
               "title": "Discord Security",
-              "description": null,
+              "description": "0xngmi/discord-server-guidelines",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -714,7 +1095,7 @@
             {
               "node_type": "item",
               "title": "DefaultCreds CheatSheet",
-              "description": null,
+              "description": "ihebski/DefaultCreds-cheat-sheet",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -750,7 +1131,7 @@
             {
               "node_type": "item",
               "title": "Physical crypto attacks",
-              "description": null,
+              "description": "jlopp/physical-bitcoin-attacks",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -771,7 +1152,7 @@
             {
               "node_type": "item",
               "title": "About If you want know, who use your computer when you are not nearby - PC Mouse Tracker",
-              "description": null,
+              "description": "iterweb/watcher",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -804,9 +1185,102 @@
         {
           "children": [
             {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "CreepDetector",
+                  "description": "skickar/CreepDetector",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "description": "Heck off, creeps",
+                    "homepage": null,
+                    "id": 214523484,
+                    "language": "Jupyter Notebook",
+                    "license": null,
+                    "last_commit": "2021-05-06T01:20:52Z",
+                    "open_issues": 1,
+                    "owner": "skickar",
+                    "repo": "CreepDetector",
+                    "stars": 212,
+                    "topics": []
+                  },
+                  "first_seen": "2026-08-29T00:38:09.728Z"
+                },
+                {
+                  "node_type": "item",
+                  "title": "Wardriving",
+                  "description": "AlexLynd/ESP8266-Wardriving",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "description": "ESP8266 wardriving scripts & Jupyter Notebook data visualization tools",
+                    "homepage": null,
+                    "id": 178940812,
+                    "language": "Jupyter Notebook",
+                    "license": null,
+                    "last_commit": "2023-03-30T16:48:59Z",
+                    "open_issues": 10,
+                    "owner": "AlexLynd",
+                    "repo": "ESP8266-Wardriving",
+                    "stars": 177,
+                    "topics": [
+                      "csv",
+                      "esp32",
+                      "esp8266",
+                      "gps",
+                      "logging",
+                      "wardriving",
+                      "wifi",
+                      "wigle"
+                    ]
+                  },
+                  "first_seen": "2026-08-29T00:38:09.728Z"
+                },
+                {
+                  "node_type": "item",
+                  "title": "Discord e2e encryption",
+                  "description": "mpgn/discord-e2e-encryption",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "description": ":key: Tampermonkey script that encrypt and decrypt your messages on Discord :key:",
+                    "homepage": null,
+                    "id": 165284507,
+                    "language": "JavaScript",
+                    "license": "GPL-3.0",
+                    "last_commit": "2019-08-01T12:44:21Z",
+                    "open_issues": 0,
+                    "owner": "mpgn",
+                    "repo": "discord-e2e-encryption",
+                    "stars": 94,
+                    "topics": [
+                      "discord",
+                      "discord-js",
+                      "encryption",
+                      "end-to-end-encryption",
+                      "greasemonkey",
+                      "tampermonkey"
+                    ]
+                  },
+                  "first_seen": "2026-08-29T00:38:09.728Z"
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "Expand"
+            }
+          ],
+          "description": "Remain Vigilant - Create a culture of skepticism where they feel comfortable checking twice before clicking a link or responding to a request for sensitive information, and you’ll have a much more secure organization overall. Watch out physical attacks!",
+          "node_type": "group",
+          "title": "Problem 10"
+        },
+        {
+          "children": [
+            {
               "node_type": "item",
               "title": "Awesome InfoSec",
-              "description": null,
+              "description": "onlurking/awesome-infosec",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -819,7 +1293,7 @@
                 "open_issues": 19,
                 "owner": "onlurking",
                 "repo": "awesome-infosec",
-                "stars": 5755,
+                "stars": 5754,
                 "topics": [
                   "awesome",
                   "courses",
@@ -843,7 +1317,7 @@
             {
               "node_type": "item",
               "title": "Android keyboard for secure E2EE communication through the signal protocol in any messenger",
-              "description": null,
+              "description": "amnesica/KryptEY",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -880,6 +1354,40 @@
                 ]
               },
               "first_seen": "2026-08-29T00:38:09.728Z"
+            },
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "Check out this tool",
+                  "description": "utkusen/wholeaked",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "description": "a file-sharing tool that allows you to find the responsible person in case of a leakage",
+                    "homepage": null,
+                    "id": 452300927,
+                    "language": "Go",
+                    "license": "BSD-3-Clause",
+                    "last_commit": "2022-01-31T13:16:52Z",
+                    "open_issues": 1,
+                    "owner": "utkusen",
+                    "repo": "wholeaked",
+                    "stars": 1102,
+                    "topics": [
+                      "file-sharing",
+                      "osint",
+                      "privacy",
+                      "privacy-tools",
+                      "security"
+                    ]
+                  },
+                  "first_seen": "2026-08-29T00:38:09.728Z"
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "Expand"
             }
           ],
           "description": "Identify your sensitive data, including your product research, passwords, intellectual property, financial statements, customer information, and employee information. This will be the data you will need to focus your resources on protecting. Randomization, mimicry and entropy must accompany your every step and manifest itself in literally everything: as you can imagine, the law enforcers of different countries have long ago learned to analyze packets via DPI (to counter this you may use something like this or this or VPN), to match them with the post or message time and perform timing attacks and then go to the ISP provider or telecommunications company.\nBe smarter. Most likely in the future we will all have to face AI and Neural Network which were made specifically for finding people and information based on OSINT and similar (up to Big Data) methodologies, so the only thing that will save us is what separates humans from machines - our imagination and our capacity for illogical unpredictable actions.\nWhatever you do, do it with some element of randomness. If you find it hard to comprehend, then put it in the hands of playing cards or random.org. Do you transfer an amount? Send not an even (1000, 100, 50, etc.) or similar value, and so on. I think you get my point. Once again, be smarter, for example: there is a tool like Ethereum alarm clock (2), but you have to remember to use it with caution.\nMaybe you can come up with your own solution based on logic bomb and canarytokens.org with tenderly.co! The tool previously described has been hacked, use with caution and only if you know what you are doing. You can use Escrow and Multisig as a substitute for this.\nSteganography and Cryptography can also be combined for this purpose. After all, cryptography hides information, whereas steganography masks the fact that it was transmitted. For example, if you stenographically double-encrypt your passwords and store them in a cloud-based password manager, hackers (even if the vault is decoded or hacked) will be unable to use them as they will need your stega-key for this. You would, however, have to decrypt each password each time you are using it, with a special note.",
@@ -891,7 +1399,7 @@
             {
               "node_type": "item",
               "title": "WhatBreach",
-              "description": null,
+              "description": "Ekultek/WhatBreach",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -923,9 +1431,167 @@
         {
           "children": [
             {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "Awesome Memory Forensics",
+                  "description": "digitalisx/awesome-memory-forensics",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "description": "A curated list of awesome Memory Forensics for DFIR",
+                    "homepage": null,
+                    "id": 477038428,
+                    "language": null,
+                    "license": "CC0-1.0",
+                    "last_commit": "2026-08-17T21:50:15Z",
+                    "open_issues": 2,
+                    "owner": "digitalisx",
+                    "repo": "awesome-memory-forensics",
+                    "stars": 566,
+                    "topics": [
+                      "awesome",
+                      "awesome-list",
+                      "digital-forensics",
+                      "digital-forensics-incident-response",
+                      "forensics",
+                      "incident-response",
+                      "malware",
+                      "malware-analysis",
+                      "malware-research",
+                      "memory",
+                      "memory-analysis"
+                    ]
+                  },
+                  "first_seen": "2026-08-29T00:38:09.728Z"
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "Expand"
+            }
+          ],
+          "description": "Analyze security holes and other vulnerabilities. Assess your current safeguards and determine what, if any, loopholes or weaknesses exist that may be exploited to gain access to your sensitive data.\nAlso:\nIf you have confidential files you want to protect, store them in cipher text, using 256-bit AES encryption, not in plain text format.\nIf you want to sanitize the files, you can run a multi-pass wipe, shred or erase program. Glary Utilities includes a free file shredder tool where you can shred files or folders using Dept of Defense standard 5220.22-M. You can repeat the delete process up to 10 times.\nOne may even come up with using an old-fashioned device without internet/bluetooth connection. Check out this example. Do not ever store any back-ups if you are using a similar device for OpSec purposes!\nEven if someone was able to recover remnants of old magnetic disk data after 10 shredding passes, they would still not see the plain text data, they would see scrambled cipher text data, and would have to decrypt the very strong 256-bit AES encryption.\nBetter yet, don’t store confidential or encrypted files on magnetic storage. Store the files on a removable flash drive that can be shredded with software and physically destroyed if desired. Unplug the flash drive when not in use.",
+          "node_type": "group",
+          "title": "Problem 14"
+        },
+        {
+          "children": [
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "Guide to securing and improving privacy on macOS",
+                  "description": "drduh/macOS-Security-and-Privacy-Guide",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "description": "Community guide to securing and improving privacy on macOS.",
+                    "homepage": "https://drduh.github.io/macOS-Security-and-Privacy-Guide/",
+                    "id": 41654081,
+                    "language": "Shell",
+                    "license": "MIT",
+                    "last_commit": "2026-10-01T03:00:27Z",
+                    "open_issues": 5,
+                    "owner": "drduh",
+                    "repo": "macOS-Security-and-Privacy-Guide",
+                    "stars": 22535,
+                    "topics": [
+                      "apple",
+                      "checklist",
+                      "disk-encryption",
+                      "guide",
+                      "guides",
+                      "hardening",
+                      "information-security",
+                      "infosec",
+                      "macbook-configuration",
+                      "macos",
+                      "macos-security",
+                      "macos-setup",
+                      "opsec",
+                      "osx",
+                      "privacy",
+                      "security",
+                      "sysadmin"
+                    ]
+                  },
+                  "first_seen": "2026-08-29T00:38:09.728Z"
+                },
+                {
+                  "node_type": "item",
+                  "title": "A collection of awesome security hardening guides, tools and other resources",
+                  "description": "decalage2/awesome-security-hardening",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "description": "A collection of awesome security hardening guides, tools and other resources",
+                    "homepage": null,
+                    "id": 184064793,
+                    "language": null,
+                    "license": null,
+                    "last_commit": "2026-09-22T20:30:20Z",
+                    "open_issues": 131,
+                    "owner": "decalage2",
+                    "repo": "awesome-security-hardening",
+                    "stars": 6568,
+                    "topics": [
+                      "awesome-list",
+                      "best-practices",
+                      "blue-team",
+                      "blueteam",
+                      "cis-benchmarks",
+                      "computer-security",
+                      "cyber-security",
+                      "cybersecurity",
+                      "infosec",
+                      "linux-hardening",
+                      "security",
+                      "security-hardening",
+                      "security-tools",
+                      "windows-hardening"
+                    ]
+                  },
+                  "first_seen": "2026-08-29T00:38:09.728Z"
+                },
+                {
+                  "node_type": "item",
+                  "title": "This is a macOS hardening to read or set security configuration",
+                  "description": "ataumo/macos_hardening",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "description": "This is a macOS hardening to read or set security configuration.",
+                    "homepage": null,
+                    "id": 382088950,
+                    "language": "Shell",
+                    "license": "AGPL-3.0",
+                    "last_commit": "2024-11-14T13:37:43Z",
+                    "open_issues": 2,
+                    "owner": "ataumo",
+                    "repo": "macos_hardening",
+                    "stars": 157,
+                    "topics": [
+                      "bash",
+                      "hardening",
+                      "macos",
+                      "macos-hardening",
+                      "macos-policies",
+                      "macos-scripting",
+                      "scripting"
+                    ]
+                  },
+                  "first_seen": "2026-08-29T00:38:09.728Z"
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "Expand"
+            },
+            {
               "node_type": "item",
               "title": "Malwoverview",
-              "description": null,
+              "description": "alexandreborges/malwoverview",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -971,7 +1637,7 @@
             {
               "node_type": "item",
               "title": "html vault",
-              "description": null,
+              "description": "dividuum/html-vault",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -995,7 +1661,7 @@
             {
               "node_type": "item",
               "title": "digi cloak",
-              "description": null,
+              "description": "kaushalmeena/digi-cloak",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1024,7 +1690,7 @@
             {
               "node_type": "item",
               "title": "Contracts for a wallet that is recoverable via backup keys",
-              "description": null,
+              "description": "Zoltu/recoverable-wallet",
               "children": [],
               "repo_info": {
                 "archived": true,
@@ -1045,7 +1711,7 @@
             {
               "node_type": "item",
               "title": "logic bomb",
-              "description": null,
+              "description": "starius/logic-bomb",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1073,7 +1739,7 @@
             {
               "node_type": "item",
               "title": "Read More",
-              "description": null,
+              "description": "OffcierCia/ultimate-defi-research-base",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1133,7 +1799,7 @@
             {
               "node_type": "item",
               "title": "Helios",
-              "description": null,
+              "description": "a16z/helios",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1156,7 +1822,7 @@
             {
               "node_type": "item",
               "title": "Spook",
-              "description": null,
+              "description": "EdenBlockVC/spook",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1182,7 +1848,7 @@
             {
               "node_type": "item",
               "title": "RPC-proxy",
-              "description": null,
+              "description": "shark0der/rpc-proxy",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1208,9 +1874,117 @@
         {
           "children": [
             {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "Read More",
+                  "description": "OffcierCia/DeFi-Developer-Road-Map",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "description": "DeFi Developer roadmap is a curated Developer handbook which includes a list of the best tools for DApps development, resources and references! ",
+                    "homepage": "https://officercia.medium.com/",
+                    "id": 378536025,
+                    "language": "JavaScript",
+                    "license": "NOASSERTION",
+                    "last_commit": "2026-08-16T23:17:39Z",
+                    "open_issues": 10,
+                    "owner": "OffcierCia",
+                    "repo": "DeFi-Developer-Road-Map",
+                    "stars": 10846,
+                    "topics": [
+                      "awesome",
+                      "awesome-list",
+                      "blockchain",
+                      "curated-list",
+                      "defi",
+                      "ethereum",
+                      "knowledge-base",
+                      "roadmap",
+                      "smart-contracts",
+                      "solidity"
+                    ]
+                  },
+                  "first_seen": "2026-08-29T00:38:09.728Z"
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "Expand"
+            }
+          ],
+          "description": "Use trusted services. Using a secure, easy-to-use crypto wallet to interact with DeFi applications is essential to a safe and user-friendly DeFi experience. Interacting with smart contracts can be tricky for first-time users, so using a beginner-friendly crypto wallet with DApp support is a smart way to mitigate risks stemming from accidental errors on the side of the user. Better do everything manually!",
+          "node_type": "group",
+          "title": "Problem 24"
+        },
+        {
+          "children": [
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "Physical Attacks",
+                  "description": "jlopp/physical-bitcoin-attacks",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "description": "A list of known attacks against Bitcoin / crypto asset owning entities that occurred in meatspace.",
+                    "homepage": "https://jlopp.github.io/physical-bitcoin-attacks/",
+                    "id": 140097891,
+                    "language": "HTML",
+                    "license": "Unlicense",
+                    "last_commit": "2026-10-02T11:50:31Z",
+                    "open_issues": 18,
+                    "owner": "jlopp",
+                    "repo": "physical-bitcoin-attacks",
+                    "stars": 899,
+                    "topics": []
+                  },
+                  "first_seen": "2026-08-29T00:38:09.728Z"
+                },
+                {
+                  "node_type": "item",
+                  "title": "Counter-OSINT Techniques",
+                  "description": "CScorza/OSINTAnonymous",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "description": "Creazione d'identità Fake - Impostazione Privacy Profili Social - Creazione Ambiente di Lavoro ",
+                    "homepage": "https://cscorza.github.io/CScorza/",
+                    "id": 576570079,
+                    "language": null,
+                    "license": null,
+                    "last_commit": "2026-01-18T09:47:57Z",
+                    "open_issues": 0,
+                    "owner": "CScorza",
+                    "repo": "OSINTAnonymous",
+                    "stars": 476,
+                    "topics": [
+                      "email",
+                      "fake",
+                      "osint",
+                      "phone",
+                      "privacy",
+                      "profile",
+                      "protection",
+                      "sms",
+                      "social-network",
+                      "telgram",
+                      "virtualization",
+                      "whatsapp"
+                    ]
+                  },
+                  "first_seen": "2026-08-29T00:38:09.728Z"
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "Expand"
+            },
+            {
               "node_type": "item",
               "title": "Read More",
-              "description": null,
+              "description": "jlopp/physical-bitcoin-attacks",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1233,7 +2007,7 @@
                 {
                   "node_type": "item",
                   "title": "Awesome Security Hardening Guides",
-                  "description": null,
+                  "description": "decalage2/awesome-security-hardening",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -1246,7 +2020,7 @@
                     "open_issues": 131,
                     "owner": "decalage2",
                     "repo": "awesome-security-hardening",
-                    "stars": 6567,
+                    "stars": 6568,
                     "topics": [
                       "awesome-list",
                       "best-practices",
@@ -1269,7 +2043,7 @@
                 {
                   "node_type": "item",
                   "title": "Privacy.sexy Repo",
-                  "description": null,
+                  "description": "undergroundwires/privacy.sexy",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -1311,7 +2085,7 @@
                 {
                   "node_type": "item",
                   "title": "A collection of practical security-focused guides and checklists for smart contract development",
-                  "description": null,
+                  "description": "nascentxyz/simple-security-toolkit",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -1350,7 +2124,7 @@
             {
               "node_type": "item",
               "title": "jlopp/physical-bitcoin-attacks",
-              "description": null,
+              "description": "jlopp/physical-bitcoin-attacks",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1375,805 +2149,10 @@
         }
       ],
       "title": "OpSec SelfGuard RoadMap"
-    },
-    {
-      "description": null,
-      "items": [
-        {
-          "node_type": "item",
-          "title": "Store SSH keys in the Secure Enclave!",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "Protect your SSH keys with your Mac's Secure Enclave",
-            "homepage": "https://secretive.dev",
-            "id": 241524703,
-            "language": "Swift",
-            "license": "MIT",
-            "last_commit": "2026-10-01T05:02:41Z",
-            "open_issues": 174,
-            "owner": "maxgoedjen",
-            "repo": "secretive",
-            "stars": 8937,
-            "topics": [
-              "mac",
-              "secure-enclave",
-              "security",
-              "ssh"
-            ]
-          },
-          "first_seen": "2026-08-29T00:38:09.728Z"
-        },
-        {
-          "node_type": "item",
-          "title": "Blockchain dark forest selfguard handbook",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "Reproduce DeFi hacked incidents using Foundry.",
-            "homepage": null,
-            "id": 501990676,
-            "language": "Solidity",
-            "license": "Apache-2.0",
-            "last_commit": "2026-10-02T03:08:37Z",
-            "open_issues": 5,
-            "owner": "SunWeb3Sec",
-            "repo": "DeFiHackLabs",
-            "stars": 6803,
-            "topics": [
-              "defi",
-              "ethereum",
-              "foundry",
-              "solidity",
-              "web3"
-            ]
-          },
-          "first_seen": "2026-08-29T00:38:09.728Z"
-        },
-        {
-          "node_type": "item",
-          "title": "A tool that allows user to create time bound backups for various cryptocurrencies",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "A tool that allows user to create time bound backups for various cryptocurrencies",
-            "homepage": "https://james-sangalli.medium.com/utxo-based-backups-an-idea-for-bitcoin-cold-storage-21f620c35981",
-            "id": 581700458,
-            "language": "TypeScript",
-            "license": "MIT",
-            "last_commit": "2025-03-20T21:20:58Z",
-            "open_issues": 10,
-            "owner": "JamesANZ",
-            "repo": "crypto-timelocked-backup",
-            "stars": 11,
-            "topics": [
-              "backup-tool",
-              "bitcoin",
-              "dotsama",
-              "ethereum"
-            ]
-          },
-          "first_seen": "2026-08-29T00:38:09.728Z"
-        }
-      ],
-      "title": "Expand"
-    },
-    {
-      "description": null,
-      "items": [
-        {
-          "node_type": "item",
-          "title": "Unredacter Tool",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "Never ever ever use pixelation as a redaction technique",
-            "homepage": null,
-            "id": 420161012,
-            "language": "TypeScript",
-            "license": "GPL-3.0",
-            "last_commit": "2024-03-15T00:35:43Z",
-            "open_issues": 36,
-            "owner": "BishopFox",
-            "repo": "unredacter",
-            "stars": 8397,
-            "topics": []
-          },
-          "first_seen": "2026-08-29T00:38:09.728Z"
-        },
-        {
-          "node_type": "item",
-          "title": "IT security lecture",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": true,
-            "description": "University lecture on \"IT Security\" as Open Educational Resources material",
-            "homepage": null,
-            "id": 136597310,
-            "language": null,
-            "license": "NOASSERTION",
-            "last_commit": "2023-08-18T22:41:18Z",
-            "open_issues": 0,
-            "owner": "bkimminich",
-            "repo": "it-security-lecture",
-            "stars": 378,
-            "topics": []
-          },
-          "first_seen": "2026-08-29T00:38:09.728Z"
-        },
-        {
-          "node_type": "item",
-          "title": "Awesome wifi security",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "A collection of awesome resources related to 802.11 security, tools and other things ",
-            "homepage": null,
-            "id": 66666315,
-            "language": null,
-            "license": null,
-            "last_commit": "2019-04-10T16:47:06Z",
-            "open_issues": 3,
-            "owner": "edelahozuah",
-            "repo": "awesome-wifi-security",
-            "stars": 176,
-            "topics": [
-              "cybersecurity",
-              "wifi"
-            ]
-          },
-          "first_seen": "2026-08-29T00:38:09.728Z"
-        }
-      ],
-      "title": "Expand"
-    },
-    {
-      "description": null,
-      "items": [
-        {
-          "node_type": "item",
-          "title": "Awesome csirt",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "Awesome CSIRT is an curated list of links and resources in security and CSIRT daily activities.",
-            "homepage": null,
-            "id": 59441906,
-            "language": "C",
-            "license": "GPL-3.0",
-            "last_commit": "2025-11-25T17:45:31Z",
-            "open_issues": 6,
-            "owner": "Spacial",
-            "repo": "awesome-csirt",
-            "stars": 657,
-            "topics": [
-              "awesome",
-              "awesome-list",
-              "csirt",
-              "cve",
-              "exfiltration",
-              "exploits",
-              "malware-analysis",
-              "pentesting",
-              "poc",
-              "reverse-engineering",
-              "secure-programming",
-              "security",
-              "threat-intelligence"
-            ]
-          },
-          "first_seen": "2026-08-29T00:38:09.728Z"
-        }
-      ],
-      "title": "Expand"
-    },
-    {
-      "description": null,
-      "items": [
-        {
-          "node_type": "item",
-          "title": "solidity-security",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "Vulnerable-by-design solidity protocol to help Web3 security enthusiasts practice their skills in an environment closer to real live.",
-            "homepage": null,
-            "id": 599937380,
-            "language": "Solidity",
-            "license": "GPL-3.0",
-            "last_commit": "2025-06-12T09:23:51Z",
-            "open_issues": 0,
-            "owner": "Faillapop",
-            "repo": "faillapop",
-            "stars": 150,
-            "topics": [
-              "audit",
-              "beginner",
-              "bug",
-              "bugbounty",
-              "contract",
-              "ethereum",
-              "evm",
-              "security",
-              "smart",
-              "smart-contracts",
-              "smartcontract",
-              "solidity",
-              "vulnerabilities"
-            ]
-          },
-          "first_seen": "2026-08-29T00:38:09.728Z"
-        }
-      ],
-      "title": "Expand"
-    },
-    {
-      "description": null,
-      "items": [
-        {
-          "node_type": "item",
-          "title": "Authenticator app for storing your 2FA secrets",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "💚 End-to-end encrypted cloud for everything.",
-            "homepage": "https://ente.com",
-            "id": 560284721,
-            "language": "Dart",
-            "license": "AGPL-3.0",
-            "last_commit": "2026-10-02T15:25:28Z",
-            "open_issues": 209,
-            "owner": "ente",
-            "repo": "ente",
-            "stars": 29208,
-            "topics": [
-              "2fa",
-              "android",
-              "authy",
-              "e2ee",
-              "encryption",
-              "end-to-end-encryption",
-              "flutter",
-              "golang",
-              "google-photos",
-              "google-photos-alternative",
-              "ios",
-              "opensource",
-              "photos",
-              "privacy",
-              "privacy-tools",
-              "typescript",
-              "zero-knowledge"
-            ]
-          },
-          "first_seen": "2026-08-29T00:38:09.728Z"
-        },
-        {
-          "node_type": "item",
-          "title": "Awesome Security Hardening Guides",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "A collection of awesome security hardening guides, tools and other resources",
-            "homepage": null,
-            "id": 184064793,
-            "language": null,
-            "license": null,
-            "last_commit": "2026-09-22T20:30:20Z",
-            "open_issues": 131,
-            "owner": "decalage2",
-            "repo": "awesome-security-hardening",
-            "stars": 6567,
-            "topics": [
-              "awesome-list",
-              "best-practices",
-              "blue-team",
-              "blueteam",
-              "cis-benchmarks",
-              "computer-security",
-              "cyber-security",
-              "cybersecurity",
-              "infosec",
-              "linux-hardening",
-              "security",
-              "security-hardening",
-              "security-tools",
-              "windows-hardening"
-            ]
-          },
-          "first_seen": "2026-08-29T00:38:09.728Z"
-        },
-        {
-          "node_type": "item",
-          "title": "Android Forensics References",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": null,
-            "homepage": null,
-            "id": 533161728,
-            "language": null,
-            "license": null,
-            "last_commit": "2025-09-23T21:37:54Z",
-            "open_issues": 2,
-            "owner": "RealityNet",
-            "repo": "Android-Forensics-References",
-            "stars": 364,
-            "topics": []
-          },
-          "first_seen": "2026-08-29T00:38:09.728Z"
-        },
-        {
-          "node_type": "item",
-          "title": "iOS Forensics References",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "A curated list of iOS Forensics References, organized by folder with specific references (links to blog post, research paper, articles, and so on) for each interesting file",
-            "homepage": null,
-            "id": 627820495,
-            "language": null,
-            "license": null,
-            "last_commit": "2023-12-01T10:12:47Z",
-            "open_issues": 2,
-            "owner": "RealityNet",
-            "repo": "iOS-Forensics-References",
-            "stars": 238,
-            "topics": []
-          },
-          "first_seen": "2026-08-29T00:38:09.728Z"
-        },
-        {
-          "node_type": "item",
-          "title": "Check out: Portable Secret",
-          "description": "& digi cloak",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "Hide secrets in plain sight — tuck private messages inside ordinary images, guarded by AES encryption and LSB steganography.",
-            "homepage": "https://kaushalmeena.github.io/digi-cloak/",
-            "id": 369786491,
-            "language": "TypeScript",
-            "license": "MIT",
-            "last_commit": "2026-07-31T07:15:13Z",
-            "open_issues": 0,
-            "owner": "kaushalmeena",
-            "repo": "digi-cloak",
-            "stars": 79,
-            "topics": [
-              "angular",
-              "cryptography",
-              "html",
-              "pwa",
-              "steganography",
-              "tailwindcss",
-              "typescript"
-            ]
-          },
-          "first_seen": "2026-08-29T00:38:09.728Z"
-        }
-      ],
-      "title": "Expand"
-    },
-    {
-      "description": null,
-      "items": [
-        {
-          "node_type": "item",
-          "title": "openvpn-install",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "OpenVPN road warrior installer for Ubuntu, Debian, AlmaLinux, Rocky Linux, CentOS and Fedora",
-            "homepage": null,
-            "id": 10054176,
-            "language": "Shell",
-            "license": "MIT",
-            "last_commit": "2026-09-22T15:10:28Z",
-            "open_issues": 0,
-            "owner": "Nyr",
-            "repo": "openvpn-install",
-            "stars": 20647,
-            "topics": [
-              "almalinux",
-              "bash",
-              "centos",
-              "debian",
-              "fedora",
-              "openvpn",
-              "rockylinux",
-              "shell",
-              "ubuntu",
-              "vpn"
-            ]
-          },
-          "first_seen": "2026-08-29T00:38:09.728Z"
-        }
-      ],
-      "title": "Expand"
-    },
-    {
-      "description": null,
-      "items": [
-        {
-          "node_type": "item",
-          "title": "CreepDetector",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "Heck off, creeps",
-            "homepage": null,
-            "id": 214523484,
-            "language": "Jupyter Notebook",
-            "license": null,
-            "last_commit": "2021-05-06T01:20:52Z",
-            "open_issues": 1,
-            "owner": "skickar",
-            "repo": "CreepDetector",
-            "stars": 212,
-            "topics": []
-          },
-          "first_seen": "2026-08-29T00:38:09.728Z"
-        },
-        {
-          "node_type": "item",
-          "title": "Wardriving",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "ESP8266 wardriving scripts & Jupyter Notebook data visualization tools",
-            "homepage": null,
-            "id": 178940812,
-            "language": "Jupyter Notebook",
-            "license": null,
-            "last_commit": "2023-03-30T16:48:59Z",
-            "open_issues": 10,
-            "owner": "AlexLynd",
-            "repo": "ESP8266-Wardriving",
-            "stars": 177,
-            "topics": [
-              "csv",
-              "esp32",
-              "esp8266",
-              "gps",
-              "logging",
-              "wardriving",
-              "wifi",
-              "wigle"
-            ]
-          },
-          "first_seen": "2026-08-29T00:38:09.728Z"
-        },
-        {
-          "node_type": "item",
-          "title": "Discord e2e encryption",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": ":key: Tampermonkey script that encrypt and decrypt your messages on Discord :key:",
-            "homepage": null,
-            "id": 165284507,
-            "language": "JavaScript",
-            "license": "GPL-3.0",
-            "last_commit": "2019-08-01T12:44:21Z",
-            "open_issues": 0,
-            "owner": "mpgn",
-            "repo": "discord-e2e-encryption",
-            "stars": 94,
-            "topics": [
-              "discord",
-              "discord-js",
-              "encryption",
-              "end-to-end-encryption",
-              "greasemonkey",
-              "tampermonkey"
-            ]
-          },
-          "first_seen": "2026-08-29T00:38:09.728Z"
-        }
-      ],
-      "title": "Expand"
-    },
-    {
-      "description": null,
-      "items": [
-        {
-          "node_type": "item",
-          "title": "Check out this tool",
-          "description": "!",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "a file-sharing tool that allows you to find the responsible person in case of a leakage",
-            "homepage": null,
-            "id": 452300927,
-            "language": "Go",
-            "license": "BSD-3-Clause",
-            "last_commit": "2022-01-31T13:16:52Z",
-            "open_issues": 1,
-            "owner": "utkusen",
-            "repo": "wholeaked",
-            "stars": 1102,
-            "topics": [
-              "file-sharing",
-              "osint",
-              "privacy",
-              "privacy-tools",
-              "security"
-            ]
-          },
-          "first_seen": "2026-08-29T00:38:09.728Z"
-        }
-      ],
-      "title": "Expand"
-    },
-    {
-      "description": null,
-      "items": [
-        {
-          "node_type": "item",
-          "title": "Awesome Memory Forensics",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "A curated list of awesome Memory Forensics for DFIR",
-            "homepage": null,
-            "id": 477038428,
-            "language": null,
-            "license": "CC0-1.0",
-            "last_commit": "2026-08-17T21:50:15Z",
-            "open_issues": 2,
-            "owner": "digitalisx",
-            "repo": "awesome-memory-forensics",
-            "stars": 566,
-            "topics": [
-              "awesome",
-              "awesome-list",
-              "digital-forensics",
-              "digital-forensics-incident-response",
-              "forensics",
-              "incident-response",
-              "malware",
-              "malware-analysis",
-              "malware-research",
-              "memory",
-              "memory-analysis"
-            ]
-          },
-          "first_seen": "2026-08-29T00:38:09.728Z"
-        }
-      ],
-      "title": "Expand"
-    },
-    {
-      "description": null,
-      "items": [
-        {
-          "node_type": "item",
-          "title": "Guide to securing and improving privacy on macOS",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "Community guide to securing and improving privacy on macOS.",
-            "homepage": "https://drduh.github.io/macOS-Security-and-Privacy-Guide/",
-            "id": 41654081,
-            "language": "Shell",
-            "license": "MIT",
-            "last_commit": "2026-10-01T03:00:27Z",
-            "open_issues": 5,
-            "owner": "drduh",
-            "repo": "macOS-Security-and-Privacy-Guide",
-            "stars": 22533,
-            "topics": [
-              "apple",
-              "checklist",
-              "disk-encryption",
-              "guide",
-              "guides",
-              "hardening",
-              "information-security",
-              "infosec",
-              "macbook-configuration",
-              "macos",
-              "macos-security",
-              "macos-setup",
-              "opsec",
-              "osx",
-              "privacy",
-              "security",
-              "sysadmin"
-            ]
-          },
-          "first_seen": "2026-08-29T00:38:09.728Z"
-        },
-        {
-          "node_type": "item",
-          "title": "A collection of awesome security hardening guides, tools and other resources",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "A collection of awesome security hardening guides, tools and other resources",
-            "homepage": null,
-            "id": 184064793,
-            "language": null,
-            "license": null,
-            "last_commit": "2026-09-22T20:30:20Z",
-            "open_issues": 131,
-            "owner": "decalage2",
-            "repo": "awesome-security-hardening",
-            "stars": 6567,
-            "topics": [
-              "awesome-list",
-              "best-practices",
-              "blue-team",
-              "blueteam",
-              "cis-benchmarks",
-              "computer-security",
-              "cyber-security",
-              "cybersecurity",
-              "infosec",
-              "linux-hardening",
-              "security",
-              "security-hardening",
-              "security-tools",
-              "windows-hardening"
-            ]
-          },
-          "first_seen": "2026-08-29T00:38:09.728Z"
-        },
-        {
-          "node_type": "item",
-          "title": "This is a macOS hardening to read or set security configuration",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "This is a macOS hardening to read or set security configuration.",
-            "homepage": null,
-            "id": 382088950,
-            "language": "Shell",
-            "license": "AGPL-3.0",
-            "last_commit": "2024-11-14T13:37:43Z",
-            "open_issues": 2,
-            "owner": "ataumo",
-            "repo": "macos_hardening",
-            "stars": 158,
-            "topics": [
-              "bash",
-              "hardening",
-              "macos",
-              "macos-hardening",
-              "macos-policies",
-              "macos-scripting",
-              "scripting"
-            ]
-          },
-          "first_seen": "2026-08-29T00:38:09.728Z"
-        }
-      ],
-      "title": "Expand"
-    },
-    {
-      "description": null,
-      "items": [
-        {
-          "node_type": "item",
-          "title": "Read More",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "DeFi Developer roadmap is a curated Developer handbook which includes a list of the best tools for DApps development, resources and references! ",
-            "homepage": "https://officercia.medium.com/",
-            "id": 378536025,
-            "language": "JavaScript",
-            "license": "NOASSERTION",
-            "last_commit": "2026-08-16T23:17:39Z",
-            "open_issues": 10,
-            "owner": "OffcierCia",
-            "repo": "DeFi-Developer-Road-Map",
-            "stars": 10844,
-            "topics": [
-              "awesome",
-              "awesome-list",
-              "blockchain",
-              "curated-list",
-              "defi",
-              "ethereum",
-              "knowledge-base",
-              "roadmap",
-              "smart-contracts",
-              "solidity"
-            ]
-          },
-          "first_seen": "2026-08-29T00:38:09.728Z"
-        }
-      ],
-      "title": "Expand"
-    },
-    {
-      "description": null,
-      "items": [
-        {
-          "node_type": "item",
-          "title": "Physical Attacks",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "A list of known attacks against Bitcoin / crypto asset owning entities that occurred in meatspace.",
-            "homepage": "https://jlopp.github.io/physical-bitcoin-attacks/",
-            "id": 140097891,
-            "language": "HTML",
-            "license": "Unlicense",
-            "last_commit": "2026-10-02T11:50:31Z",
-            "open_issues": 18,
-            "owner": "jlopp",
-            "repo": "physical-bitcoin-attacks",
-            "stars": 899,
-            "topics": []
-          },
-          "first_seen": "2026-08-29T00:38:09.728Z"
-        },
-        {
-          "node_type": "item",
-          "title": "Counter-OSINT Techniques",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "Creazione d'identità Fake - Impostazione Privacy Profili Social - Creazione Ambiente di Lavoro ",
-            "homepage": "https://cscorza.github.io/CScorza/",
-            "id": 576570079,
-            "language": null,
-            "license": null,
-            "last_commit": "2026-01-18T09:47:57Z",
-            "open_issues": 0,
-            "owner": "CScorza",
-            "repo": "OSINTAnonymous",
-            "stars": 476,
-            "topics": [
-              "email",
-              "fake",
-              "osint",
-              "phone",
-              "privacy",
-              "profile",
-              "protection",
-              "sms",
-              "social-network",
-              "telgram",
-              "virtualization",
-              "whatsapp"
-            ]
-          },
-          "first_seen": "2026-08-29T00:38:09.728Z"
-        }
-      ],
-      "title": "Expand"
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-02T20:54:11.280Z",
+    "last_updated": "2026-10-03T04:27:29.909Z",
     "original_repository_info": {
       "archived": false,
       "description": "Here we collect and discuss the best DeFi, Blockchain and crypto-related OpSec researches and data terminals - contributions are welcome.",
