@@ -104,11 +104,11 @@
                 "id": 107286889,
                 "language": "Go",
                 "license": "MIT",
-                "last_commit": "2026-10-27T13:29:47Z",
-                "open_issues": 2,
+                "last_commit": "2026-10-30T19:45:09Z",
+                "open_issues": 6,
                 "owner": "schollz",
                 "repo": "croc",
-                "stars": 40806,
+                "stars": 40811,
                 "topics": [
                   "data-transfer",
                   "file-sharing",
@@ -144,7 +144,7 @@
                 "open_issues": 20,
                 "owner": "slowmist",
                 "repo": "Blockchain-dark-forest-selfguard-handbook",
-                "stars": 6860,
+                "stars": 6888,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:38:09.728Z"
@@ -167,7 +167,7 @@
                     "open_issues": 185,
                     "owner": "maxgoedjen",
                     "repo": "secretive",
-                    "stars": 9199,
+                    "stars": 9203,
                     "topics": [
                       "mac",
                       "secure-enclave",
@@ -189,8 +189,8 @@
                     "id": 501990676,
                     "language": "Solidity",
                     "license": "Apache-2.0",
-                    "last_commit": "2026-10-29T03:01:25Z",
-                    "open_issues": 4,
+                    "last_commit": "2026-10-30T03:03:59Z",
+                    "open_issues": 2,
                     "owner": "SunWeb3Sec",
                     "repo": "DeFiHackLabs",
                     "stars": 6829,
@@ -253,7 +253,7 @@
                     "open_issues": 36,
                     "owner": "BishopFox",
                     "repo": "unredacter",
-                    "stars": 8403,
+                    "stars": 8404,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T00:38:09.728Z"
@@ -454,11 +454,11 @@
                     "id": 560284721,
                     "language": "Dart",
                     "license": "AGPL-3.0",
-                    "last_commit": "2026-10-29T16:38:16Z",
+                    "last_commit": "2026-10-30T17:31:34Z",
                     "open_issues": 216,
                     "owner": "ente",
                     "repo": "ente",
-                    "stars": 29742,
+                    "stars": 29773,
                     "topics": [
                       "2fa",
                       "android",
@@ -497,7 +497,7 @@
                     "open_issues": 132,
                     "owner": "decalage2",
                     "repo": "awesome-security-hardening",
-                    "stars": 6588,
+                    "stars": 6590,
                     "topics": [
                       "awesome-list",
                       "best-practices",
@@ -612,11 +612,11 @@
                 "id": 512269935,
                 "language": "Astro",
                 "license": "CC0-1.0",
-                "last_commit": "2026-10-29T20:34:10Z",
+                "last_commit": "2026-10-30T16:57:35Z",
                 "open_issues": 2,
                 "owner": "lissy93",
                 "repo": "awesome-privacy",
-                "stars": 10025,
+                "stars": 10030,
                 "topics": [
                   "awesome",
                   "awesome-list",
@@ -691,7 +691,7 @@
                     "open_issues": 0,
                     "owner": "Nyr",
                     "repo": "openvpn-install",
-                    "stars": 20654,
+                    "stars": 20655,
                     "topics": [
                       "almalinux",
                       "bash",
@@ -728,7 +728,7 @@
                 "open_issues": 5,
                 "owner": "drduh",
                 "repo": "macOS-Security-and-Privacy-Guide",
-                "stars": 22570,
+                "stars": 22572,
                 "topics": [
                   "apple",
                   "checklist",
@@ -763,8 +763,8 @@
                 "id": 269753140,
                 "language": "YAML",
                 "license": "NOASSERTION",
-                "last_commit": "2026-10-26T14:18:29Z",
-                "open_issues": 28,
+                "last_commit": "2026-10-30T14:59:10Z",
+                "open_issues": 29,
                 "owner": "usnistgov",
                 "repo": "macos_security",
                 "stars": 2515,
@@ -848,7 +848,7 @@
                 "open_issues": 132,
                 "owner": "decalage2",
                 "repo": "awesome-security-hardening",
-                "stars": 6588,
+                "stars": 6590,
                 "topics": [
                   "awesome-list",
                   "best-practices",
@@ -884,7 +884,7 @@
                 "open_issues": 86,
                 "owner": "trailofbits",
                 "repo": "algo",
-                "stars": 30447,
+                "stars": 30448,
                 "topics": [
                   "ansible",
                   "encryption",
@@ -917,7 +917,7 @@
                 "open_issues": 154,
                 "owner": "ValdikSS",
                 "repo": "GoodbyeDPI",
-                "stars": 28816,
+                "stars": 28822,
                 "topics": [
                   "anticensorship",
                   "censorship-circumvention",
@@ -940,10 +940,10 @@
                 "language": "Kotlin",
                 "license": "Apache-2.0",
                 "last_commit": "2026-10-26T17:43:11Z",
-                "open_issues": 656,
+                "open_issues": 657,
                 "owner": "celzero",
                 "repo": "rethink-app",
-                "stars": 5810,
+                "stars": 5817,
                 "topics": [
                   "android",
                   "android-app",
@@ -1108,7 +1108,7 @@
                 "open_issues": 0,
                 "owner": "ihebski",
                 "repo": "DefaultCreds-cheat-sheet",
-                "stars": 6809,
+                "stars": 6812,
                 "topics": [
                   "blueteam",
                   "blueteam-tools",
@@ -1144,7 +1144,7 @@
                 "open_issues": 19,
                 "owner": "jlopp",
                 "repo": "physical-bitcoin-attacks",
-                "stars": 907,
+                "stars": 908,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:38:09.728Z"
@@ -1495,7 +1495,7 @@
                     "open_issues": 5,
                     "owner": "drduh",
                     "repo": "macOS-Security-and-Privacy-Guide",
-                    "stars": 22570,
+                    "stars": 22572,
                     "topics": [
                       "apple",
                       "checklist",
@@ -1534,7 +1534,7 @@
                     "open_issues": 132,
                     "owner": "decalage2",
                     "repo": "awesome-security-hardening",
-                    "stars": 6588,
+                    "stars": 6590,
                     "topics": [
                       "awesome-list",
                       "best-practices",
@@ -1752,7 +1752,7 @@
                 "open_issues": 2,
                 "owner": "OffcierCia",
                 "repo": "ultimate-defi-research-base",
-                "stars": 2242,
+                "stars": 2243,
                 "topics": [
                   "awesome",
                   "awesome-list",
@@ -1888,10 +1888,10 @@
                     "language": "JavaScript",
                     "license": "NOASSERTION",
                     "last_commit": "2026-10-20T15:42:14Z",
-                    "open_issues": 9,
+                    "open_issues": 10,
                     "owner": "OffcierCia",
                     "repo": "DeFi-Developer-Road-Map",
-                    "stars": 10879,
+                    "stars": 10881,
                     "topics": [
                       "awesome",
                       "awesome-list",
@@ -1937,7 +1937,7 @@
                     "open_issues": 19,
                     "owner": "jlopp",
                     "repo": "physical-bitcoin-attacks",
-                    "stars": 907,
+                    "stars": 908,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T00:38:09.728Z"
@@ -1954,7 +1954,7 @@
                     "id": 576570079,
                     "language": null,
                     "license": null,
-                    "last_commit": "2026-10-15T04:00:11Z",
+                    "last_commit": "2026-10-30T09:25:01Z",
                     "open_issues": 0,
                     "owner": "CScorza",
                     "repo": "OSINTAnonymous",
@@ -1997,7 +1997,7 @@
                 "open_issues": 19,
                 "owner": "jlopp",
                 "repo": "physical-bitcoin-attacks",
-                "stars": 907,
+                "stars": 908,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:38:09.728Z"
@@ -2020,7 +2020,7 @@
                     "open_issues": 132,
                     "owner": "decalage2",
                     "repo": "awesome-security-hardening",
-                    "stars": 6588,
+                    "stars": 6590,
                     "topics": [
                       "awesome-list",
                       "best-practices",
@@ -2056,7 +2056,7 @@
                     "open_issues": 252,
                     "owner": "undergroundwires",
                     "repo": "privacy.sexy",
-                    "stars": 6152,
+                    "stars": 6154,
                     "topics": [
                       "bloatware",
                       "bloatware-removal",
@@ -2137,7 +2137,7 @@
                 "open_issues": 19,
                 "owner": "jlopp",
                 "repo": "physical-bitcoin-attacks",
-                "stars": 907,
+                "stars": 908,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:38:09.728Z"
@@ -2152,7 +2152,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-29T21:21:18.201Z",
+    "last_updated": "2026-10-30T20:59:25.244Z",
     "original_repository_info": {
       "archived": false,
       "description": "Here we collect and discuss the best DeFi, Blockchain and crypto-related OpSec researches and data terminals - contributions are welcome.",
@@ -2164,7 +2164,7 @@
       "open_issues": 1,
       "owner": "OffcierCia",
       "repo": "Crypto-OpSec-SelfGuard-RoadMap",
-      "stars": 1887,
+      "stars": 1890,
       "topics": [
         "awesome-list",
         "blockchain",
