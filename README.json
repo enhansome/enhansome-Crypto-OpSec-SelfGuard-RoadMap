@@ -105,10 +105,10 @@
                 "language": "Go",
                 "license": "MIT",
                 "last_commit": "2026-11-04T23:00:11Z",
-                "open_issues": 2,
+                "open_issues": 4,
                 "owner": "schollz",
                 "repo": "croc",
-                "stars": 40869,
+                "stars": 40872,
                 "topics": [
                   "data-transfer",
                   "file-sharing",
@@ -144,7 +144,7 @@
                 "open_issues": 20,
                 "owner": "slowmist",
                 "repo": "Blockchain-dark-forest-selfguard-handbook",
-                "stars": 6896,
+                "stars": 6895,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:38:09.728Z"
@@ -167,7 +167,7 @@
                     "open_issues": 185,
                     "owner": "maxgoedjen",
                     "repo": "secretive",
-                    "stars": 9248,
+                    "stars": 9250,
                     "topics": [
                       "mac",
                       "secure-enclave",
@@ -193,7 +193,7 @@
                     "open_issues": 3,
                     "owner": "SunWeb3Sec",
                     "repo": "DeFiHackLabs",
-                    "stars": 6835,
+                    "stars": 6837,
                     "topics": [
                       "defi",
                       "ethereum",
@@ -326,7 +326,7 @@
                     "open_issues": 9,
                     "owner": "Spacial",
                     "repo": "awesome-csirt",
-                    "stars": 661,
+                    "stars": 660,
                     "topics": [
                       "awesome",
                       "awesome-list",
@@ -454,11 +454,11 @@
                     "id": 560284721,
                     "language": "Dart",
                     "license": "AGPL-3.0",
-                    "last_commit": "2026-11-05T21:48:44Z",
-                    "open_issues": 220,
+                    "last_commit": "2026-11-06T12:33:22Z",
+                    "open_issues": 209,
                     "owner": "ente",
                     "repo": "ente",
-                    "stars": 29918,
+                    "stars": 29938,
                     "topics": [
                       "2fa",
                       "android",
@@ -616,7 +616,7 @@
                 "open_issues": 2,
                 "owner": "lissy93",
                 "repo": "awesome-privacy",
-                "stars": 10045,
+                "stars": 10049,
                 "topics": [
                   "awesome",
                   "awesome-list",
@@ -691,7 +691,7 @@
                     "open_issues": 0,
                     "owner": "Nyr",
                     "repo": "openvpn-install",
-                    "stars": 20654,
+                    "stars": 20655,
                     "topics": [
                       "almalinux",
                       "bash",
@@ -728,7 +728,7 @@
                 "open_issues": 5,
                 "owner": "drduh",
                 "repo": "macOS-Security-and-Privacy-Guide",
-                "stars": 22578,
+                "stars": 22579,
                 "topics": [
                   "apple",
                   "checklist",
@@ -767,7 +767,7 @@
                 "open_issues": 27,
                 "owner": "usnistgov",
                 "repo": "macos_security",
-                "stars": 2517,
+                "stars": 2521,
                 "topics": [
                   "apple",
                   "bash",
@@ -880,11 +880,11 @@
                 "id": 58842707,
                 "language": "Python",
                 "license": "AGPL-3.0",
-                "last_commit": "2026-11-05T09:41:43Z",
-                "open_issues": 87,
+                "last_commit": "2026-11-06T09:14:40Z",
+                "open_issues": 89,
                 "owner": "trailofbits",
                 "repo": "algo",
-                "stars": 30450,
+                "stars": 30454,
                 "topics": [
                   "ansible",
                   "encryption",
@@ -917,7 +917,7 @@
                 "open_issues": 154,
                 "owner": "ValdikSS",
                 "repo": "GoodbyeDPI",
-                "stars": 28836,
+                "stars": 28845,
                 "topics": [
                   "anticensorship",
                   "censorship-circumvention",
@@ -940,10 +940,10 @@
                 "language": "Kotlin",
                 "license": "Apache-2.0",
                 "last_commit": "2026-10-26T17:43:11Z",
-                "open_issues": 659,
+                "open_issues": 662,
                 "owner": "celzero",
                 "repo": "rethink-app",
-                "stars": 5851,
+                "stars": 5853,
                 "topics": [
                   "android",
                   "android-app",
@@ -981,7 +981,7 @@
                 "open_issues": 48,
                 "owner": "darkweak",
                 "repo": "souin",
-                "stars": 1016,
+                "stars": 1017,
                 "topics": [
                   "cache",
                   "caddy",
@@ -1108,7 +1108,7 @@
                 "open_issues": 0,
                 "owner": "ihebski",
                 "repo": "DefaultCreds-cheat-sheet",
-                "stars": 6816,
+                "stars": 6818,
                 "topics": [
                   "blueteam",
                   "blueteam-tools",
@@ -1412,7 +1412,7 @@
                 "open_issues": 16,
                 "owner": "Ekultek",
                 "repo": "WhatBreach",
-                "stars": 1700,
+                "stars": 1698,
                 "topics": [
                   "breach",
                   "breaches",
@@ -1448,7 +1448,7 @@
                     "open_issues": 0,
                     "owner": "digitalisx",
                     "repo": "awesome-memory-forensics",
-                    "stars": 578,
+                    "stars": 579,
                     "topics": [
                       "awesome",
                       "awesome-list",
@@ -1495,7 +1495,7 @@
                     "open_issues": 5,
                     "owner": "drduh",
                     "repo": "macOS-Security-and-Privacy-Guide",
-                    "stars": 22578,
+                    "stars": 22579,
                     "topics": [
                       "apple",
                       "checklist",
@@ -1809,7 +1809,7 @@
                 "language": "Rust",
                 "license": "MIT",
                 "last_commit": "2026-10-05T22:09:19Z",
-                "open_issues": 120,
+                "open_issues": 121,
                 "owner": "a16z",
                 "repo": "helios",
                 "stars": 2196,
@@ -1891,7 +1891,7 @@
                     "open_issues": 11,
                     "owner": "OffcierCia",
                     "repo": "DeFi-Developer-Road-Map",
-                    "stars": 10893,
+                    "stars": 10895,
                     "topics": [
                       "awesome",
                       "awesome-list",
@@ -2056,7 +2056,7 @@
                     "open_issues": 252,
                     "owner": "undergroundwires",
                     "repo": "privacy.sexy",
-                    "stars": 6163,
+                    "stars": 6165,
                     "topics": [
                       "bloatware",
                       "bloatware-removal",
@@ -2152,7 +2152,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-05T22:12:35.122Z",
+    "last_updated": "2026-11-06T21:43:31.995Z",
     "original_repository_info": {
       "archived": false,
       "description": "Here we collect and discuss the best DeFi, Blockchain and crypto-related OpSec researches and data terminals - contributions are welcome.",
@@ -2164,7 +2164,7 @@
       "open_issues": 2,
       "owner": "OffcierCia",
       "repo": "Crypto-OpSec-SelfGuard-RoadMap",
-      "stars": 1896,
+      "stars": 1898,
       "topics": [
         "awesome-list",
         "blockchain",
